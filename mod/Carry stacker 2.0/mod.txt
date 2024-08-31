@@ -1,0 +1,20 @@
+{
+    "name": "Carry Stacker2.0",
+    "description": "A tool to Stack and secure bags",
+    "author": "Axneef",
+    "contact": "-",
+    "version": "1.0",
+    "blt_version": 2,
+    "priority": 100,
+    "keybinds": [
+        {
+            "keybind_id": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+            "name": "Open Carry stacker menu",
+            "description": "-",
+            "script_path": "carry_stacker.lua",
+            "run_in_menu": false,
+            "run_in_game": true,
+            "localized": false
+        }
+    ]
+}

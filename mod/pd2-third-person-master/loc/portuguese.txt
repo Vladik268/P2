@@ -1,0 +1,22 @@
+{
+	"ThirdPerson_menu_main_name" : "Third Person",
+	"ThirdPerson_menu_main_desc" : "Personalize as configurações da câmera de Terceira Pessoa",
+	"ThirdPerson_menu_third_person_start_in_tp" : "Começar em Terceira Pessoa",
+	"ThirdPerson_menu_third_person_start_in_tp_desc" : "Assim que o mapa começar, troca para a câmera da Terceira Pessoa",
+	"ThirdPerson_menu_third_person_immersive_first_person" : "Modo de Primeira Pessoa Imersiva",
+	"ThirdPerson_menu_third_person_immersive_first_person_desc" : "Alterna o modo da câmera para a Primeira Pessoa imersiva invés de Terceira Pessoa",
+	"ThirdPerson_menu_cam_x" : "Câmera horizontal",
+	"ThirdPerson_menu_cam_y" : "Câmera distância",
+	"ThirdPerson_menu_cam_z" : "Câmera altura",
+	"ThirdPerson_menu_first_person_on_steelsight" : "Mirar Ativa Primeira Pessoa",
+	"ThirdPerson_menu_first_person_on_downed" : "Incapacitado Ativa Primeira Pessoa",
+	"ThirdPerson_menu_third_person_crosshair" : "Exibir Mira em Terceira Pessoa",
+	"ThirdPerson_menu_third_person_crosshair_style" : "Estilo da Mira",
+	"ThirdPerson_menu_third_person_crosshair_size" : "Tamanho da Mira",
+	"ThirdPerson_menu_third_person_custom_weapons" : "Exibir Armas de Mods",
+	"ThirdPerson_menu_third_person_custom_weapons_desc" : "Permite exibir as armas que são de mods em Terceira Pessoa\nPode causar erros com as armas que não foram ajustadas para isso",
+	"ThirdPerson_menu_flip_camera_side" : "Trocar de Lado da Câmera",
+	"ThirdPerson_menu_flip_camera_side_desc" : "Tecla para trocar a posição da câmera horizontal",
+	"ThirdPerson_menu_toggle_cam_mode" : "Alternar o modo da Câmera",
+	"ThirdPerson_menu_toggle_cam_mode_desc" : "Tecla para alternar a câmera entre Primeira e Terceira Pessoa"
+}

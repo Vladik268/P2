@@ -1,0 +1,12 @@
+{
+	"name" : "Call Teammates in Stealth",
+	"description" : "",
+	"author" : "Sora",
+	"blt_version" : 2,
+    "hooks": [
+		{
+			"hook_id": "lib/units/beings/player/states/playerstandard",
+			"script_path": "playerstandard.lua"
+		}
+	]
+}

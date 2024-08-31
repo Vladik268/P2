@@ -1,0 +1,4 @@
+{
+	"menu_proving_grounds_start" : "Proving Grounds",
+	"menu_proving_grounds_start_help" : "Quick Start Proving Grounds"
+}

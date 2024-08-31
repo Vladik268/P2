@@ -1,0 +1,12 @@
+{
+  	"name" : "No Pager On Domination",
+    	"description" : "If a guard is dominated there's no pager,if he's killed the pager will activate",
+    	"author" : "Dovah"
+	"contact" : "",
+                  "blt_version" : 2,
+	"version" : "1.0",
+	"hooks" : [
+
+   { "hook_id" : "lib/units/enemies/cop/logics/coplogicintimidated", "script_path" : "npod.lua" }
+]
+}

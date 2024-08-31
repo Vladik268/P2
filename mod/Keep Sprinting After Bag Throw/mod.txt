@@ -1,0 +1,19 @@
+{
+	"name" : "Keep Sprinting After Bag Throw",
+	"description" : "Automatically resume sprinting after throwing light bags.",
+	"author" : "Offyerrocker",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.0.0",
+	"blt_version" : 2,
+	"color" : "255 128 0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playercarry",
+			"script_path" : "playercarry.lua"
+		}
+	]
+}
