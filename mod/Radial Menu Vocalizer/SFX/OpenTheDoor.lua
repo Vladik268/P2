@@ -1,1 +1,0 @@
-VoiceCommandsMod:say_line("v15")

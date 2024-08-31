@@ -1,1 +1,0 @@
-VoiceCommandsMod:say_line("Stop_all_music")

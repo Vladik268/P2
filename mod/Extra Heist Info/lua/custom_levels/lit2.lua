@@ -1,1 +1,0 @@
-EHI:Log("Level 'California Heat (Bonus)' loaded")
