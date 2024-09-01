@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<materials version="3">
+	<material name="mtr_body" render_template="generic:CONTOUR:DETAIL_NORMAL_TEXTURE_BLUE:DETAIL_NORMAL_TEXTURE_GREEN:DETAIL_NORMAL_TEXTURE_RED:DETAIL_RGB_MASK:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" version="2">
+		<diffuse_texture file="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_textures/acc_elegantscarf_orange_df"/>
+		<bump_normal_texture file="units/pd2_dlc_sbzac2/characters/sbzac2_acc_elegantscarf/shared_textures/acc_elegantscarf_nm"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+        <variable type="scalar" name="contour_distance" value="0"/>
+        <diffuse_layer0_texture file="units/pd2_dlc_sbzac2/characters/sbzac2_acc_elegantscarf/shared_textures/acc_elegantscarf_mask"/>
+        <normal_layer0_texture file="units/pd2_dlc_sbzac2/characters/shared_textures/detail_woolwoven_nm"/>
+        <normal_layer1_texture file="units/pd2_dlc_sbzac2/characters/shared_textures/detail_woolscarf_nm"/>
+        <normal_layer2_texture file="units/pd2_dlc_sbzac2/characters/shared_textures/detail_woolsuit_nm"/>
+        <variable type="vector3" name="red_detail_scale" value="36.009998321533 42.509998321533 0"/>
+        <variable type="scalar" name="red_detail_intensity" value="0.6000000089407"/>
+        <variable type="vector3" name="green_detail_scale" value="39.009998321533 42.009998321533 0"/>
+        <variable type="scalar" name="green_detail_intensity" value="1"/>
+        <variable type="vector3" name="blue_detail_scale" value="20.510000228882 23.510000228882 0"/>
+        <variable type="scalar" name="blue_detail_intensity" value="1"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT"/>
+</materials>

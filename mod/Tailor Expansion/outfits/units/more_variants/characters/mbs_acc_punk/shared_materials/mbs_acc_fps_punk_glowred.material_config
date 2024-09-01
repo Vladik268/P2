@@ -1,0 +1,14 @@
+<materials version="3" group="mbs_acc_fps_punk">
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM:SKINNED_3WEIGHTS" unique="true" name="mtr_arms" version="2">
+        <bump_normal_texture file="units/pd2_dlc_mbs/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_fps_blue_nm"/>
+        <diffuse_texture file="units/pd2_dlc_mbs/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_fps_default_df"/>
+        <self_illumination_texture file="units/more_variants/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_fps_glowred_il"/>
+        <variable type="scalar" name="il_bloom" value="9.999000474927"/>
+        <variable type="scalar" name="il_multiplier" value="neonsign"/>
+    </material>
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_gloves" version="2">
+        <bump_normal_texture file="units/pd2_dlc_mbs/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_gloves_nm"/>
+        <diffuse_texture file="units/pd2_dlc_mbs/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_gloves_df"/>
+    </material>
+    <material render_template="shadow_caster_only:SKINNED_1WEIGHT" version="2" name="shadow_caster"/>
+</materials>

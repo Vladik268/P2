@@ -1,0 +1,6 @@
+<materials version="3" group="hnd_glv_bonemittens">
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_gloves" version="2">
+        <bump_normal_texture file="units/more_variants/characters/hnd_glv_tipless/glv_tipless_nm"/>
+        <diffuse_texture file="units/more_variants/characters/hnd_glv_tipless/glv_tipless_joy_df"/>
+    </material>
+</materials>

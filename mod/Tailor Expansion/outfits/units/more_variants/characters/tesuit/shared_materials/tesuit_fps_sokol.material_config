@@ -1,0 +1,8 @@
+<materials version="3" >
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mat_player_tactical_outfit_fp" version="2">
+        <bump_normal_texture file="units/payday2/characters/shared_textures/fps_sleeve_2_nm"/>
+        <diffuse_texture file="units/payday2/characters/shared_textures/fps_sleeve_sokol_2_df"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+</materials>

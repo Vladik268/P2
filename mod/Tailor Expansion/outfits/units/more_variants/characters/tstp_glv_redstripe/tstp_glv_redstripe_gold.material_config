@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<materials version="3" group="tstp_glv_redstripe">
+	<material name="mtr_glove" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/more_variants/characters/tstp_glv_redstripe/tstp_glv_redstripe_gold_df"/>
+		<bump_normal_texture file="units/pd2_dlc_tstp/characters/tstp_glv_redstripe/tstp_glv_redstripe_nm"/>
+		<material_texture file="units/pd2_dlc_tstp/characters/tstp_glv_redstripe/tstp_glv_redstripe_gsma"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT"/>
+</materials>

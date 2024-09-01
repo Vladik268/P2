@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<materials version="3">
+	<material name="mtr_fpsarms" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/more_variants/characters/ccmt_acc_bunny/shared_textures/acc_bunny_cloaker_fps_df"/>
+		<bump_normal_texture file="units/pd2_dlc_ccmt/characters/ccmt_acc_bunny/acc_bunny_fps_nm"/>
+		<self_illumination_texture file="units/more_variants/characters/ccmt_acc_bunny/shared_textures/acc_bunny_cloakerred_fps_il"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+        <variable type="scalar" name="il_bloom" value="9.999000474927"/>
+        <variable type="scalar" name="il_multiplier" value="neonsign"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT"/>
+</materials>

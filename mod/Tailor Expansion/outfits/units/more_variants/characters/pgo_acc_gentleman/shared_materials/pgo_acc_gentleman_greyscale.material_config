@@ -1,0 +1,9 @@
+<materials version="3" group="pgo_acc_gentleman">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_body" unique="true" version="2">
+        <bump_normal_texture file="units/pd2_dlc_pgo/characters/pgo_acc_gentleman/shared_textures/acc_gentleman_default_nm"/>
+        <diffuse_texture file="units/more_variants/characters/pgo_acc_gentleman/shared_textures/acc_gentleman_greyscale_df"/>
+        <material_texture file="units/pd2_dlc_pgo/characters/pgo_acc_gentleman/shared_textures/acc_gentleman_default_gsma"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+</materials>

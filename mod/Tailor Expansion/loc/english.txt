@@ -1,0 +1,2462 @@
+{
+	"bm_suit_var_jumpsuit_purpol": "Bodhi's Pest Control",
+	"bm_suit_var_jumpsuit_purpol_desc": "At around the end of October, the PAYDAY Gang received a tip about a lucrative opportunity to rob a meth lab. As Bain fumbled around with his pen and paper searching for a plan, Dallas had an idea. With a twinkle in his eye he commanded, 'Shut the fuck up.' He continued, 'I have a plan that's worked before, and it's gonna work again'. It turns out, the meth lab had a bit of a tarantula infestation. However, there wasn't a bug problem that Bodhi's Pest Control couldn't fix. At precisely 9:30 PM, the gang entered the house in full uniform. The nice owner of the house led them to the lab. The four clowns were shocked at what stood before them. Unfortunately, the plan went sour when Wolf opened fire on a tarantula perched on the side of the table. He still insists it got away."
+
+	"bm_suit_var_jumpsuit_dark": "One-Forty-Fiver",
+	"bm_suit_var_jumpsuit_dark_desc": "OVERKILL. That's what the numbers one-four-five represent. They describe a heister so stone cold, that one might think they have a deathwish. Let it be known; heisters who don this outfit truly have a criminal's ambition."
+
+	"bm_suit_var_jumpsuit_hox": "Hazelton Hellraiser",
+	"bm_suit_var_jumpsuit_hox_desc": "Up to this point, Hoxton had endured bleach poured in his eyes, a near fatal amount of toothbrush stab wounds, and more beatings from the prison guards than Hoxton himself inflicted on Matt Roscoe. Usually he would feel miserable, but he had recently received a bit of info that brought him right back to the good old days. As he sat in his cell and put the finishing touches on his new mask, he smirked and wondered how his old crew could even think about replacing him."
+
+	"bm_suit_var_jumpsuit_hazmat": "Hazmat Heister",
+	"bm_suit_var_jumpsuit_hazmat_desc": "The hazmat suit has all kinds of uses: handling radioactive materials, disposing human waste, inspecting alien artifacts, the usual. Bain has had these in storage for a while just in case anything hazmat-worthy comes up. Hopefully, that never happens."
+
+	"bm_suit_var_jumpsuit_dollar": "Dollar Bills",
+	"bm_suit_var_jumpsuit_dollar_desc": "Jimmy claims that wearing this will help one stay camouflaged when emptying out bank vaults, but no one wants to put his theory up to the test."
+
+	"bm_suit_var_jumpsuit_pink": "Ignition",
+	"bm_suit_var_jumpsuit_pink_desc": "A crew out of Denver years back ran with pink attire -- apparently, in the leader's words, it 'blended nicely with the blood.' \n\They're a local legend in those parts, infamous for crashing parties for the rich and raiding banks, and their brand of bombastic pink is sure to make anyone familiar with their escapades reach for the sky."
+
+	"bm_suit_var_miami_shun": "Millenium Crimson",
+	"bm_suit_var_miami_shun_desc": "To pull off an outfit like this, you need to have status, and a lot of cash. As a member of the PAYDAY gang, both are easily obtainable. Heisters that are this fashionable are sure to make it rain."
+
+	"bm_suit_var_miami_dust": "Dust Drifter",
+	"bm_suit_var_miami_dust_desc": "Sometimes, you just gotta unwind. You might catch a man named Nathan Steele down at the bar wearing this after an exhausting bank withdrawal. Nobody knows a lot about him, except that he has a bad smoking habit. But one thing's for certain; he's gone drifting."
+
+	"bm_suit_var_miami_ocean": "Ocean Breeze",
+	"bm_suit_var_miami_ocean_desc": "Wearing this outfit means that you know how to keep a cool head in dangerous situations and go with the flow. In the middle of bulldozers screaming, Cloakers charging, and drills jamming, all you could do is close your eyes and listen to the ocean."
+
+	"bm_suit_var_miami_inv": "Greyscale",
+	"bm_suit_var_miami_inv_desc": "A great choice for those who want to be intimidating, discreet, and professional, all at the same time. Often spotted carrying suspicious briefcases and speaking into an earpiece. As far as anyone else is concerned, you never existed."
+
+	"bm_suit_var_miami_writer": "The Writer",
+	"bm_suit_var_miami_writer_desc": "Evan Wright, former war journalist. These days, a naive writer who's found himself knee deep in something far beyond his comprehension. He stared at the motionless mobster he had brutalized moments before. 'Somebody, call an ambulance! There's been an accident!' he cried helplessly. No answer. He stepped over the lifeless corpse and burst through the front door, only to find some unexpected guests armed with baseball bats and fully-automatic machine guns. The Writer knew there was only one way he would get the answers he desired..."
+
+	"bm_suit_var_miami_rat": "The Rat",
+	"bm_suit_var_miami_rat_desc": "Richter Berg, a tough guy who takes orders from no one, until now. When he received a strange call from an intimidating individual, he knew he didn't have much of a choice. Much like another masked maniac, Richter obediently followed the mysterious caller's murderous demands with deadly efficiency."
+
+	"bm_suit_var_miami_gang": "The Gangster",
+	"bm_suit_var_miami_gang_desc": "The remnants of an old group of mobsters who were wiped out by a particularly ruthless detective. They couldn't hit the broad side of a barn if their life depended on it, but they knew how to dress with style. It took days to clean the blood stains from this outfit."
+
+	"bm_suit_var_miami_dragon": "Friday Night",
+	"bm_suit_var_miami_dragon_desc": "Alone on a Friday night? \n\ \n\Just remember these clowns."
+
+	"bm_suit_var_miami_legend": "Essence of Fashion",
+	"bm_suit_var_miami_legend_desc": "A suit that represents a man who prefers to solve situations with his fists, but is also a softie at heart. A legendary karaoke king who always seems to be pulled into problems that aren't his own."
+
+	"bm_suit_var_miami_detective": "The Detective",
+	"bm_suit_var_miami_detective_desc": "Manny Pardo, the lead detective on the frightening case of the Miami Mutilator. A bit of a controversial figure, with rumors floating around about his questionable methods. Regardless, he gets the job done, albeit crossing multiple lines of red tape. Despite the detective's debatable moral standing, one thing's for certain; he was born with thick skin. "
+
+	"bm_suit_var_clown_noir": "D.C. Noire",
+	"bm_suit_var_clown_noir_desc": "Lieutenant Garrett surveyed the scene of yet another break-in. Every single valuable item was plucked clean from the jewelry store. As usual, no finger prints were found, and the camera footage was unusable. This wasn't the first time, and it certainly wouldn't be the last. The grudge-bearing lieutenant knew that someday, he would be the one to put the culprits behind bars."
+
+	"bm_suit_var_clown_charcoal": "The Night",
+	"bm_suit_var_clown_charcoal_desc": "Years ago, there were rumors of some psycho vigilante beating the living crap out of various criminals. Kept saying something about 'vengeance' and being scared of bats. Nobody's really sure how, but he really kept the streets of D.C. relatively clean for a while, until the PAYDAY gang came along. Houston still likes to brag about the day he scared off the 'Bat-Fiend' just by pelting him with money bundles."
+
+	"bm_suit_var_clown_winters": "Cold Winters",
+	"bm_suit_var_clown_winters_desc": "Neville Winters was dumbfounded that it's taken D.C. since 2011 to arrest a group of circus performers. The future captain had no idea what he was in for."
+
+	"bm_suit_var_clown_cloud": "Special Occasion",
+	"bm_suit_var_clown_cloud_desc": "When the PAYDAY gang is hitting more classy establishments, they like to break out the three-piece suits instead of the typical two-piece. It's not very comfortable, but who cares about comfort when you look this fancy? This is Chains' three-piece, only for special occasions."
+
+	"bm_suit_var_clown_enigma": "The Puzzler",
+	"bm_suit_var_clown_enigma_desc": "The most puzzling thing about this individual is his tendency to leave clues behind at every one of his crime scenes. A watch here, a monkey statue there, and even some playing cards across the floor, accompanied by the message: \n\ \n\'Can you solve my riddle?' \n\ \n\The police analyzed the finger prints and found him in less than 24 hours."
+
+	"bm_suit_var_peacoat_ladybug": "Snake Eyes",
+	"bm_suit_var_peacoat_ladybug_desc": "Bonnie's gambling addiction led her to an underground casino in one of the shadier parts of DC. After ordering a few drinks, she participated in a game of Texas Hold-em that turned out to be completely rigged against her favor. Naturally, Bonnie walked out of the casino five minutes later with a fancy new suit and a hefty bundle of cash. When the police later investigated the crime scene, the one detail that stuck out to them the most was the fact that all the victims died from blunt force trauma, despite each of them having a gun."
+
+	"bm_suit_var_peacoat_grass": "Greenback",
+	"bm_suit_var_peacoat_grass_desc": "Contrary to popular belief, the PAYDAY gang does not only heist for the sheer thrill of it, but also out of necessity. First of all, the safehouse's rent is absolutely through the roof. Keeping the lights on in that place isn't free. Plus, who's gonna pay for Wolf's hardware? Sydney's art supplies? Jacket's tape recorders? It doesn't help that the money is constantly being gambled away or spent on cigarettes. And of course, there's twenty-two mouths to feed. On top of all of this, Bain gets suspiciously quiet when asked about the whereabouts of the gang's offshore cash."
+
+	"bm_suit_var_peacoat_purple": "Practical Purple",
+	"bm_suit_var_peacoat_purple_desc": "Unlike Vlad, Jimmy's party attire is at least passable. Jimmy could often be found lying motionlessly on the floor wearing this very peacoat. For your own safety, do not try to wake him up."
+
+	"bm_suit_var_peacoat_sky": "Breaking Point",
+	"bm_suit_var_peacoat_sky_desc": "Houston's life was in shambles. No education, no job, and no one he could trust. Of course, he was hundreds- no, THOUSANDS in debt from slimy loan sharks. He knew he couldn't go on like this much longer, but he didn't have much of a choice. As Houston dialed the loan company's phone number to beg for yet another deadline extension, he received a curious text message from an older brother he hadn't spoken to in years..."
+
+	"bm_suit_var_peacoat_vlad": "Uninvited Guest",
+	"bm_suit_var_peacoat_vlad_desc": "Parties hosted at the gang's safehouse have only one strict rule: don't tell Vlad. Of course, the truth can slip through occasionally, and Vlad will decide to invite himself anyway, much to the dismay of everyone else. He drinks enough to make even Duke recoil in disgust, and his awful dancing skills make Wolf's violent swinging on the dance floor look good. And of course, Vlad always has a way of digging up quite possibly the gaudiest outfits known to man. Hopefully, he won't notice this one's missing."
+
+	"bm_suit_var_continental_default": "The Anniversary",
+	"bm_suit_var_continental_default_desc": "The original suit Hoxton stole in a panic to hide from the heat, and miraculously succeeded. With its distinct gold accents, this getup barely walks the line between classy and gaudy. But that's nothing new for the PAYDAY gang."
+
+	"bm_suit_var_continental_dallas": "The Mastermind",
+	"bm_suit_var_continental_dallas_desc": "As second-in-command to the PAYDAY gang, Dallas can afford to treat himself to a fancy new suit every so often. With its intricately woven vicuña yarn, this suit is easily worth more than one individual could make in their lifetime. Speaking of lifetime, it's rumored that one crew member in training may have had theirs cut short for spilling their drink on it during a party."
+
+	"bm_suit_var_continental_assassin": "The Hitman",
+	"bm_suit_var_continental_assassin_desc": "Dragan and Wick like to hang around in the safehouse living room and reminiscence from time to time. During one fateful session, Dragan could not believe what he was hearing. 'Really, John? You killed those guys with a pencil?' Wick shrugged. 'I guess they got the point, right, Dragan?' This awful, irredeemable pun caused a rift in their friendship that spanned several months."
+
+	"bm_suit_var_continental_rose": "The Flamingo",
+	"bm_suit_var_continental_rose_desc": "Another PAYDAY gang member who didn't make the cut. They were a little too obsessed with dressing as flashy and stylish as possible. Unfortunately, they made the mistake of commenting on Jacket's unconventional heisting attire, and Locke had to do the dirty work of making sure this former criminal could seek asylum somewhere Jacket wouldn't find them."
+
+	"bm_suit_var_continental_sokol": "The Grinder",
+	"bm_suit_var_continental_sokol_desc": "Sokol wonders how the hell he became the 'hockey guy' of the crew. Did everyone just forget he engineered the BFD? Whenever the safehouse power goes out, Wolf is usually too busy figuring out ways to make the drills jam more often, so it's usually Sokol's (thankless) job to deal with it. Oh well, at least he has the highest score on the hockey machine."
+
+	"bm_suit_var_continental_houston": "The Ghost",
+	"bm_suit_var_continental_houston_desc": "Houston, formerly known as Hoxton, had some important shoes to fill. He was disappointed to find out that his role in the gang was a little quieter than he had hoped. His brother Nathan sold him on the idea of going on adrenaline pumping heists with guns blazing, but here he was, screwing a suppressor onto his Chimano 88. At least it's better than his old life, he rationalized to himself."
+
+	"bm_suit_var_continental_enforcer": "The Enforcer",
+	"bm_suit_var_continental_enforcer_desc": "The PAYDAY gang's favorite pastime was robbing the Harvest & Trustee Bank for what could plausibly be the millionth time. The payoff usually wasn't that great and the ceiling was lined with asbestos, but it was the easiest way to get some pocket change for lunch afterward. That was until Chains stumbled upon his three crewmates wounded on the pavement at the feet of a new, powerful foe, marked with an intimidating skull on his mask. The two KSP wielding titans faced each other for a moment, and knew only one of them would get out of this one alive..."
+
+	"bm_suit_var_continental_hox": "The Fugitive",
+	"bm_suit_var_continental_hox_desc": "The crew would not stop laughing at Hoxton's new Anniversary suit. Even Houston joined in and called him a 'fucking checkerboard'. Hoxton eventually caved in and agreed that he could use some less garish clothing. After stealing Houston's credit card, Hoxton went and got himself this fashionable new outfit."
+
+	"bm_suit_var_continental_wolf": "The Technician",
+	"bm_suit_var_continental_wolf_desc": "Wolf felt a little bit left out when the rest of the gang got new threads and he didn't. So like any sane, reasonable person would, he went out and splurged on one. He even went out for ice cream afterward! \n\ \n\Anyway, he wedged a thermal drill between a Bulldozer's eyes the morning after."
+
+	"bm_suit_var_continental_dragan": "The Infiltrator",
+	"bm_suit_var_continental_dragan_desc": "Dragan could not believe that Wick would tell him such an awful pencil pun. Frequently he would step outside the safehouse to vent to The Butcher about his shattered friendship with Wick. After The Butcher reminded Dragan about the time he asked the pager operator 'what does the fox say' Dragan promptly went to apologize to Wick."
+
+	"bm_suit_var_continental_wildcard": "The Wildcard",
+	"bm_suit_var_continental_wildcard_desc": "A suit that was worn by a heister who was too much of a prankster for their own good. After purposefully spilling their drink on Dallas' one-of-a-kind suit during their crew member initiation party, they disappeared. Maybe you can carry their legacy."
+
+	"bm_suit_var_continental_conman": "The Con Artist",
+	"bm_suit_var_continental_conman_desc": "A ladies' man with a silver tongue and a knack for causing trouble. This felon has had his fair share of run-ins with the law. Commonly found stealing money from people who were gullible enough to trust him. \n\ \n\A mysterious call from a man called 'Bain' encouraged this drifter to rethink his whole strategy."
+
+	"bm_suit_var_continental_duke": "The Stoic",
+	"bm_suit_var_continental_duke_desc": "Duke already knows damn well how to dress, and he wouldn't be caught dead wearing anything less than a fortune, but another expensive suit never hurt anyone."
+
+	"bm_suit_var_continental_negative": "The Negative",
+	"bm_suit_var_continental_negative_desc": "It's hard to stay positive in one hundred degree weather wearing a two-piece suit, a full suit of armor, two weapons, a money bag, and a doctor bag all at once, all while being shot at from all directions. Thankfully, Dallas is always there to encourage the rest of the team to pick up the pace and keep things moving when Bain gets up from the computer to microwave another TV dinner."
+
+	"bm_suit_var_continental_chicken": "The Sociopath",
+	"bm_suit_var_continental_chicken_desc": "About a month after the gang had their expensive suit shopping spree, Jacket was seen around the safehouse wearing this unique attire, playing and rewinding pickup lines and Bond quotes on his tape recorder. He may not have the fashion sense, but he certainly has the spirit. It wouldn't be a smart idea to criticize his outfit of choice anyway."
+
+	"bm_suit_var_gentleman_smokin": "Cuban Pete",
+	"bm_suit_var_gentleman_smokin_desc": "It's PAYDAY time! \n\P-A-Y-D-A... Y?  \n\Because I gotta!"
+
+	"bm_suit_var_gentleman_vengeance": "Red Revengeance",
+	"bm_suit_var_gentleman_vengeance_desc": "An outlaw once said revenge is a fool's errand, but when your old train robbing gang betrays you and leaves you on your own, what's a gunslinger to do?"
+
+	"bm_suit_var_gentleman_board": "Private Eye",
+	"bm_suit_var_gentleman_board_desc": "Perfect for meticulously searching for clues on a drab, rainy day."
+
+	"bm_suit_var_gentleman_marble": "Grey Area",
+	"bm_suit_var_gentleman_marble_desc": "For the wanderers of the west who don't feel the need to be the 'good' or 'bad' guy."
+
+	"bm_suit_var_gentleman_raspberry": "Dead Roses",
+	"bm_suit_var_gentleman_raspberry_desc": "Some may say that the rose is a symbol of love, a gift meant for someone special. To you, it's a calling card."
+
+	"bm_suit_var_gunslinger_mojave": "Arizona Ranger",
+	"bm_suit_var_gunslinger_mojave_desc": "An outlaw named Texas Red met his demise when he attempted to outgun the legendary Arizona Ranger."
+
+	"bm_suit_var_gunslinger_macca": "Rocky Racoon",
+	"bm_suit_var_gunslinger_macca_desc": "Around the mountain hills of Dakota, a young man with an aura of vengeance walked into his room only to find Gideon's bible."
+
+	"bm_suit_var_punk_revolution": "Shot Through The Heart",
+	"bm_suit_var_punk_revolution_desc": "You didn't read it here, but rumor has it that Houston is actually a huge Bon Jovi fan. The rest of the gang hears his awful singing from the other room on a weekly basis, but nobody has the heart to tell him that. Duke thought about breaking the news to Houston for a while, but ultimately decided it wasn't worth the risk of exposing someone who could pick any lock he wanted. As of writing this, Houston's most played song on his Pear playlist is 'It's My Life'."
+
+	"bm_suit_var_punk_carrot": "Carrot Orange",
+	"bm_suit_var_punk_carrot_desc": "Remember to eat your veggies, or it won't be a Cloaker that'll be kicking your ass, it'll be a combination of your poor eyesight from a lack of carrot consumption and poor life choices."
+
+	"bm_suit_var_punk_pink": "Night Runner",
+	"bm_suit_var_punk_pink_desc": "Chase down what you seek, no matter the danger. Get knocked down? Get back up, and lick those wounds. Burn the night with bold color."
+
+	"bm_suit_var_punk_green": "Green Apple",
+	"bm_suit_var_punk_green_desc": "Someone keeps adding Green Day to the safehouse Pear playlist. None of the crew can stand it, and it's a mystery who listens to Green Day in their free time. There's been fingers pointed at Sydney, Hoxton, Joy, and the other usual suspects, but nobody has admitted to their sins yet. Duke continues to complain about whatever's playing on the speakers regardless, and tries to drown it out with orchestra music on his record player. Everyone makes fun of him."
+
+	"bm_suit_var_punk_queen": "Queen of Hearts",
+	"bm_suit_var_punk_queen_desc": "Dragan is always the one to sing 'of the world' at the end of 'We are the Champions', even though it wasn't there in the first place. Wick thinks it ruins the song, but Dragan loves the attention it gets him."
+
+	"bm_suit_var_punk_sky": "Mister Blue Sky",
+	"bm_suit_var_punk_sky_desc": "Bile likes to turn on classic pop music in his helicopter during particularly risky heists. There's nothing like some classic tunes to keep him focused in the midst of 5.56 ricocheting off his propellers."
+
+	"bm_suit_var_punk_violet": "Void Beast",
+	"bm_suit_var_punk_violet_desc": "Nobody is sure where natural purple leather came from.  Perhaps genetic testing for the sake of new fashion materials?  Or some expensive dye process?
+
+No matter, sport those colors.  Be the beast it belongs to."
+
+	"bm_suit_var_hiphop_lake": "Laundromat Blues",
+	"bm_suit_var_hiphop_lake_desc": "This comfy outfit belonging to Jiro used to be white, but unfortunately, Jiro trusted his laundry with the wrong crew member. Sydney is no longer allowed to run the safehouse washing machine."
+
+	"bm_suit_var_hiphop_flavor": "Flavorville",
+	"bm_suit_var_hiphop_flavor_desc": "Dragan's obnoxious Fry Pieri phase came to an abrupt and tragic end when he shattered the safehouse bathroom scale. He's taken up weight-lifting ever since. This ancient shirt was found shoved behind several sets of identical burgundy suits."
+
+	"bm_suit_var_hiphop_purple": "Royal Purple",
+	"bm_suit_var_hiphop_purple_desc": "Purple has been viewed historically as a symbol of wealth and power. Thankfully, the PAYDAY crew has both of these, and they're not afraid to show it off. This is a far more comfy solution versus an expensive three piece suit."
+
+	"bm_suit_var_hiphop_orange": "Nacho Cheese",
+	"bm_suit_var_hiphop_orange_desc": "Aldstone fantasizes about the day he finally catches the dastardly son of a bitch who's been getting cheese dust all over the safehouse furniture."
+
+	"bm_suit_var_cartelboss_edgy": "Bleeding Edge",
+	"bm_suit_var_cartelboss_edgy_desc": "The man in the clown mask and beige suit smirked, did a backflip, a front flip, a 360, another front flip, teleported, and sliced twenty bulldozers with his katana.  \n\ \n\'It's not personal or anything, buddy.'"
+
+	"bm_suit_var_cartelboss_default": "The Boss",
+	"bm_suit_var_cartelboss_default_desc": "The infamous suit that once struck fear into the hearts of many. Not recommended as a swimsuit."
+
+	"bm_gloves_biker_grey": "Charcoal Hardtail",
+	"bm_gloves_biker_grey_desc": "For the no-nonsense type of heister."
+
+	"bm_gloves_biker_yellow": "Wasp Hardtail",
+	"bm_gloves_biker_yellow_desc": "Sucker punches from these gloves sting."
+
+	"bm_gloves_biker_purple": "Lilac Hardtail",
+	"bm_gloves_biker_purple_desc": "Not an easy color to pull off, but incredibly stylish with the right fashion sense."
+
+	"bm_gloves_biker_lime": "Lime Hardtail",
+	"bm_gloves_biker_lime_desc": "Why?"
+
+	"bm_gloves_biker_cherry": "Dragster Hardtail",
+	"bm_gloves_biker_cherry_desc": "Suited for mach speeds."
+
+	"bm_gloves_biker_blueberry": "Speedy Hardtail",
+	"bm_gloves_biker_blueberry_desc": "It is not advised to drift in the escape van."
+
+	"bm_gloves_kidswool_blue": "Novice",
+	"bm_gloves_kidswool_blue_desc": "Sydney loved Joy's cat gloves so much that she just had to get a pair of her own."
+
+	"bm_gloves_kidswool_purple": "Beginner",
+	"bm_gloves_kidswool_purple_desc": "Can't choose between pink or blue? Here's a compromise."
+
+	"bm_gloves_kidswool_black": "Semi-Pro",
+	"bm_gloves_kidswool_black_desc": "You've graduated from the pink gloves, but you still have a soft spot for your humble beginnings."
+
+	"bm_gloves_driverleather_black": "Black Leather Getaway",
+	"bm_gloves_driverleather_black_desc": "For those late night escape missions."
+
+	"bm_gloves_murkygloves_black": "Gunner",
+	"bm_gloves_murkygloves_black_desc": "Nothing says tactical like black military gloves."
+
+	"bm_gloves_saintsleather_matt": "Usual Suspect",
+	"bm_gloves_saintsleather_matt_desc": "Matt won't be needing these gloves anymore."
+
+	"bm_gloves_hockey_white": "Snowy Cross Check",
+	"bm_gloves_hockey_white_desc": "Lost your hockey game? Guess you could always go outside and pelt the other team with snowballs."
+
+	"bm_gloves_tactical_black": "Night Ops",
+	"bm_gloves_tactical_black_desc": "Haven't seen the Night Ops team on a heist yet? Good, they're doing their job."
+
+	"bm_gloves_sportsbike_blue": "Blue Windriders",
+	"bm_gloves_sportsbike_blue_desc": "This was part of a two for one special with the red Windriders. Even the PAYDAY gang can't resist a good deal."
+
+	"bm_gloves_chopper_black": "Simpler Simple Black",
+	"bm_gloves_chopper_black_desc": "Simple Black was simply not tactical and assassin-like enough."
+
+	"bm_suit_var_slaughterhouse_default": "Slaughterhouse Special",
+	"bm_suit_var_slaughterhouse_default_desc": "The tried and true heisting attire boasting comfort and flexibility."
+
+	"bm_suit_var_slaughterhouse_gensec": "Night Shift",
+	"bm_suit_var_slaughterhouse_gensec_desc": "When in a particularly risky stealth job, it's important to blend in. Luckily, Houston just so happened to come across one of these in a pinch. Thankfully the blood stains don't show up on the red fabric."
+
+	"bm_suit_var_slaughterhouse_tactical": "Tac-Ops",
+	"bm_suit_var_slaughterhouse_tactical_desc": "Who cares if it's over a hundred degrees outside? All the professional operators know that more layers = more tactical."
+
+	"bm_suit_var_slaughterhouse_white": "Hasty Attire",
+	"bm_suit_var_slaughterhouse_white_desc": "This is the kind of thing you wear when Bain tells you on short notice to get the fuck up at 6 in the morning because the feds decided to raid the safehouse for the thousandth time this week."
+
+	"bm_suit_var_slaughterhouse_blue": "Classic Blue",
+	"bm_suit_var_slaughterhouse_blue_desc": "An old sneaking suit of Hoxton's before the whole prison and subsequently escaping from prison thing. Made obsolete by later stealth suit designs, but is still nice to keep around."
+
+	"bm_suit_var_slaughterhouse_green": "Desert Warfare",
+	"bm_suit_var_slaughterhouse_green_desc": "A combat uniform fit for dry, scorching hot climates. Speaking of which, maybe someone should finally get around to fixing the safehouse air conditioner."
+
+	"bm_suit_var_slaughterhouse_purple": "Bodacious Purple",
+	"bm_suit_var_slaughterhouse_purple_desc": "A bold choice for the heisters who prefer style over substance."
+
+	"bm_suit_var_slaughterhouse_orange": "Autumn Orange",
+	"bm_suit_var_slaughterhouse_orange_desc": "Possibly a risky choice with how much easier it is to pick you out of the chaos. On the bright side, maybe Wolf will be less likely to accidentally clip you with buckshot rounds."
+
+	"bm_suit_var_slaughterhouse_yellow": "Yellow Jacket",
+	"bm_suit_var_slaughterhouse_yellow_desc": "Whenever the occasional wasp or killer bee makes its way into the safehouse, Jacket is usually the one the gang summons to handle it. Rather than outright killing it, Jacket simply picks it up, lets it crawl around on his hand for a while so he can inspect it, and lets it free outside. Whether this is a case of superior resolve or a lack of fear altogether is up in the air."
+
+	"bm_suit_var_slaughterhouse_brown": "Chestnut Brown",
+	"bm_suit_var_slaughterhouse_brown_desc": "A respectable alternative to drab shades of grey and black that still keeps it discreet and professional."
+
+	"bm_suit_var_slaughterhouse_pink": "Flamingo Pink",
+	"bm_suit_var_slaughterhouse_pink_desc": "One of Jimmy's favorite outfits to wear out on heists. When the rest of the crew questions him on his choice of apparel, Jimmy just acts clueless."
+
+	"bm_suit_var_slaughterhouse_phoenix": "Rush B",
+	"bm_suit_var_slaughterhouse_phoenix_desc": "'Pick up a wheel gun!' he shouts. I don't even know what that means!"
+
+	"bm_suit_var_slaughterhouse_breeze": "Pastel Blue",
+	"bm_suit_var_slaughterhouse_breeze_desc": "A stylish shade of blue for heisters looking for something more unique."
+
+	"bm_suit_var_slaughterhouse_biker": "The Biker",
+	"bm_suit_var_slaughterhouse_biker_desc": "Incredibly deadly with a cleaver and a set of throwing knives."
+
+	"bm_suit_var_winter_suit_default": "Snow",
+	"bm_suit_var_winter_suit_default_desc": "A comfortable winter camo parka that helps the wearer blend in with snowy environments. Helps make temperatures below zero slightly more bearable."
+
+	"bm_suit_var_winter_suit_black": "Sleet",
+	"bm_suit_var_winter_suit_black_desc": "Who needs to blend in? This darker digital camo is cutting edge. After all, style points matter too."
+
+	"bm_suit_var_murky_suit_default": "Murkywater Grunt",
+	"bm_suit_var_murky_suit_default_desc": "Everyone's favorite Shadow Raid encounter. These guys aren't paid enough to deal with freaks in clown masks, and by the time they notice there's an intruder, it's too late."
+
+	"bm_suit_var_murky_suit_kento": "Murkywater Elite",
+	"bm_suit_var_murky_suit_kento_desc": "Not much is known about this elusive branch of the Murkywater PMC since it tends to keep its operations top-secret. Rumor has it that these guys know how to make someone disappear for the right price."
+
+	"bm_suit_var_murky_suit_cloak": "Murkywater Spec-Ops",
+	"bm_suit_var_murky_suit_cloak_desc": "The Spec-Ops branch of the Murkywater PMC will keep you guessing whether you saw a bush, an animal, or an assassin waiting for the perfect moment to take you out."
+
+	"bm_suit_var_murky_suit_forest": "Murkywater Forest Unit",
+	"bm_suit_var_murky_suit_forest_desc": "You may find these squads hiding up north in greener areas. Highly trained in survival skills and known for keeping grizzly bears as pets."
+
+	"bm_suit_var_murky_suit_snow": "Murkywater Arctic Squad",
+	"bm_suit_var_murky_suit_snow_desc": "Cryptozoologists would be thrilled to find out that the yeti does, or rather, did exist. Unfortunately, the vicious beast's hide is now found in these comfy uniforms."
+
+	"bm_suit_var_murky_suit_urban": "Murkywater City Force",
+	"bm_suit_var_murky_suit_urban_desc": "An early competitor to GenSec. The division ultimately went under due to GenSec's unwavering popularity with security and law enforcement."
+
+	"bm_suit_var_murky_suit_light": "Murkywater Lightweight",
+	"bm_suit_var_murky_suit_light_desc": "This unit tends to travel light in order to maximize their scouting efficiency. Very quick on their feet."
+
+	"bm_suit_var_poolrepair_default": "Bodhi's Pool Repair",
+	"bm_suit_var_poolrepair_default_desc": "The perfect trojan horse for stealing counterfeit bills. Extremely convincing."
+
+	"bm_suit_var_poolrepair_clean": "Squeaky Clean",
+	"bm_suit_var_poolrepair_clean_desc": "Turns out, the biggest loss from moving safehouses is no longer having the laundromat. It's about time these uniforms ran through the washing machine."
+
+	"bm_suit_var_poolrepair_blue": "Repairman's Blues",
+	"bm_suit_var_poolrepair_blue_desc": "It's a pain when you're just an innocent repairman trying to fix someone's pool and a bulldozer keeps turning off the water valve. What gives?"
+
+	"bm_suit_var_poolrepair_brown": "Dirty Job",
+	"bm_suit_var_poolrepair_brown_desc": "Being a pool repairman isn't the cleanest job in the world, but it sure pays well. The constant gunfire is worth it for the diamonds."
+
+	"bm_suit_var_poolrepair_green": "Grassy",
+	"bm_suit_var_poolrepair_green_desc": "How could a millionaire like Mitchell let his yard die after merely 4 years? Money can't fix laziness."
+
+	"bm_suit_var_tux_default": "Heister's Choice",
+	"bm_suit_var_tux_default_desc": "The selected heister's favorite color."
+
+	"bm_suit_var_tux_chalk": "Pearl White",
+	"bm_suit_var_tux_chalk_desc": "A bold choice that will turn heads with the right amount of confidence... and cash."
+
+	"bm_suit_var_tux_coal": "Jet Black",
+	"bm_suit_var_tux_coal_desc": "A tried and true classic. Stylish and surprisingly comfortable when taken on heists."
+
+	"bm_suit_var_scrub_default": "Heister's Choice",
+	"bm_suit_var_scrub_default_desc": "The selected heister's favorite color."
+
+	"bm_suit_var_scrub_mint": "Minty Green",
+	"bm_suit_var_scrub_mint_desc": "Don't you just hate it when your dentist starts rambling about robbing casinos and breaking people out of prison?"
+
+	"bm_suit_var_scrub_grape": "Grape Purple",
+	"bm_suit_var_scrub_grape_desc": "Remember to eat your fruits and vegetables, it might save you from a visit to the Mercy Hospital."
+
+	"bm_suit_var_scrub_blueberry": "Rubber Glove Blue",
+	"bm_suit_var_scrub_blueberry_desc": "Each member of the PAYDAY gang always remembers to wear the standard blue gloves to protect their identity... or at least they used to."
+
+	"bm_suit_var_scrub_bright": "Bright Blue",
+	"bm_suit_var_scrub_bright_desc": "Standard medical scrubs that are great for blending in, but unfortunately aren't very good against Witch claws."
+
+	"bm_suit_var_raincoat_default": "Waterproof",
+	"bm_suit_var_raincoat_default_desc": "A far better option than ruining a two-piece suit in the rain."
+
+	"bm_suit_var_raincoat_blue": "Rainy Day",
+	"bm_suit_var_raincoat_blue_desc": "Feeling blue on a rainy day because the PAYDAY gang blew up the bridge you take on your way to work? Should've left the house earlier."
+
+	"bm_suit_var_raincoat_green": "Green Bridge",
+	"bm_suit_var_raincoat_green_desc": "The joke was inevitable."
+
+	"bm_suit_var_raincoat_purple": "Mr. Purple",
+	"bm_suit_var_raincoat_purple_desc": "Not to be confused with -that- Mr. Purple. Common mistake."
+
+	"bm_suit_var_raincoat_red": "Blood Red",
+	"bm_suit_var_raincoat_red_desc": "If water rolls off of the jacket, hopefully blood will too."
+
+	"bm_suit_var_raincoat_pink": "Hot Pink",
+	"bm_suit_var_raincoat_pink_desc": "It's not the clown in the two-piece suit you should worry about, it's the one wearing the bright pink raincoat in 90 degree weather."
+
+	"bm_suit_var_raincoat_orange": "Orange Orange",
+	"bm_suit_var_raincoat_orange_desc": "A very citrusy raincoat. Does not come with pulp."
+
+	"bm_suit_var_raincoat_black": "Storm Cloud",
+	"bm_suit_var_raincoat_black_desc": "Add some extra edge to that rainy weather."
+
+	"bm_suit_var_raincoat_white": "White Hail",
+	"bm_suit_var_raincoat_white_desc": "Unfortunately for Twitch, leaving the van outside in golfball-sized hail reflected poorly on his paycheck."
+
+	"bm_suit_var_sneak_suit_default": "Security Breach",
+	"bm_suit_var_sneak_suit_default_desc": "The code doesn't work! BAIN?"
+
+	"bm_suit_var_sneak_suit_white": "Bright White",
+	"bm_suit_var_sneak_suit_white_desc": "The purpose of a stealth suit is probably lost on you, but you probably plan on going loud anyway."
+
+	"bm_suit_var_sneak_suit_red": "Red Alert",
+	"bm_suit_var_sneak_suit_red_desc": "Maybe bringing exposives to a stealth heist wasn't a good idea."
+
+	"bm_suit_var_sneak_suit_green": "Night Vision Green",
+	"bm_suit_var_sneak_suit_green_desc": "The guards won't see you, but you'll see them."
+
+	"bm_suit_var_sneak_suit_blue": "Solid Blue",
+	"bm_suit_var_sneak_suit_blue_desc": "Does not come with tactical cardboard box."
+
+	"bm_suit_var_sneak_suit_purple": "Unsubtle Purple",
+	"bm_suit_var_sneak_suit_purple_desc": "It's not going to help you stay hidden, but it's always nice to have the option."
+
+	"bm_suit_var_sneak_suit_brown": "Walnut Brown",
+	"bm_suit_var_sneak_suit_brown_desc": "Pairs well in muddy environments. These uniforms take quite a bite out of the gang's funds, though, so try to avoid it."
+
+	"bm_gloves_fancycloth_blue": "Regal Blue",
+	"bm_gloves_fancycloth_blue_desc": "A perfect mix between looking fancy and sticking to the classics."
+
+	"bm_gloves_fancycloth_red": "Regal Red",
+	"bm_gloves_fancycloth_red_desc": "These are the aforementioned Regal gloves that were covered in blood."
+
+	"bm_gloves_fancycloth_green": "Regal Green",
+	"bm_gloves_fancycloth_green_desc": "These gloves have stolen millions of dollars."
+
+	"bm_gloves_fancycloth_gold": "Regal Gold",
+	"bm_gloves_fancycloth_gold_desc": "The Golden Grin Casino really was more than just cards and craps."
+
+	"bm_gloves_fancycloth_purple": "Regal Purple",
+	"bm_gloves_fancycloth_purple_desc": "You're not just regal, you're royal."
+
+	"bm_gloves_fancycloth_pink": "Regal Pink",
+	"bm_gloves_fancycloth_pink_desc": "There's nothing wrong with looking pretty in pink."
+
+	"bm_gloves_fancycloth_black": "Regal Ink",
+	"bm_gloves_fancycloth_black_desc": "Carefully crafted to allow the wearer to flex their wealth but also be discreet about it."
+
+	"bm_gloves_flight": "Arms Dealer",
+	"bm_gloves_flight_desc": "Borrowed from Gage. Pairs well with a brand-new CAR-4."
+
+	"bm_gloves_flight_tan": "Sidewinder",
+	"bm_gloves_flight_tan_desc": "The only thing more terrifying than a snake sneaking around in your front yard is an armed clown."
+
+	"bm_gloves_flight_black": "Onyx",
+	"bm_gloves_flight_black_desc": "Not literally made out of onyx. That would be incredibly uncomfortable."
+
+	"bm_suit_var_thug_default": "Chinatown Souvenir",
+	"bm_suit_var_thug_default_desc": "The fashion may be a little outdated, but hey, what do other people's opinions matter?"
+
+	"bm_suit_var_thug_green": "Taxi Operator",
+	"bm_suit_var_thug_green_desc": "When Wolf busts open your taxi window with his Reinfeld 880 and tells you to floor it, it'd be good for your health to oblige."
+
+	"bm_suit_var_thug_kiddo": "Three Inch Punch",
+	"bm_suit_var_thug_kiddo_desc": "While the gang was out helping Cabot and his crew with their diamond store job, one pissed-off widow went out of her way to rack up a body count that makes Mr. Blonde's track record look like nothing. Her katana skills make Jiro shudder."
+
+	"bm_suit_var_thug_baby": "Nowhere to Run",
+	"bm_suit_var_thug_baby_desc": "Living on the run is violent and morally compromising business. What's your killer heisting track to help you drown out the noise?"
+
+	"bm_suit_var_thug_dallas": "Dallas Tracksuit",
+	"bm_suit_var_thug_dallas_desc": "To get some extra spending cash, Bain suggested that the gang should start a clothing line. Dallas seemed more enthusastic than the others about this plan and quickly went to work on what he believed was an incredibly stylish brand of clothing. \n\ \n\It took about fourteen bank heists to recoup the losses from this business venture."
+
+	"bm_suit_var_thug_cash": "Collector",
+	"bm_suit_var_thug_cash_desc": "No, not debt collector or anything like that. We're talking about picking insects up off the ground and shoving them into tiny red and white cubes and having them fight each other. Fun for the whole family!"
+
+	"bm_suit_var_thug_shinada": "Slugger",
+	"bm_suit_var_thug_shinada_desc": "When baseball is your passion, it just doesn't feel right to use a bat as a weapon. However, your fists should work just fine."
+
+	"bm_suit_var_thug_driversortof": "Drive?",
+	"bm_suit_var_thug_driversortof_desc": "Twitch was incredibly pissed off to learn that his brand new driving jacket he bought off the Pearbook marketplace was missing the cool-looking skull on the back. Oh well, it's there in spirit."
+
+	"bm_suit_var_thug_pink": "Pretty Pink",
+	"bm_suit_var_thug_pink_desc": "You've stolen all kinds of things, now steal Vlad's excellent fashion sense."
+
+	"bm_suit_var_thug_red": "Ruby Red",
+	"bm_suit_var_thug_red_desc": "Nobody knows what became of the blood diamond after Wolf took it to experiment with a new 'deadlier' drill design."
+
+	"bm_suit_var_thug_grey": "Storm Cloud",
+	"bm_suit_var_thug_grey_desc": "The calm before the storm sounds like a muffled shotgun shot followed by your guard buddy flying thirty feet through the air."
+
+	"bm_suit_var_thug_blue": "Mellow Blue",
+	"bm_suit_var_thug_blue_desc": "If you get blood on this one, it makes purple."
+
+	"bm_gloves_driverleather_baby": "Miles Away",
+	"bm_gloves_driverleather_baby_desc": "Was he slow?"
+
+	"bm_suit_var_t800_humanbean": "Infamy Ivory",
+	"bm_suit_var_t800_humanbean_desc": "This bold outfit is sure to blind someone once it reflects sunlight. Sunglasses recommended."
+
+	"bm_suit_var_t800_tak": "Infamy Judgment",
+	"bm_suit_var_t800_tak_desc": "It's all fun and games until you receive a crane kick to the jaw. Even private investigators need to get their hands dirty."
+
+	"bm_suit_var_t800_leather": "Infamy Sepia",
+	"bm_suit_var_t800_leather_desc": "A classic outfit back from Dallas' younger years. He likes to believe it fits him just as well as it did in the late 90's."
+
+	"bm_suit_var_t800_payday": "Infamy Blue",
+	"bm_suit_var_t800_payday_desc": "Nothing shows dedication to the heisting craft like a bold PAYDAY blue jacket."
+
+	"bm_suit_var_t800_fury": "Infamy Furious",
+	"bm_suit_var_t800_fury_desc": "The Chosen One? That'd be selling him too short.\n\ \n\He's the true survivor."
+
+	"bm_suit_var_t800_bill": "Infamy Overbeck",
+	"bm_suit_var_t800_bill_desc": "When Dallas saw the look in the Vietnam veteran's eyes the day of the Mercy Hospital robbery, the previously fearless criminal knew it was best to let this one go for the sake of not having every bone in his body shattered."
+
+	"bm_suit_var_hippie_sherk": "All Star",
+	"bm_suit_var_hippie_sherk_desc": "The feds start coming and they don't stop coming while you hit the ground running for the escape van."
+
+	"bm_gloves_paydaymittens": "PAYDAY Mittens",
+	"bm_gloves_paydaymittens_desc": "Charming, but unlikely to actually keep you warm during a chilly heist. Still, you can't beat that classic blue."
+
+	"bm_gloves_leather": "Continental Leather",
+	"bm_gloves_leather_desc": "Made from 100% real leather, not the cheap stuff Matt wears."
+
+	"bm_gloves_phoenix": "Demolitionist",
+	"bm_gloves_phoenix_desc": "Found in the trash can of the Robert's bank. Should help counter the police assault just fine."
+
+	"bm_gloves_kidswool_red": "Trainee",
+	"bm_gloves_kidswool_red_desc": "You can't expect to move up in the heisting world without getting some blood on your hands."
+
+	"bm_gloves_kidswool_green": "Greenhorn",
+	"bm_gloves_kidswool_green_desc": "Who knew there were so many synonyms to the word 'rookie'? This one seems the most fitting."
+
+	"bm_gloves_kidswool_yellow": "Recruit",
+	"bm_gloves_kidswool_yellow_desc": "Dallas wonders who keeps wasting the safehouse budget on cat gloves."
+
+	"bm_suit_var_leather_purple": "Saint Array",
+	"bm_suit_var_leather_purple_desc": "This outfit was recovered from an old gang that once ruled the streets, but then turned into a bunch of sellouts which eventually led to their downfall. Dallas purchased it off an auction and kept it as an important lesson: show off all you want, but don't forget your roots."
+
+	"bm_suit_var_leather_blood": "Blood Array",
+	"bm_suit_var_leather_blood_desc": "For more than 100 years a legendary gunslinger rested in his grave. Once the whole world shook from the wrath of elder powers and a powerful secret organization proceeded to take over the world, he opened his eyes, grabbed a pitchfork and proclaimed: 'I live, again.'"
+
+	"bm_suit_var_leather_green": "Mint Array",
+	"bm_suit_var_leather_green_desc": "Keep it fresh with this minty green fit."
+
+	"bm_suit_var_leather_pink": "Charming Array",
+	"bm_suit_var_leather_pink_desc": "Some use excessive violence to achieve their goal, some prefer to keep it quiet. Few individuals try their luck with their natural charm. This particular heister's career was cut short when it turned out that the guard she tried to seduce wasn't interested in women."
+
+	"bm_suit_var_leather_yellow": "Sun Array",
+	"bm_suit_var_leather_yellow_desc": "Bold and bright, like a muzzleflash."
+
+	"bm_suit_var_slaughterhouse_mark": "The Bear",
+	"bm_suit_var_slaughterhouse_mark_desc": "Why stop at just one Compact-5? Carry an extra for double the carnage."
+
+	"bm_suit_var_thug_hotline": "No Talk",
+	"bm_suit_var_thug_hotline_desc": "An old outfit Jacket used to wear before he joined the PAYDAY gang. Kept as a memento of simpler times. Who would've guessed Jacket is the sentimental type?"
+
+	"bm_suit_var_thug_biker": "The Biker",
+	"bm_suit_var_thug_biker_desc": "Incredibly deadly with a cleaver and a set of throwing knives."
+
+	"bm_suit_var_slaughterhouse_biker": "Redline",
+	"bm_suit_var_slaughterhouse_biker_desc": "Who knows what OVERKILL MC were saving this body armor for? It's certainly a good thing Rust is on your side."
+
+	"bm_suit_var_thug_rebel": "Rebel Without Reason",
+	"bm_suit_var_thug_rebel_desc": "'C'mon guys, it's a cinema classic!' Dallas exclaimed. The rest of the gang looked at him as though he had killed a hostage.\n\ \n\Dallas was, regrettably, reminded of his old age."
+
+	"bm_suit_var_poolrepair_plumber": "Bodhi's Plumbing",
+	"bm_suit_var_poolrepair_plumber_desc": "No, stomping on Cloakers is still not a good idea."
+
+	"bm_suit_var_hitman_green": "Wushu Green",
+	"bm_suit_var_hitman_green_desc": "Dragan's been trying to get the rest of the gang to eat some vegetables for once, but leafy greens still have not turned up at the safehouse kitchen."
+
+	"bm_suit_var_hitman_orange": "Wushu Orange",
+	"bm_suit_var_hitman_orange_desc": "It's obviously not great for camouflage, but hey, sometimes you want to stand out."
+
+	"bm_suit_var_hitman_pink": "Wushu Pink",
+	"bm_suit_var_hitman_pink_desc": "Bubblegum isn't a bad way to stay focused during a heist. You can also stick it in the taxman's hair when you're done."
+
+	"bm_suit_var_hitman_purple": "Wushu Purple",
+	"bm_suit_var_hitman_purple_desc": "Hitmen are intimidating on their own, but no one expects the hitman wearing purple."
+
+	"bm_suit_var_hitman_yellow": "Wushu Yellow",
+	"bm_suit_var_hitman_yellow_desc": "One of Jacket's favorite snacks is lemons. Even Wolf watches in horror as Jacket eats bites down on one like an apple."
+
+	"bm_suit_var_jumpsuit_snow": "Frostbite",
+	"bm_suit_var_jumpsuit_snow_desc": "Do you have any idea how difficult it is to carry gold bars while you're walking on ice? It's not the bullets whizzing past your head you need to worry about, it's slipping and breaking something important."
+
+	"bm_suit_var_thug_ian": "Forgotten Firearms",
+	"bm_suit_var_thug_ian_desc": "I'm here today with an... Airbow? Who designed this piece of junk?"
+
+	"bm_suit_var_clown_fiddle": "Phantom Limb",
+	"bm_suit_var_clown_fiddle_desc": "Playing Lab Rats on Death Sentence makes you wonder if we really are just here to suffer."
+
+	"bm_suit_var_clown_blue": "The Blues",
+	"bm_suit_var_clown_blue_desc": "All that time... wasted. Should've brought someone who ACTUALLY knew how to do the First World Bank puzzle."
+
+	"bm_suit_var_t800_purple": "Infamy Purple",
+	"bm_suit_var_t800_purple_desc": "There's never enough purple in one's wardrobe. What's one more added to the pile?"
+
+	"bm_suit_var_continental_right": "The Defense",
+	"bm_suit_var_continental_right_desc": "There are some criminals who are so awful that even ace attorneys will not, or rather, can not defend. The courtroom definitely did not go easy on Hoxton."
+
+	"bm_suit_var_continental_coffee": "The Connoisseur",
+	"bm_suit_var_continental_coffee_desc": "There's nothing like the fragrance of dark, bitter coffee to start off the morning. Sugar and milk are not tolerated."
+
+	"bm_suit_var_continental_kith": "The Designer",
+	"bm_suit_var_continental_kith_desc": "An ensemble commonly worn by a lesser-known criminal mastermind that, oddly enough, managed to become popular as a heist consultant. While they lack heist skills themselves and rarely plan a job on their own, their keen eye for potential problems and penchant for clever solutions made them popular among the brains behind many successful operations."
+
+	"bm_suit_var_continental_green": "The Exclusive",
+	"bm_suit_var_continental_green_desc": "Duke would find a lot of these types hanging around art museums. Sickeningly condescending and absolutely full of themselves. He loved seeing the look of shock and terror on their faces when they found out their favorite painting has mysteriously gone missing."
+
+	"bm_suit_var_continental_olive": "The Vogue",
+	"bm_suit_var_continental_olive_desc": "Simple brown, black, and blue suits? C'mon, the PAYDAY gang can do better than that. This suit is being lent out to you from Aldstone's wardrobe, and if he can dress this nicely, you can too."
+
+	"bm_suit_var_continental_royal": "The Royal",
+	"bm_suit_var_continental_royal_desc": "Clearly you're the type of heister who wants to be treated like a king. Modesty be damned, you're on top of the world."
+
+	"bm_suit_var_continental_detective": "The Investigator",
+	"bm_suit_var_continental_detective_desc": "After tirelessly combing through the evidence, you've finally come to the harrowing conclusion that 'the secret' may truly exist. But the question is, how does one get to it? What lovecraftian horrors could possibly await?"
+
+	"bm_suit_var_continental_joy": "The Hacker",
+	"bm_suit_var_continental_joy_desc": "Joy normally ditches the mantra of 'dress to impress' and substitutes it with 'dress for comfort' but sometimes it's important to blend in when heisting fancier establishments. Just make sure no one sees the Gameboy hidden in the front pocket."
+
+	"bm_suit_var_continental_red": "The Sommelier",
+	"bm_suit_var_continental_red_desc": "The Shacklethorne Auction was a complete rip-off. Fake antiques, tasteless music, and worst of all, terrible drinks. Maybe this was all a front to cover up something more mysterious?"
+
+	"bm_suit_var_thug_biker": "Knock Knock",
+	"bm_suit_var_thug_biker_desc": "An older jacket belonging to Biker before the iconic ripped sleeves."
+
+	"bm_suit_var_slaughterhouse_bikerold": "The Biker",
+	"bm_suit_var_slaughterhouse_bikerold_desc": "Incredibly deadly with a cleaver and a set of throwing knives."
+
+	"bm_suit_var_general_paul": "The Secretary General",
+	"bm_suit_var_general_paul_desc": "Turns out you could make anything suddenly seem artsy and unique when you put the label 'avant-garde' on it."
+
+	"bm_suit_var_general_ringo": "The Star General",
+	"bm_suit_var_general_ringo_desc": "Strangely enough, the PAYDAY gang started receiving fan mail. Dallas didn't think much of it until one obsessed fan named Kelli King decided to crash their heist. She felt pretty badass right up until she spotted Houston's death glare, motioning her to 'keep quiet' shortly before the alarm went off."
+
+	"bm_suit_var_general_john": "The Revolutionary General",
+	"bm_suit_var_general_john_desc": "At 3 in the morning, Hoxton, drunk out of his mind, arose from the living room couch and stumbled downstairs to see Jacket playing car crash and gunshot noises from his tape recorder, much to the amazement of Wolf.\n\ \n\'What in the fuck are you two doing down here?' Hoxton growled.\n\ \n\'Music!' Wolf happily replied."
+
+	"bm_suit_var_general_george": "The Quiet General",
+	"bm_suit_var_general_george_desc": "Bodhi insisted he could play the sitar if he just had a little bit more practice. The rest of the gang strongly disagreed upon hearing his awful twanging vibrating through the entire safehouse. Jacket decided to take matters into his own hands and smash the sitar over Sokol's head."
+
+	"bm_suit_var_general_leather": "The Wartime General",
+	"bm_suit_var_general_leather_desc": "If Commissioner Garrett wants a war, we'll sure as hell give him one. Captain Winters' army of Phalanx shields is nothing compared to a well-placed grenade anyway."
+
+	"bm_suit_var_murky_suit_sas": "Special Service",
+	"bm_suit_var_murky_suit_sas_desc": "You're lucky these guys didn't show up to handle the heist at the Roberts bank."
+
+	"bm_suit_var_murky_suit_operator": "Lone Wolf",
+	"bm_suit_var_murky_suit_operator_desc": "Even the PAYDAY gang knows when to cut their losses and head back to the escape van. There's some operators that simply aren't worth messing with."
+
+	"bm_suit_var_scrub_blood": "Oops",
+	"bm_suit_var_scrub_blood_desc": "Aaand there goes another blood vial."
+
+	"bm_suit_var_scrub_gray": "Grey Matter",
+	"bm_suit_var_scrub_gray_desc": "Do .50 caliber bullets to the skull count as brain surgery?"
+
+	"bm_suit_var_scrub_red": "Blood Bag",
+	"bm_suit_var_scrub_red_desc": "It's a little scary that no one in the crew knows what blood type is in the medic bags."
+
+	"bm_suit_var_scrub_lightgreen": "Radioactive Green",
+	"bm_suit_var_scrub_lightgreen_desc": "Spend too much time around the nukes in the Murky compound and you may need an extra arm amputated."
+
+	"bm_suit_var_scrub_yellow": "Electric Yellow",
+	"bm_suit_var_scrub_yellow_desc": "Shock paddles probably won't wake up the victim of a Skulldozer uppercut."
+
+	"bm_suit_var_scrub_pinkish": "Painkiller Pink",
+	"bm_suit_var_scrub_pinkish_desc": "The greatest painkiller is your crewmate shouting at you to 'get the fuck up.'"
+
+	"bm_suit_var_scrub_orange": "Citrus Orange",
+	"bm_suit_var_scrub_orange_desc": "Vitamin D is important. Unfortunately, Wolf doesn't like the sunlight."
+
+	"bm_suit_var_sneak_suit_gorkagreen": "Forest Tactical",
+	"bm_suit_var_sneak_suit_gorkagreen_desc": "Maybe it'll help you stay hidden from bears. It probably isn't worth finding out."
+
+	"bm_suit_var_sneak_suit_gorkaearth": "Desert Operator",
+	"bm_suit_var_sneak_suit_gorkaearth_desc": "Tactical. You live and breathe the word 'tactical.' You tap a magazine on your helmet, check the bolt for jammed casings, smack the empty magazine (not clip) out of your rifle, slap the bolt release, check the bolt again for jammed casings, shortly before getting roundhouse kicked by a Cloaker."
+
+	"bm_suit_var_traditional_black": "Triad Casual Black",
+	"bm_suit_var_traditional_black_desc": "It's lights out for whoever underestimates this heister."
+
+	"bm_suit_var_traditional_bluedragon": "Triad Casual Ice Dragon",
+	"bm_suit_var_traditional_bluedragon_desc": "This heister is cool as ice, yet deadly as a dragon's breath. Or, quite literally, deadly with a dragon's breath Steakout 12G. "
+
+	"bm_suit_var_traditional_green": "Triad Casual Green",
+	"bm_suit_var_traditional_green_desc": "This striking yellow-green combo may be gaudy, but who's going to stop you? The police?"
+
+	"bm_suit_var_traditional_white": "Triad Casual Silver",
+	"bm_suit_var_traditional_white_desc": "Upon heisting the Precious Things jewelry store for the hundredth time, Houston pondered how the store could possibly afford to keep restocking. It just wasn't possible. \n\ \n\'Don't think about it.' Hoxton answered. \n\ \n\Houston desperately tried to forget the civilian he just saw out of the corner of his eye round the corner and disappear into thin air."
+
+	"bm_suit_var_traditional_pink": "Triad Casual Pink",
+	"bm_suit_var_traditional_pink_desc": "This one was tailor-made for the discerning heister. This is the perfect answer for those wanting to both look the part and make sure they stand out."
+
+	"bm_suit_var_continental_grizzly": "The Grizzly",
+	"bm_suit_var_continental_grizzly_desc": "If you can't see the beast you're hunting, chances are that they're hunting you."
+
+	"bm_suit_var_continental_denis": "The Denis",
+	"bm_suit_var_continental_denis_desc": "Takes you back to the days where bank robberies were conducted with horses, peacemakers, and a whole lot of dynamite."
+
+	"bm_suit_var_continental_heart": "The Outdoorsman",
+	"bm_suit_var_continental_heart_desc": "One with nature, one might say. Sometimes it's nice to get away from the howling of police sirens."
+
+	"bm_suit_var_winter_suit_taiga": "Legendary Hitman",
+	"bm_suit_var_winter_suit_taiga_desc": "Rumor has it that this infamous hitman wrestled a grizzly with his bare hands and won. Just imagine how far he can throw a Bulldozer."
+
+	"bm_suit_var_winter_suit_red": "Locke and Load",
+	"bm_suit_var_winter_suit_red_desc": "Locke just about had a heart attack when 7.62 rounds smashed through his car window. He was lucky to have made it out alive. This Alaska job almost cost him his life."
+
+	"bm_suit_var_winter_suit_blue": "Icy Blue",
+	"bm_suit_var_winter_suit_blue_desc": "Cloakers are drastically less effective in slippery environments. It's always a good time to watch them slip and trip over themselves while they're chasing after the escape van."
+
+	"bm_suit_var_winter_suit_yellow": "Sunlight Yellow",
+	"bm_suit_var_winter_suit_yellow_desc": "It sure is nice to get some warmth every once in a while. It's a good thing, too, since the cold weather actually makes the thermal drill jam more often, which was once thought impossible."
+
+	"bm_suit_var_winter_suit_brown": "Acorn Brown",
+	"bm_suit_var_winter_suit_brown_desc": "The gang finally decided that white camo on top of the sheets of white snow wasn't the best idea after losing track of Houston for the third time. Hoxton claims that he has nothing to do with these incidents, and if he did, it wouldn't be a huge loss anyway."
+
+	"bm_suit_var_winter_suit_pink": "Frostbite Pink",
+	"bm_suit_var_winter_suit_pink_desc": "Bodhi could hardly stand the cold and instead decided to stay back and snipe from a tall building. Sangres, on the other hand, was completely unshaken despite wearing his usual t-shirt."
+
+	"bm_suit_var_winter_suit_purple": "Suave Purple",
+	"bm_suit_var_winter_suit_purple_desc": "Just can't chooose between red and blue? Purple's got you covered."
+
+	"bm_suit_var_xmas_tuxedo_xmasgreen": "Ornament Green",
+	"bm_suit_var_xmas_tuxedo_xmasgreen_desc": "While the heist at Santa's workshop didn't turn out to be lucrative in the slightest, it's hard to complain about stumbling upon a stockpile of milk and cookies."
+
+	"bm_suit_var_xmas_tuxedo_xmasred": "Plain Red",
+	"bm_suit_var_xmas_tuxedo_xmasred_desc": "For you, ugly sweaters and goofy hats are far too ridiculous. Why would anyone subject themselves to that? \n\ \n\Also, you're no fun at parties."
+
+	"bm_suit_var_tux_red": "Ribbon Red",
+	"bm_suit_var_tux_red_desc": "Who needs the red carpet when you have an entire vault full of cash? You're not just famous, you're infamous, and Hollywood wishes they can make as much money in a year as the PAYDAY gang does in a week."
+
+	"bm_suit_var_tux_gold": "Casino Gold",
+	"bm_suit_var_tux_gold_desc": "Suddenly the odds of winning big go from less than one percent to one-hundred percent once the BFD gets involved."
+
+	"bm_suit_var_tux_blue": "Vicious Blue",
+	"bm_suit_var_tux_blue_desc": "A tuxedo that's fitting for the anarchist of the gang. Don't let the fancy attire fool you, Sydney still doesn't play by the rules."
+
+	"bm_suit_var_tux_green": "Dollar Green",
+	"bm_suit_var_tux_green_desc": "The crew makes so much money that it is actually starting to become a problem. The vault isn't exactly infinite, and it's not like it could all be put in a bank. Maybe the gang could do something nice for once and pay off the hospital bills for that guy from the Benevolent Bank."
+
+	"bm_suit_var_tux_pink": "Margarita Pink",
+	"bm_suit_var_tux_pink_desc": "It's always nice to party after a successful heist. If only Bonnie didn't overdo it on the scotch. Maybe then everyone else would feel safe taking off their body armor."
+
+	"bm_suit_var_tux_purple": "Charismatic Purple",
+	"bm_suit_var_tux_purple_desc": "Not too hot, not too cold. Purple is the perfect color. There's a reason it's been sought after throughout history, and it's clear why. You just can't beat the best."
+
+	"bm_suit_var_t800_wasp": "Infamy Hornet",
+	"bm_suit_var_t800_wasp_desc": "It sure does sting to think about all the time it took to get this far. Eh, what's another thousand hours?"
+
+	"bm_suit_var_slaughterhouse_swan": "The Swan",
+	"bm_suit_var_slaughterhouse_swan_desc": "Two heads are better than one. Mobsters who run into this chainsaw-wielding maniac wish that her brother mercy killed them first."
+
+	"bm_suit_var_slaughterhouse_tony": "The Tiger",
+	"bm_suit_var_slaughterhouse_tony_desc": "Weapons are for the weak. Just one of Tony's vicious uppercuts should be more than enough to make his victims unrecognizable."
+
+	"bm_suit_var_thug_corey": "The Zebra",
+	"bm_suit_var_thug_corey_desc": "Armor is just not The Zebra's style. Instead, she prefers to outsmart her enemies with her incredible speed and agility that not even bullets can solve. Don't try to run, cause she's faster."
+
+	"bm_suit_var_thug_bob": "Bobblehead Enthusiast",
+	"bm_suit_var_thug_bob_desc": "Life is truly unfair when one just so happens to come across a large bundle of cash (don't ask) only to have it wasted on hospital bills."
+
+	"bm_suit_var_continental_crazy": "The Exotic",
+	"bm_suit_var_continental_crazy_desc": "While the deep blue jacket is bold enough on its own, what really makes or breaks a look is one's choice of tie. This zebra-like pattern adds just the right amount of flair."
+
+	"bm_suit_var_peacoat_tan": "Dapper Noir",
+	"bm_suit_var_peacoat_tan_desc": "Usually found standing alone under a street lamp with a cigar in one hand and a suspicious briefcase in the other."
+
+	"bm_suit_var_jumpsuit_diamond": "Blood Diamond",
+	"bm_suit_var_jumpsuit_diamond_desc": "The gang already stole the Blood Diamond once, so it was highly confusing to find one more identical red diamond sitting in the Garnet vault. The question is: which one is real? \n\ \n\Did the previous heist actually happen?"
+
+	"bm_suit_var_gangstercoat_gadget": "The Gadget Executor",
+	"bm_suit_var_gangstercoat_gadget_desc": "It's all fun and games until you hear, 'Go go Gadget, Thanatos!'"
+
+	"bm_suit_var_gangstercoat_mysterious": "The Mysterious Executor",
+	"bm_suit_var_gangstercoat_mysterious_desc": "You turn around to thank the stranger who saved you from that taser. 'Thanks-' \n\ \n\'Wait... where'd he go?'"
+
+	"bm_suit_var_continental_deniro": "The McCauley",
+	"bm_suit_var_continental_deniro_desc": "After Dallas lost his crew member Hoxton to the feds, Dallas has always made sure to have a plan B in case the heist goes sideways."
+
+	"bm_suit_var_continental_kilmer": "The Shiherlis",
+	"bm_suit_var_continental_kilmer_desc": "They really got Hoxton good. If it wasn't for the ballistic vest, he'd have more than just a few broken ribs. As he felt the handcuffs lock around his fists, he knew deep down that the gang would come back for him."
+
+	"bm_gloves_theheat": "Heatmaker",
+	"bm_gloves_theheat_desc": "Despite the large roster of weaponry offered by Gage, you would prefer to stick with your trusty AMCAR."
+
+	"bm_suit_var_jumpsuit_sapphire": "Sapphire Diamond",
+	"bm_suit_var_jumpsuit_sapphire_desc": "The Diamond. Mysterious, alluring, incredibly valuable. Some may even say it's cursed... \n\ \n\It should do just fine as a drill bit."
+
+	"bm_suit_var_jumpsuit_mint": "Mint Leaf Green",
+	"bm_suit_var_jumpsuit_mint_desc": "It's good to stay fresh before, during, and after a heist. Tic Tacs are a necessity in the escape van."
+
+	"bm_suit_var_murky_suit_hecu": "Hazardous Environment Combat Unit",
+	"bm_suit_var_murky_suit_hecu_desc": "A well-trained mercenary group versus a scientist with a stupid-looking suit and a crowbar. How hard could it be?"
+
+	"bm_suit_var_murky_suit_fbi": "Intervention Bureau",
+	"bm_suit_var_murky_suit_fbi_desc": "Not to be confused with a bureau that investigates. Completely different beasts."
+
+	"bm_suit_var_murky_suit_sea": "Sea Legs",
+	"bm_suit_var_murky_suit_sea_desc": "If it wasn't for Hoxton's motion sickness, the gang would've robbed a yacht way back in 2011. Thankfully, the Continental convinced him to power through it 6 years later."
+
+	"bm_suit_var_thug_nightcall": "Night Drive",
+	"bm_suit_var_thug_nightcall_desc": "Sometimes you just want to take a drive down the hills all night long."
+
+	"bm_suit_var_gangstercoat_funeral": "The Grim Executor",
+	"bm_suit_var_gangstercoat_funeral_desc": "Mr. Steele sends his regards."
+
+	"bm_suit_var_gangstercoat_red": "The Bloody Executor",
+	"bm_suit_var_gangstercoat_red_desc": "There's a reason cleaner costs are so expensive."
+
+	"bm_suit_var_gangstercoat_blue": "The Cobalt Executor",
+	"bm_suit_var_gangstercoat_blue_desc": "Bain regrets picking blue as Crime.net's default color. It isn't easy on the eyes in pitch-black darkness."
+
+	"bm_gloves_kidswool_orange": "Starter",
+	"bm_gloves_kidswool_orange_desc": "These used to be red. Shouldn't have left them out in the sun."
+
+	"bm_gloves_kidswool_joy": "Script Kitty",
+	"bm_gloves_kidswool_joy_desc": "Joy's very own hacking gloves, complete with bowtie."
+
+	"bm_gloves_tac": "Breacher Hardtail",
+	"bm_gloves_tac_desc": "Heisters who wear these gloves are 100% more likely to point-shoot."
+
+	"bm_suit_var_peacoat_orange": "Tangerine Orange",
+	"bm_suit_var_peacoat_orange_desc": "Is orange anyone's first choice? No. Is it nice to have the choice? Yes."
+"bm_suit_var_miami_commissar": "Deep Blue",
+	"bm_suit_var_miami_commissar_desc": "The PAYDAY gang's signature color. Represents the gang's cool composure during a hectic firefight. Very stylish."
+
+	"bm_suit_var_miami_ichi": "Number One",
+	"bm_suit_var_miami_ichi_desc": "You may have a few screws loose, but hey, you make some mean senbei. The best, even."
+
+	"bm_suit_var_miami_shakedown": "Shakedown",
+	"bm_suit_var_miami_shakedown_desc": "All it took was one man in a gaudy white and gold suit to convince this shakedown king to settle on only being the second strongest being in the universe."
+
+	"bm_suit_var_continental_jimmy": "The Maniac",
+	"bm_suit_var_continental_jimmy_desc": "The dry-cleaners want absolutely nothing to do with these tattered rags of a 'suit.' Caked in blood and white powder from multiple unknown sources. Like Jimmy, this fit is beyond saving. Heisters who wear this abominable outfit likely have zero recollection of the previous night."
+
+	"bm_suit_var_continental_foster": "The Foster",
+	"bm_suit_var_continental_foster_desc": "How could one refuse the opportunity to make even more dosh? While Cloakers and Bulldozers are a pain in the arse to deal with, it certainly beats Sirens and Fleshpounds. \n\ \n\Happiness is, as they say, a warm gun."
+
+	"bm_suit_var_continental_jiro": "The Yakuza",
+	"bm_suit_var_continental_jiro_desc": "'Please.' \n\...\n\'Please.' \n\...\n\'Please.' \n\ \n\Jiro reached out and stopped Jacket's tape recorder. \n\ \n\'Jacket, there is not a chance in hell you are borrowing the katana.' \n\ \n\After a long pause, Jacket played a sad trombone sound and scurried off."
+
+	"bm_suit_var_thug_money": "Deep Pockets",
+	"bm_suit_var_thug_money_desc": "The getup of a man particularly loaded with money. More than likely has the means to purchase the PAYDAY gang... or so he thinks. No one has the heart to tell him that Houston, who is far more sneaky than a Stalker Zed, secretly replaced his dosh with board game currency ages ago."
+
+	"bm_gloves_heistwrinkled_classic": "Classic Heister",
+	"bm_gloves_heistwrinkled_classic_desc": "An older pair of gloves that bring you back to the days when heisting was serious business... or was it actually?"
+
+	"bm_gloves_heistwrinkled_sniper": "Marksman Heister",
+	"bm_gloves_heistwrinkled_sniper_desc": "One well-placed .308 shot allowed the gang to rob the transport trucks before the heat could even react."
+
+	"bm_gloves_heistwrinkled_wick": "Hitman Heister",
+	"bm_gloves_heistwrinkled_wick_desc": "When Wick first joined in 2014, the clowns urged him to pick a mask and wear the blue gloves like everyone else. To their dismay, Wick refused. \n\ \n\'What? It's not like I'm walking into heists wearing a chicken mask, or different colored shoes, or a hawaiian shirt, or fingerless gloves and tattoos that give away our identity or something' \n\ \n\Everyone looked at the camera."
+
+	"bm_gloves_heistwrinkled_gold": "Gold Heister",
+	"bm_gloves_heistwrinkled_gold_desc": "Need a good warm-up? Robbing the Harvest & Trustee Bank for gold is never a poor choice."
+
+	"bm_gloves_heistwrinkled_red": "Bloodied Heister",
+	"bm_gloves_heistwrinkled_red_desc": "'Hey, Wolf, like the new red gloves!' Chains complimented. \n\ \n\Wolf was confused. 'Huh? They're blue-' \n\ \n\'...'\n\ \n\'...Were blue. Yeah.'"
+
+	"bm_gloves_heistwrinkled_pink": "Pink Lemonade Heister",
+	"bm_gloves_heistwrinkled_pink_desc": "Cool and refreshing after a tough heist."
+
+	"bm_suit_var_thug_purple": "Saintly Purple",
+	"bm_suit_var_thug_purple_desc": "Those Third Street Saints out of Stilwater seem to know what they're doing. Still, they better not overstep their boundaries into the PAYDAY gang's business. Superpowers are nice and all, but the PAYDAY gang's expertise is otherworldly."
+
+	"bm_suit_var_thug_gold": "Dragon Gold",
+	"bm_suit_var_thug_gold_desc": "Not made of actual gold, but it might as well be given how much it costs. It's unsurprising that the gang chose to go for the cheaper red, white, and blue souvenir alternative. The PAYDAY gang knows a robbery when they see one."
+
+	"bm_suit_var_miami_goro": "Mad Dog",
+	"bm_suit_var_miami_goro_desc": "Mad Dog, the Lord of the Night, Everyone's Idol, Gorogorogoro-chan. All of these names describe a legendary Yakuza member not even Jiro wants to piss off. Known for his impeccable knife wielding technique, insane breakdancing skills, beautiful singing voice, and both destroying and revitalizing Kamurocho's economy. An unbeatable track record."
+
+	"bm_suit_var_miami_purple": "Striped Purple",
+	"bm_suit_var_miami_purple_desc": "For when you want to treat the heist like it's a disco floor. \n\ \n\No, Wolf is still not allowed to participate."
+
+	"bm_suit_var_mariachi_pink": "Bold Choice",
+	"bm_suit_var_mariachi_pink_desc": "You look great. Don't let anyone tell you otherwise."
+
+	"bm_suit_var_mariachi_plain": "Undercover Mariachi",
+	"bm_suit_var_mariachi_plain_desc": "For when you don't want to draw too much attention to yourself, but you're also not opposed to getting out your guitar and singing a couple of tunes if you're in the mood for it."
+
+	"bm_suit_var_boss_brotherhood": "Brotherhood",
+	"bm_suit_var_boss_brotherhood_desc": "Rust used to go to the usual demolition derby run by the OVERKILL MC. Not so coincidentally, he found his previously stolen truck sitting front and center in the arena, crushed to bits. Rust held in his anger at the time, but he eventually tracked down the guilty son of a bitch and paid off his tattoo artist to print some colorful insults on his forehead. The embarrassment was negligible since the writing was nearly unrecognizable after Rust followed up on the appointment in his own unique way."
+
+	"bm_suit_var_boss_decker": "Deckers",
+	"bm_suit_var_boss_decker_desc": "The technology in play is far beyond what many could imagine, but for Joy, it's just a few keystrokes away from being obliterated. Joy holds a personal resentment toward the Deckers and can't wait for the day they cross paths so she could hack their stupid swords and neon gadgets into paperweights."
+
+	"bm_suit_var_boss_rollerz": "Rollerz",
+	"bm_suit_var_boss_rollerz_desc": "Remember: don't drive your sports car too fast, otherwise you'll do 10 mid-air barrel rolls and end up drowning in the river."
+
+	"bm_suit_var_boss_default": "Third Street Saints",
+	"bm_suit_var_boss_default_desc": "The Third Street Saints are nothing without the Boss. You may also know him as the President of the United States. Regardless, there's a lot to be said about the Saints, and we're not talking about their incredible fashion sense. Just like D.C. is the PAYDAY gang's playground, Stilwater belongs to the Third Street Saints."
+
+	"bm_suit_var_boss_vice": "Vice Kings",
+	"bm_suit_var_boss_vice_desc": "Fun fact: most of the jewelry the PAYDAY Gang steals ends up on the street. If you see a guy trying to sell you watches, you can usually guess where they came from."
+
+	"bm_suit_var_continental_bateman": "The Psycho",
+	"bm_suit_var_continental_bateman_desc": "'Do you like Smokey Bennett & The Hoops? Their early work was a little too overkill for my tastes, but when Flames of Love came out in 2015, I think they really came into their own.'"
+
+	"bm_suit_var_continental_sydney": "The Anarchist",
+	"bm_suit_var_continental_sydney_desc": "Being a part of the PAYDAY gang has been far more interesting than the Dingos. I mean, the leader of the Dingos gang changed about every week or so due to the previous leader either being arrested or shot because of some stupid plan that was never going to work. The PAYDAY gang is cool, professional, and honestly, quite terrifying. Sydney can't quite figure out whether she admires or fears Wolf, and even Sydney at her worst is nothing compared to Jacket's fury. Overall, though, she's just happy Dallas didn't shoot her when she first haphazardly crashed a heist."
+
+	"bm_suit_var_boss_pierce": "Washington",
+	"bm_suit_var_boss_pierce_desc": "Proving once and for all that even small-time heisters can roll with the big leagues. 'Unknown accomplice' my ass!"
+
+	"bm_suit_var_boss_invert": "Saints Alternate",
+	"bm_suit_var_boss_invert_desc": "Keeps things fresh while still staying loyal to the strongest gang in Stilwater."
+
+	"bm_suit_var_boss_luchadore": "Luchadores",
+	"bm_suit_var_boss_luchadore_desc": "The muscle of The Syndicate. Could more than likely rip a Bulldozer in half with their bare hands."
+
+	"bm_suit_var_boss_black": "Saints Greyscale",
+	"bm_suit_var_boss_black_desc": "Even the Boss has off days occasionally. When you've climbed up the ladder to the point where you run the United States, there isn't much ambition left. Guess it'd shake things up a bit for aliens to invade or something, but how could that possibly happen?"
+
+	"bm_suit_var_miami_touch": "Touch nor Time",
+	"bm_suit_var_miami_touch_desc": "The younger folks say that this absolutely rad leopard print coat makes you look out of touch. However, this is your time to shine, and this outfit is full of soul, and soul really matters to you."
+
+	"bm_suit_var_mariachi_blue": "Blue Jay",
+	"bm_suit_var_mariachi_blue_desc": "Jacket is a bit of an animal lover. When he's not staring at the wall in the safehouse, he likes to walk outside and feed the birds some bread crumbs stuffed in his pockets. They seem to have remembered his mask, since they pester him when he's busy heisting. Unsurprisingly, he doesn't seem to mind."
+
+	"bm_suit_var_mariachi_tan": "Tumbleweed",
+	"bm_suit_var_mariachi_tan_desc": "When no one shows up to your spontaneous performance, at least the tumbleweeds are there to keep you company. Maybe you should tune your guitar next time."
+
+	"bm_suit_var_desperado_darkred": "Texas Red",
+	"bm_suit_var_desperado_darkred_desc": "Somewhere in Agua Fria lived the infamous outlaw Texas Red. Legend says that he had killed twenty men not too long before the Arizona Ranger went toe to toe against him. His reign was cut short when a Peacemaker .45 round went straight through his forehead. All thanks to the Arizona Ranger's big iron on his hip."
+
+	"bm_suit_var_desperado_dust": "Cattleman",
+	"bm_suit_var_desperado_dust_desc": "Mess with this farmer's cattle and you'll be meeting their buddies Colt and Schofield with a guest appearance from Smith and Wesson."
+
+	"bm_suit_var_desperado_silver": "Gun Smoke",
+	"bm_suit_var_desperado_silver_desc": "There's nothing quite like the smell of blood, gun powder, and whiskey after a saloon fight gone wrong."
+
+	"bm_suit_var_desperado_pink": "Wacky Wrangler",
+	"bm_suit_var_desperado_pink_desc": "This desperado is always underestimated in a duel but always ends up the winner. Tends to twirl their guns around like a jackass and tries to be as flashy as possible. The local outlaws can't stand him but still try to keep their distance."
+
+	"bm_suit_var_cartelboss_pink": "Sanchez",
+	"bm_suit_var_cartelboss_pink_desc": "Sanchez is a true ladies man. His natural charm would allow him to date almost any woman he desires...  But his true love is Buluc's wife. If only something nasty could happen to his boss?"
+
+	"bm_suit_var_cartelboss_blue": "Raul",
+	"bm_suit_var_cartelboss_blue_desc": "Raul is certainly Buluc's favorite bodyguard. Extremely laidback with friends, but violent with enemies, he quickly earned his reputation in the cartel by kidnapping rich, influential figures in the area and forcing them onto Buluc's side. This was dirty work for him that he took no pleasure in doing. Through the smiles and laughter he frequently shares with Buluc, he wishes he could punch his lights out the first chance he gets."
+
+	"bm_suit_var_cartelboss_green": "Muncho Mike",
+	"bm_suit_var_cartelboss_green_desc": "Muncho Mike was once a good friend of Hajrudin, Vlad's brother-in-law. The nickname comes from one of Buluc's drunken, slurred ramblings. Hajrudin was very excited to go to Mexico to see his old friend again. Conveniently, he resided in the city of Tijuana, so Hajrudin headed there immediately after the San Martín job. Mike met Hajrudin with a party full of expensive drinks. After a night of drinking, Hajrudin woke up in a cold, grey interrogation room surrounded by Federales. This was the easiest of Mike's jobs, although he was bummed that Buluc made him betray an old friend like that. He wondered how difficult it'd be to betray Buluc..."
+
+	"bm_suit_var_cartelboss_brown": "Miguel",
+	"bm_suit_var_cartelboss_brown_desc": "When Buluc learned that Miguel was into fishing, he made him a simple proposition: Catch him a shark, or die. Miguel almost lost all of his limbs in the process, but managed to bring his boss a huge shark. After this mission he thinks almost every day that it would be pretty great if Buluc got eaten by that shark."
+
+	"bm_suit_var_cartelboss_red": "Sicario",
+	"bm_suit_var_cartelboss_red_desc": "The gang watched as Buluc's blood pooled up in the ocean. They strolled out of Buluc's office, ready to finish off the rest of Buluc's guards, but to their surprise, the gang found the survivors cheering! Turns out, they all hated the guy and only fought because they were scared of getting fed to the sharks. They were ecstatic to see their boss get a taste of his own medicine."
+
+	"bm_suit_var_cartelboss_yellow": "Antonio",
+	"bm_suit_var_cartelboss_yellow_desc": "Unlike Raul, Antonio is Buluc's least favorite bodyguard. According to Buluc, he just can't do anything right. Sometimes Antonio could hardly walk from the injuries Buluc would inflict on him for seemingly no reason. But Antonio has had enough. Turns out, he's been feeding the shark some pieces of meat wrapped in Buluc's dirty laundry to get it more accustomed to Buluc. He's been waiting for the perfect 'accident' for Buluc to trip and fall into the tank. He's not saying he'd murder Buluc, but he wouldn't stop some shady business if he saw it happening."
+
+	"bm_suit_var_cartelboss_purple": "El Morado",
+	"bm_suit_var_cartelboss_purple_desc": "One of Buluc's most mysterious bodyguards. Has all kinds of different rumors and takes completely different identities depending on who you ask. Some say he could fly. Others say that he's turned human beings into ashes just by looking at them. The locals say that he made it rain tequila by snapping his fingers. He has never shown his face nor spoken a word in anyone's presence. Buluc thought everyone was full of it until El Morado seemingly moved in a fourth dimensional plane.\n\ \n\Buluc is traumatized to this day."
+
+	"bm_suit_var_highinttech_purple": "Ripstop Tactical Martial Artist",
+	"bm_suit_var_highinttech_purple_desc": "He studied for twenty years to learn how to dodge bullets, and after many trials, finally managed to get out of the way of one. He would be pretty pissed to learn that some gang of robbers can do the same by simply wearing a two-piece suit."
+
+	"bm_suit_var_highinttech_yellow": "Ripstop Tactical Lightning",
+	"bm_suit_var_highinttech_yellow_desc": "Lightning strikes are rare, but they do happen. The odds of being the Golden Dagger's next target are small, but they are never zero."
+
+	"bm_suit_var_highinttech_default": "Ripstop Tactical Executioner",
+	"bm_suit_var_highinttech_default_desc": "Dangerously skilled with a sword. Can probably go toe-to-toe with Jiro for at least thirty seconds before the inevitable happens."
+
+	"bm_suit_var_highinttech_orange": "Ripstop Tactical Demolition Man",
+	"bm_suit_var_highinttech_orange_desc": "Nowadays his services are barely used by the Golden Dagger Triad, as his explosives tend to break every single piece of fine china, resulting in a net loss. Instead, he's given the job of crafting fireworks - and he makes sure to make the most dangerous and unstable fireworks on the market."
+
+	"bm_suit_var_highinttech_blue": "Ripstop Tactical Interrogator ",
+	"bm_suit_var_highinttech_blue_desc": "'Talk... Talk or I'll pull all your teeth out!' the Interrogator shouted. He's broken many spirits in the past, but this Ukrainian is a tough nut to crack. No matter, eventually he will talk."
+
+	"bm_suit_var_highinttech_green": "Ripstop Tactical Soldier",
+	"bm_suit_var_highinttech_green_desc": "These fearsome figures are the might and fury of the Golden Dagger Triad. Eventually, they eliminated all their competition, leaving the city in the complete control by the Golden Dagger Triad. Recently they have softened up a bit, believing no one would challenge them anymore."
+
+	"bm_suit_var_highinttech_brown": "Ripstop Tactical Monk",
+	"bm_suit_var_highinttech_brown_desc": "One of the more curious parts of the Golden Dagger Triad is their appreciation of spiritual life. It is believed that the Monk's rituals bring good luck, although he himself wishes he could cast fireballs instead. Often seen leaving bowls of porridge around."
+
+	"bm_suit_var_highinttech_pink": "Ripstop Tactical Warrior",
+	"bm_suit_var_highinttech_pink_desc": "This one wields dual Uzis and screams at his enemies with a horrible accent. His fellow members are pretty sure he isn't even Chinese, but no one dares to ask him. Legends say he's got a tactical nuke somewhere in his arsenal."
+
+	"bm_suit_var_highinttech_actuallygreen": "Ripstop Tactical Assassin",
+	"bm_suit_var_highinttech_actuallygreen_desc": "Jiu Feng has made plenty of people disappear in his profession, but this new contract caught him off guard. Apparently, his partner-in-crime Joy is suspected of hacking into the Golden Dagger Triad's network and is now to be eliminated, despite serving them well in the past. To their luck, Joy received a call from a shadowy figure named Locke. Apparently, the legendary gang from DC was in dire need of someone who knows their way around a computer. This was the perfect ticket out... but now they're being pulled right back in."
+
+
+	"bm_suit_var_lowinttech_yellow": "Ripstop Casual Surgeon",
+	"bm_suit_var_lowinttech_yellow_desc": "A dark, mysterious figure with even more dark and mysterious healing methods. Often met in dark alleys of San Francisco, freeing unlucky fellows of their vital organs. Triad members don't feel too comfortable getting patched up by them, but what are they going to do? Go to a hospital with a bullet wound?"
+
+	"bm_suit_var_lowinttech_pink": "Ripstop Casual Artist",
+	"bm_suit_var_lowinttech_pink_desc": "Paying an artist is actually quite a huge part of the Golden Dagger Triad's budget. Those sick tattoos aren't going to draw themselves, you know? You got to watch out for this one, though. If he gets carried away, your whole body is going to be a huge (albeit very cool-looking) dragon."
+
+	"bm_suit_var_lowinttech_brown": "Ripstop Casual Sommelier",
+	"bm_suit_var_lowinttech_brown_desc": "This member was always enthusiastic about brewing some tea for his fellow Golden Dagger members, believing his expensive green china set gives his tea special flavor. One day, four clowns blasted through the tea shop, stealing everything of value. That tea was the only thing keeping him under control, and now his vengeful rage knows no bounds."
+
+	"bm_suit_var_lowinttech_realyellow": "Ripstop Casual Taxi Driver",
+	"bm_suit_var_lowinttech_realyellow_desc": "'You, taxi asshole, drive me to the club! Vlad is here to party!' a drunk voice ordered to the taxi driver. 'You're definitely gonna party alright... I've got just the place.' he responded shortly before he swiftly punched Vlad in the jaw, knocking his lights out. Catching that Ukrainian bastard was way easier than he thought."
+
+	"bm_suit_var_lowinttech_green": "Ripstop Casual Hacker",
+	"bm_suit_var_lowinttech_green_desc": "When he's not busy hacking into banks, he spends his free time coding. Is arch-enemies with another hacker by the screen name of 'joyous99'."
+
+	"bm_suit_var_lowinttech_purple": "Ripstop Casual Auctioneer",
+	"bm_suit_var_lowinttech_purple_desc": "The Golden Dagger Triad has lots of force, but with only dumb muscle, it would be powerless. This gentleman can easily distinguish between a genuine priceless artifact and a fake at a single glance. If the stuff has any value, it is sent to the boss to serve as a decoration. The duds go off to be auctioneered at the Tea Shop to wealthy San Francisco fools."
+
+	"bm_suit_var_lowinttech_red": "Ripstop Casual Engineer",
+	"bm_suit_var_lowinttech_red_desc": "A dangerous genius. He eliminated Pear out of San Francisco by making cheap knockoffs of their products. His products were prone to spontaneous explosions, but that just means the customers are going to buy a replacement, resulting in even more sales!\n\ \n\Or so he thought. Things took a turn when one of his own products exploded in his pocket, resulting in a chain reaction of his entire store bursting into flames."
+
+	"bm_suit_var_lowinttech_blue": "Ripstop Casual Waiter",
+	"bm_suit_var_lowinttech_blue_desc": "A waitress has been serving a drunk Ukrainian all night. It seems like his stomach was truly bottomless, but at last, he demanded a bill. The waitress slid a special fortune cookie with it.\n\ \n\'You will pay.'\n\ \n\Vlad smirked in a drunken haze. 'Hey, hey! Vlad's getting paid! Time to hit the club!'"
+
+	"bm_suit_var_lowinttech_default": "Ripstop Casual Cook",
+	"bm_suit_var_lowinttech_default_desc": "Owns a street restaurant which, for whatever reason, is favored by gangsters, vigilantes and ex-cops. Because of that, he gets to hear a lot of talk about important deals and the like. They drive out business, but the pockets of these guys are more than enough to compensate."
+
+	"bm_suit_var_hippie_album": "White Album",
+	"bm_suit_var_hippie_album_desc": "Every band eventually has their own 'white album'. After an evening of hitting the sauce and smoking grass, they decide to get experimental and cook up quite possibly some of the worst songs you have ever heard in your entire life. However, they also cook up some of the most unique and interesting songs in their career. In a way, the PAYDAY gang is in their own perpetual white album. Sometimes, they get to enjoy the Benevolent bank.\n\ \n\Other times, they get to rescue goats."
+
+	"bm_suit_var_hippie_taco": "Listo Special",
+	"bm_suit_var_hippie_taco_desc": "He's known for having an incredible beard, enjoying cheese on toast, bearing a striking resemblance to Hajrudin, and most of all, his completely overkill fashion sense."
+
+	"bm_suit_var_hippie_purple": "Erroneous Checkerboard",
+	"bm_suit_var_hippie_purple_desc": "The honest, more disturbing reason Hoxton burned down the old safehouse is because he claims that when he kicked down the doors of the locked rooms of the laundromat, he saw what could only be described as large, red text standing over a purple and black checkerboard. Upon seeing this horrific, otherworldly sight, Hoxton decided it was time to move out. The rest of the gang thinks prison messed him up in more ways than one, but Hoxton sticks to his story."
+
+	"bm_suit_var_poolrepair_mansion": "Ghost Hunter",
+	"bm_suit_var_poolrepair_mansion_desc": "You may be the less popular than your older sibling, but to your credit, you've got far more guts than that spineless coward."
+
+	"bm_suit_var_poolrepair_ware": "Ware Distributor",
+	"bm_suit_var_poolrepair_ware_desc": "The smell of garlic is a quick and easy way to blow your cover during a stealth heist."
+
+	"bm_suit_var_poolrepair_sport": "Tennis Pro",
+	"bm_suit_var_poolrepair_sport_desc": "You may not be very good for much else, but the tennis court is your turf. Let them know who's boss."
+
+	"bm_suit_var_general_parade": "The Parading General",
+	"bm_suit_var_general_parade_desc": "Everyone has their awkward phase. However, one member of the safehouse still hasn't left theirs, as evident from their Pear playlist. Not going to name any names, but a certain heister who has tattoos and enjoys surfing shouldn't be ruled out. Or maybe a certain former biker gang member has some guilty pleasures? It's anyone's guess."
+
+	"bm_suit_var_general_purple": "The Purple General",
+	"bm_suit_var_general_purple_desc": "Red team, blue team, it's all pointless to you. You prefer to be a double-agent. Is your army losing? Just switch sides!"
+
+	"bm_suit_var_general_yellow": "The Golden General",
+	"bm_suit_var_general_yellow_desc": "Ah, the spoils of war. The Harvest & Trustee bank should've invested in better security."
+
+	"bm_suit_var_continental_sangres": "The Sicario",
+   	"bm_suit_var_continental_sangres_desc": "It should come as no surprise that Sangres is not one for subtlely. He always goes out of his way to stand out from the rest, intimidating both friends and enemies. Only Sangres could get away with this flowery denim ensemble. If you disagree, you can always take it up with El Verdugo."
+
+	"bm_suit_var_thug_dallasalt": "Dallas Tracksuit Negative",
+	"bm_suit_var_thug_dallasalt_desc": "It's the same comfortable commercial failure as the regular Dallas Tracksuit but with an inverted twist. Can't beat the classics."
+
+	"bm_suit_var_thug_chas": "Dallas Tracksuit Royal",
+	"bm_suit_var_thug_chas_desc": "Dallas and Houston actually come from a long line of criminal family members. Some were more successful than others (let's just say there wasn't an open casket funeral) but somehow the two brothers' father lived long enough for the two of them to grow up to be part of one of the most powerful crime syndicates of all time. Papa Steele would be proud... probably."
+
+	"bm_suit_var_gunslinger_train": "The Blue Gunman",
+	"bm_suit_var_gunslinger_train_desc": "Is rivals with the Red Gunman. They seem to be 100% equally matched. When they duel, their bullets collide with each other which ends in a draw every single time. They know each other's every move and when they will make their move. For now, they will just have to come to terms with the fact that there is room for the both of them in town."
+
+	"bm_suit_var_gunslinger_check": "High Roller",
+	"bm_suit_var_gunslinger_check_desc": "Usually found making outrageous bets at saloon poker games and somehow winning every single time. Only fools and tourists dare play a few hands against him."
+
+	"bm_suit_var_gunslinger_melon": "Cactus Green",
+	"bm_suit_var_gunslinger_melon_desc": "It may be traditional to duel with Peacemakers, but this cowboy chose to cut the theatrics and throw his opponent into a cactus."
+
+	"bm_suit_var_gentleman_dallas": "New Beginning",
+	"bm_suit_var_gentleman_dallas_desc": "When you enter the heisting business, you don't get an epilogue. Mask up, it's time for round three."
+
+	"bm_suit_var_gentleman_skull": "Saloon Drifter",
+	"bm_suit_var_gentleman_skull_desc": "You may have lost all of their money to a game of poker, but at least you still have this fancy trenchcoat."
+
+	"bm_suit_var_gentleman_lime": "Mister Moneybags",
+	"bm_suit_var_gentleman_lime_desc": "Rides around on his horse selling quack medicine and snake oil and somehow makes a pretty penny off of it. The local outlaws are jealous at his ability to rob without getting into trouble with the lawmen."
+
+	"bm_suit_var_peacoat_lumber": "Lumberjack Red",
+	"bm_suit_var_peacoat_lumber_desc": "Has heard someone comment that they 'look like a lumberjack!' for the 17th time today. May lose their temper on number 18."
+
+	"bm_suit_var_peacoat_lumbergreen": "Lucky Green",
+	"bm_suit_var_peacoat_lumbergreen_desc": "Matches Clover's mask, making it her outfit of choice for chilly heists."
+
+	"bm_suit_var_peacoat_lumberblue": "Hipster Blue",
+	"bm_suit_var_peacoat_lumberblue_desc": "Definitely loves all of the obnoxious indie bluegrass blaring from the cafe speakers. Likely spends a little too much on their morning coffee."
+
+	"bm_suit_var_lowinttech_luicci": "Ripstop Casual Luicci",
+	"bm_suit_var_lowinttech_luicci_desc": "Limited edition, sold out in seconds. Just the shirt alone costs more than a Falcogini. You can't steal this fit, but the PAYDAY gang can."
+
+	"bm_suit_var_lowinttech_vaporwave": "Ripstop Casual Nostalgia",
+	"bm_suit_var_lowinttech_vaporwave_desc": "Brings you back to the days before Y2K turned the world into an apocalyptic wasteland. Wanna relive the 90s? It's your move."
+
+	"bm_suit_var_lowinttech_fellow": "Ripstop Casual Skateboard",
+	"bm_suit_var_lowinttech_fellow_desc": "As much as Dallas desperately tries to get back in touch with his youth, it always seems to backfire. His most recent attempt ended in disaster after a go on the halfpipe resulted in a black eye, a broken arm, and a group of teenagers laughing at him.\n\ \n\The mask helps to hide the tears."
+
+	"bm_gloves_tipless": "Safecracker",
+	"bm_gloves_tipless_desc": "Gone are the days of worrying about leaving fingerprints. They know damn well who you are."
+
+	"bm_suit_var_continental_noire": "The Noire",
+	"bm_suit_var_continental_noire_desc": "You identify with Badge #1247. Homicide, vice, arson, you've seen 'em all. There isn't a case out there that will phase you at this point."
+
+
+	"bm_suit_var_continental_sun": "The Sunshine",
+	"bm_suit_var_continental_sun_desc": "This heister lights up any room they walk into, both with their joyful attire and with a .45. Don't be fooled by their seemingly docile appearance."
+
+	"bm_suit_var_continental_slate": "The Gun Metal Grey",
+	"bm_suit_var_continental_slate_desc": "First World Bank didn't stand a chance. Despite investing in an absolutely overkill quantity of bank guards, not of single one was able to stop the mysterious new gang of clowns."
+
+	"bm_suit_var_jumpsuit_medic": "Combat Medic",
+	"bm_suit_var_jumpsuit_medic_desc": "Someone's gotta do the dirty work when Mr. 'I can handle it on my own' gets downed across the map for the millionth time."
+
+	"bm_suit_var_jumpsuit_nevermore": "Raven Obsidian",
+	"bm_suit_var_jumpsuit_nevermore_desc": "The raven muttering 'nevermore' is scary enough on its own, but it was slightly more terrifying coming from Jacket's tape recorder at 2:00 AM to intimidate Sokol. When Sokol was at his wits' end and screamed at Jacket that the poem features a raven and not a chicken, Jacket turned the volume up."
+
+	"bm_suit_var_jumpsuit_purple": "Octopus Purple",
+	"bm_suit_var_jumpsuit_purple_desc": "Wouldn't it be nice to live in an octopus's garden?\n\ \n\Nevermind, that'd probably be terrifying. Nice little tune, though."
+
+	"bm_suit_var_gunslinger_budapest": "Budapest Concierge",
+	"bm_suit_var_gunslinger_budapest_desc": "Art thievery is an art in and of itself. A certain Renaissance-era painting was greatly sought after by a man and his bellhop apprentice. The whole escapade would have been shut down in minutes if Duke decided it now belonged to him."
+
+	"bm_suit_var_gunslinger_dunno": "Midas Micah",
+	"bm_suit_var_gunslinger_dunno_desc": "Witnesses of Midas Micah claim that his bullets turn his victims into solid gold. Anyone who claims that Micah is full of it end up getting an example made out of them, and the surrounding onlookers get very rich because of it."
+
+	"bm_suit_var_gunslinger_greengunman": "The Green Gunman",
+	"bm_suit_var_gunslinger_greengunman_desc": "Unfortunately has never been taken seriously by neither the Red Gunman nor the Blue Gunman due to his awful marksmanship. Dueling the Green Gunman is a greater danger for bystanders than the cowboy he's dueling."
+
+	"bm_suit_var_continental_rigged": "The Tops",
+	"bm_suit_var_continental_rigged_desc": "'The game was rigged from the start' he said. One shot to the head and it was over for the courier.\n\ \n\Or so he thought. Now, he stares down the barrel of his own gun, wondering whether the game was truly rigged in his favor... or his adversary's."
+
+	"bm_gloves_bonemittens_notnice": "Destruction Overlord",
+	"bm_gloves_bonemittens_notnice_desc": "Wearers of these gloves may not be kind, nice, nor wonderful."
+
+	"bm_gloves_bonemittens_red": "Red Rage",
+	"bm_gloves_bonemittens_red_desc": "Reflects your inner venomous hatred of getting cloaked next to the escape van."
+
+	"bm_gloves_bonemittens_xray": "X-ray Invert",
+	"bm_gloves_bonemittens_xray_desc": "Classic skeleton hands with a negative twist."
+
+	"bm_suit_tesuit": "Stone Cold Suit",
+	"bm_suit_tesuit_desc": "Iconic and reliable. Bain was the one to suggest that the gang should wear respectable attire. You're a professional, so dress like one."
+
+	"bm_suit_var_tesuit_default": "Reservoir Dog",
+	"bm_suit_var_tesuit_default_desc": "Alright, ramblers... let's get ramblin'."
+
+	"bm_suit_var_tesuit_matt": "Matt Roscoe",
+	"bm_suit_var_tesuit_matt_desc": "Listen, the man had it coming after double-crossing the gang for the second time, on the same street, at the same time of day, for the exact same reason.\n\ \n\Wait, why was this guy hired twice?"
+
+	"bm_suit_var_tesuit_dallas": "Dallas",
+	"bm_suit_var_tesuit_dallas_desc": "The mastermind and the combat medic of the PAYDAY gang. Specializes in monetary transfers at the First World Bank."
+
+	"bm_gloves_bonemittens_blue": "Sapphire Skeleton",
+	"bm_gloves_bonemittens_blue_desc": "Standard PAYDAY blue combined with a touch of spookiness."
+
+	"bm_suit_var_tesuit_houston": "Houston",
+	"bm_suit_var_tesuit_houston_desc": "Temporarily took up the alias 'Hoxton' while his predecessor was in prison. Houston is frequently reminded by Hoxton that he was never the gang's first choice, but he argues that at least he's not the one who went and got himself arrested."
+
+	"bm_suit_var_tesuit_chains": "Chains",
+	"bm_suit_var_tesuit_chains_desc": "The tank of the group. Used to be proud of the fact that he took on a Skulldozer all by himself until Wolf suggested that the gang should start dual-wielding auto shotguns. The playing field has been leveled since, but when it comes down to it, Chains has the most muscle out of anyone in the group, including Dragan (as much as Dragan hates to admit it.)"
+
+	"bm_suit_var_tesuit_wolf": "Wolf",
+	"bm_suit_var_tesuit_wolf_desc": "A former software developer who, despite his unassuming history, is likely the most unhinged out of the original 4. Enjoys using his technical skills to do terrible things. Wolf isn't super talkative around the newer crew members, but enjoys a mildly concerning friendship with Jacket. Overall, Wolf is a pretty lovable guy."
+
+	"bm_suit_var_tesuit_wick": "John Wick",
+	"bm_suit_var_tesuit_wick_desc": "A huge animal lover who has a bit of a temper. Yes, the pencil rumors are true. His preference for firearms is only to contain his true power."
+
+	"bm_suit_var_tesuit_hoxton": "Hoxton",
+	"bm_suit_var_tesuit_hoxton_desc": "Let's be real; you only missed him because of the ponytail. Houston wishes he could pull that off. If only he was able to have his old mask back..."
+
+	"bm_suit_var_tesuit_dragan": "Dragan",
+	"bm_suit_var_tesuit_dragan_desc": "A trustworthy associate of The Butcher. Spends his free time staying in shape in the safehouse. Dragan is likely capable of knocking out a Bulldozer with one swift uppercut."
+
+	"bm_suit_var_tesuit_sokol": "Sokol",
+	"bm_suit_var_tesuit_sokol_desc": "Star hockey player turned criminal technician. Certainly doesn't get enough credit for building the BFD that was used on the Golden Grin Casino job. Definitely has the highest score on the safehouse hockey minigame."
+
+	"bm_suit_var_tesuit_pdthhoxton": "Classic Hoxton",
+	"bm_suit_var_tesuit_pdthhoxton_desc": "A memento of happier times before getting stuck with prison food. Bain had to pull some strings to get this expensive suit back from police custody."
+
+	"bm_suit_var_tesuit_pdthchains": "Classic Chains",
+	"bm_suit_var_tesuit_pdthchains_desc": "Chains sometimes thinks about how much he's changed since his first job at First World Bank.\n\ \n\It almost feels like he's an entirely different person...\n\ \n\Oh well."
+
+	"bm_suit_var_tesuit_pdthdallas": "Classic Dallas",
+	"bm_suit_var_tesuit_pdthdallas_desc": "Does Dallas have regrets? Of course he does. It's not that time he made the wrong decision in trusting Matt Roscoe, or that time he left his favorite casette in the escape car.\n\ \n\It's that handlebar mustache he wore back in 2011."
+
+	"bm_suit_var_tesuit_jacket": "Jacket",
+	"bm_suit_var_tesuit_jacket_desc": "This isn't exactly Jacket's style, but you can tell he's still stuck in the 80s. The pockets aren't quite big enough for his tape recorder. Maybe the silence is more intimidating."
+
+	"bm_gloves_punkleather_blue": "Blue Boppers",
+	"bm_gloves_punkleather_blue_desc": "Joy unfortunately had to explain to Dallas that he was past his prime to use slang like 'bop' when referring to his favorite casette tape."
+
+	"bm_gloves_punkleather_purple": "Punk Purple",
+	"bm_gloves_punkleather_purple_desc": "A great mixture of style and intimidation. Jack of all trades."
+
+	"bm_gloves_punkleather_green": "Greed Green",
+	"bm_gloves_punkleather_green_desc": "Bain thinks it'll be a long time before you fill up the safehouse vault. You take that as a challenge."
+
+	"bm_gloves_punkleather_red": "Rebellious Red",
+	"bm_gloves_punkleather_red_desc": "Going against the grain since 2011."
+
+	"bm_gloves_punkleather_white": "Infamous Ivory",
+	"bm_gloves_punkleather_white_desc": "Hundreds of hours of later and you've finally hit Infamy 25.\n\ \n\Too bad there's 475 more levels. You start to wonder if the clown mask reflects something deeper."
+
+	"bm_gloves_bonemittens_pink": "Spine-chilling Pink",
+	"bm_gloves_bonemittens_pink_desc": "The wearer's exquisite fashion taste is enough to give anyone goosebumps."
+
+	"bm_gloves_bananabike_blue": "Blueberry Black",
+	"bm_gloves_bananabike_blue_desc": "Turns out that the Banana Black gloves don't scare hornets, they actually attract them. Matt Roscoe was a useful test subject."
+
+	"bm_gloves_bananabike_red": "Cherry Black",
+	"bm_gloves_bananabike_red_desc": "A great choice for the combat medics of the group."
+
+	"bm_gloves_bananabike_green": "Lime Black",
+	"bm_gloves_bananabike_green_desc": "One of Jacket's favorite fruits. Often bites into them like an apple, to the rest of the gang's horror."
+
+	"bm_gloves_bananabike_black": "Blackberry Black",
+	"bm_gloves_bananabike_black_desc": "No flashy colors for you. Heisting is serious business."
+
+	"bm_gloves_bananabike_purple": "Plum Black",
+	"bm_gloves_bananabike_purple_desc": "If you think this is a bold shade of purple, you should see the gnarly bruises these gloves are capable of."
+
+	"bm_suit_var_tesuit_moon": "Moonstrutter",
+	"bm_suit_var_tesuit_moon_desc": "Hit the Harvest & Trustee Bank like a suave criminal."
+
+	"bm_suit_var_tesuit_pink": "Panther",
+	"bm_suit_var_tesuit_pink_desc": "Explosions, gunfire, and intense EDM music blasting in your ears isn't your style. You like to keep things quiet."
+
+	"bm_suit_var_tesuit_purple": "Spare Purple",
+	"bm_suit_var_tesuit_purple_desc": "There are multiple spare suits hanging around the safehouse that have never been worn, usually because a new heister insists on wearing what they already have on. Dallas doesn't like the inconsistency (or wasting money on useless expensive suits), but no one wants to be the one to enforce it."
+
+	"bm_suit_var_tesuit_green": "August",
+	"bm_suit_var_tesuit_green_desc": "Duke likes to keep this one around for when his usual heisting attire is stuck at the dry cleaners."
+
+	"bm_suit_var_tesuit_disco": "Totally Disco",
+	"bm_suit_var_tesuit_disco_desc": "You woke up not knowing who you are, what you're doing, or why you're here, but you know for certain that before the memory loss, you were a superstar."
+
+	"bm_suit_var_tesuit_wolfalt": "Alternate Wolf",
+	"bm_suit_var_tesuit_wolfalt_desc": "Worn shortly before the Akan jobs. One of the very few times someone managed to outplay Wolf's insanity."
+
+	"bm_suit_var_tesuit_dallasalt": "Alternate Dallas",
+	"bm_suit_var_tesuit_dallasalt_desc": "Worn during a seemingly harmless trip to the dentist's office. Mr. Steele would never have guessed it would lead to bringing Hoxton back."
+
+	"bm_suit_var_baron_dark": "The Grand Octennial Night",
+	"bm_suit_var_baron_dark_desc": "For the heister who prefers to celebrate spending the evening near the safehouse bar."
+
+	"bm_suit_var_baron_purple": "The Grand Octennial Purple",
+	"bm_suit_var_baron_purple_desc": "For the heister who has great taste in their choice of clothing."
+
+	"bm_suit_var_baron_green": "The Grand Octennial Green",
+	"bm_suit_var_baron_green_desc": "For the heister with a wide vocabulary for the thing that makes the world go round. Cash? Bread? Quid? Cheddar? Maybe if you're feeling adventurous, simoleons?"
+
+	"bm_suit_var_baron_pink": "The Grand Octennial Pink",
+	"bm_suit_var_baron_pink_desc": "For the heister who knows how to party, maybe a little bit too hard."
+
+	"bm_suit_var_baron_ivory": "The Grand Octennial Pearl",
+	"bm_suit_var_baron_ivory_desc": "For the heister who loves to put the Precious Things jewelry store out of business."
+
+	"bm_suit_var_baron_gold": "The Grand Octennial Gold",
+	"bm_suit_var_baron_gold_desc": "For the heister who... actually, come on. Who doesn't love gold? Easy choice."
+
+	"bm_suit_var_baron_brown": "The Grand Octennial Mocha",
+	"bm_suit_var_baron_brown_desc": "For the heister who prefers a warm mug of coffee over celebratory drinks."
+
+	"bm_suit_var_thug_kim": "RCM Lieutenant",
+	"bm_suit_var_thug_kim_desc": "CONCEPTUALIZATION [Medium: Success] - The outfit of one of the RCM's most diligent crime fighters, worn by the embodiment of crime itself. Ironic, isn't it?\n\ \n\ELECTRO-CHEMISTRY [Medium: Success] - Go on, superstar, another round of Cook Off couldn't hurt.\n\ \n\AUTHORITY [Challenging: Success] - Your enemies are nothing more than insects. Show the Zeal Team who runs this city."
+
+	"bm_suit_var_thug_negative": "Sporty Contrast",
+	"bm_suit_var_thug_negative_desc": "This comfortable bomber jacket may compel you to sprint the extra mile. Push beyond your limit."
+
+	"bm_suit_var_continental_dallas2": "The Crew Chief",
+	"bm_suit_var_continental_dallas2_desc": "In an incredible boast of wealth, Dallas gets to have two celebration suits. If another crew member gets jealous, maybe they could try being the one to babysit over twenty hardened criminals."
+
+	"bm_suit_var_continental_python": "The Python",
+	"bm_suit_var_continental_python_desc": "Channels the achievement-loving Immortal Python with an exotic color palette to make sure everyone knows that finishing the heist isn't enough for you. You need a good challenge."
+
+	"bm_gloves_jesterstripe_blue": "Blue Celebratory Leathers",
+	"bm_gloves_jesterstripe_blue_desc": "The tailor forgot to ship these with the red pair. Better late than never."
+
+	"bm_gloves_jesterstripe_black": "Black Celebratory Leathers",
+	"bm_gloves_jesterstripe_black_desc": "By wearing these, you show that you're far too hard-boiled for petty things such as 'celebrations'. Your career's not over yet."
+
+	"bm_gloves_jesterstripe_purple": "Purple Celebratory Leathers",
+	"bm_gloves_jesterstripe_purple_desc": "To you, the color purple itself is something to be celebrated. You can't get enough of that bold compromise between red and blue."
+
+	"bm_gloves_jesterstripe_pink": "Pink Celebratory Leathers",
+	"bm_gloves_jesterstripe_pink_desc": "Pink is a hardcore color for hardcore partying."
+
+	"bm_gloves_jesterstripe_yellow": "Gold Celebratory Leathers",
+	"bm_gloves_jesterstripe_yellow_desc": "Matches the solid gold buttons on your suit."
+
+	"bm_gloves_jesterstripe_white": "White Celebratory Leathers",
+	"bm_gloves_jesterstripe_white_desc": "You'd think you wouldn't want to get these dirty, but wouldn't that defeat the purpose of wearing gloves? Just don't think about it."
+
+	"bm_gloves_jesterstripe_brown": "Brown Celebratory Leathers",
+	"bm_gloves_jesterstripe_brown_desc": "You don't need fancy dyes. Classic brown leather is your go-to."
+
+	"bm_gloves_jesterstripe_green": "Green Celebratory Leathers",
+	"bm_gloves_jesterstripe_green_desc": "The anniversary celebration came to a screeching halt after Dallas realized someone had burnt all of the cash for a stupid sign on the wall."
+
+	"bm_suit_var_slaughterhouse_new1": "Checker Red",
+	"bm_suit_var_slaughterhouse_new1_desc": "Has some extra pockets to keep all your tools, including but not limited to guns, ammo, and some mid-heist snacks."
+
+	"bm_suit_var_slaughterhouse_new2": "Crime.net Blue",
+	"bm_suit_var_slaughterhouse_new2_desc": "Show your love for the heisting profession with this fashionable blue outfit embroidered front and center with a classic '2'."
+
+	"bm_suit_var_slaughterhouse_new3": "Checker Green",
+	"bm_suit_var_slaughterhouse_new3_desc": "What are you expecting for this description? Another connection between the color of dollar bills and the color of this shirt?\n\ \n\Admittedly, you've cracked the formula. However, we at the tailor shop aim to expand your wardrobe, not your vocabulary."
+
+	"bm_gloves_flame_blue": "Scorching Flame Grip",
+	"bm_gloves_flame_blue_desc": "Didn't think it'd get much spicier than the red flame gloves? Think again."
+
+	"bm_gloves_flame_black": "Scalding Flame Grip",
+	"bm_gloves_flame_black_desc": "Now even white dwarf stars have competition."
+
+	"bm_suit_var_tesuit_red": "Velvet Red",
+	"bm_suit_var_tesuit_red_desc": "Living a life of opulence isn't easy. Think about how sore the PAYDAY gang feels the next morning after carrying hefty bags of gold up the stairs."
+
+	"bm_suit_var_tesuit_pinkwhite": "Dash of Pink",
+	"bm_suit_var_tesuit_pinkwhite_desc": "Sure, Rust wore a pink suit that one time, but Jimmy wore this one without even realizing how out of place he looked compared to the others. Not that he really cares."
+
+	"bm_suit_var_tesuit_desaturate": "Achromatic",
+	"bm_suit_var_tesuit_desaturate_desc": "Simple grey and white with a checker pattern thrown in to keep things interesting. Discreet and unassuming, but maybe that's exactly what you want."
+
+	"bm_suit_var_tesuit_yellow": "Sunny Day",
+	"bm_suit_var_tesuit_yellow_desc": "PAYDAY Man\n\Fighter of the law man\n\Champion of the gun\n\He's a master of bank robbery\n\And heisting\n\From everyone!"
+
+	"bm_suit_var_tesuit_dark": "Shadowy Figure",
+	"bm_suit_var_tesuit_dark_desc": "What just ran behind that crate at the Murkywater compound? An animal? A piece of trash? Maybe even an armed clown carrying thousands of dollars worth of merchandise? Doesn't matter. It's best not to investigate further for everyone involved."
+
+	"bm_suit_var_tesuit_holiday": "Mr. Holiday",
+	"bm_suit_var_tesuit_holiday_desc": "Dallas would love to catch the bastard in the green Micro Cooper who rammed into the escape van and flipped him the bird."
+
+	"bm_gloves_kidswool_cloak": "Difficulty Tweak",
+	"bm_gloves_kidswool_cloak_desc": "Sure, it brings you nothing but misfortune. But isn't it just so dang cute?\n\ \n\Anyway, play on Normal next time."
+
+	"bm_gloves_kidswool_cyan": "Newcomer",
+	"bm_gloves_kidswool_cyan_desc": "Getting electrocuted by the thermal drill on Firestarter Day 3 is the PAYDAY equivalent of touching a hot stove. You'll remember to think twice next time."
+
+	"bm_gloves_kidswool_grey": "Newbie",
+	"bm_gloves_kidswool_grey_desc": "Ouch. Apparently, you didn't even get the honor of wearing pink. Sure, they're cat gloves, but where's the flair? Oh well, sometimes it's best to keep things simple."
+
+	"bm_suit_var_t800_touchdown": "Infamy Touchdown",
+	"bm_suit_var_t800_touchdown_desc": "The average Cloaker shudders in fear at the thought of there being something stronger than the steel katana."
+
+	"bm_suit_var_t800_pink": "Infamy Pink",
+	"bm_suit_var_t800_pink_desc": "So what if going infamous is a 'grind'? It doesn't matter to you. That's the whole reason you're in the heisting business. Nothing like watching those numbers go up."
+
+	"bm_suit_var_t800_green": "Infamy Green",
+	"bm_suit_var_t800_green_desc": "Your brand new Infamy Leather outfit makes your non-infamous crewmates jealous of your limitless time and dedication to the heisting craft."
+
+	"bm_gloves_murkygloves_blue": "Trooper",
+	"bm_gloves_murkygloves_blue_desc": "Every Murkywater mercenary's worse nightmare is being told they're on 'Dallas duty.'"
+
+	"bm_gloves_murkygloves_brown": "Commando",
+	"bm_gloves_murkygloves_brown_desc": "Turns out that Eagle Heavy rounds bounce right off of Dragan's skin. Horrifying."
+
+	"bm_gloves_murkygloves_green": "Fighter",
+	"bm_gloves_murkygloves_green_desc": "Murkywater is trained in hand-to-hand combat, but they were never trained to up against a foe like Jacket, who will gladly use whatever object nearest to him as a weapon of mass destruction."
+
+	"bm_gloves_murkygloves_grey": "Combatant",
+	"bm_gloves_murkygloves_grey_desc": "The Murkywater driver had one job: do not take the route next to the slaughterhouse."
+
+	"bm_suit_var_continental_anvblue": "The Celebration",
+	"bm_suit_var_continental_anvblue_desc": "There's one crucial thing missing in the midst of all this partying: where is that iconic PAYDAY blue!?"
+
+	"bm_suit_var_continental_anvred": "The Ceremony",
+	"bm_suit_var_continental_anvred_desc": "If there's one thing worse for Aldstone than cleaning up the bodies after a safehouse raid, it's cleaning up after one of the crew's safehouse parties. He doesn't feel like he gets paid enough for this."
+
+	"bm_suit_var_continental_anvpurple": "The Festival",
+	"bm_suit_var_continental_anvpurple_desc": "A real piñata would be ideal, but a certain double-crossing escape van driver lounging around the safehouse works too."
+
+	"bm_gloves_continental_blue": "Fortune",
+	"bm_gloves_continental_blue_desc": "There's Senator John Simmons rich, and then there's PAYDAY rich. The only difference is that the PAYDAY gang pays their taxes."
+
+	"bm_gloves_continental_red": "Auspicious",
+	"bm_gloves_continental_red_desc": "Every PAYDAY gang member secretly believes that they're the reason the crew is still alive. In reality, the whole gang is lucky that Aldstone is around to keep watch for Jiro's murderous sleep walking episodes."
+
+	"bm_gloves_continental_purple": "Error",
+	"bm_gloves_continental_purple_desc": "This is awkward. Game development isn't easy."
+
+	"bm_suit_var_thug_game": "Green Light",
+	"bm_suit_var_thug_game_desc": "Who would've known that there's another crew of masked individuals sitting on top of a large pile of cash?"
+
+	"bm_suit_var_thug_lime": "Verdant Green",
+	"bm_suit_var_thug_lime_desc": "A brisk jog through the park is some good exercise, but lugging bags of gold up the stairs of the Golden Grin Casino is even better."
+
+	"bm_suit_var_thug_orange": "Sunny Orange",
+	"bm_suit_var_thug_orange_desc": "Ouch. The worst part of heisting in the daytime are the sunburns. Even the PAYDAY gang needs to wear sunscreen."
+
+	"bm_suit_var_tesuit_seymour": "Delightfully Devilish",
+	"bm_suit_var_tesuit_seymour_desc": "Being stuck in a tiger cage for 18 months changes a man."
+
+	"bm_suit_var_tesuit_charon": "Charon",
+	"bm_suit_var_tesuit_charon_desc": "All things considered, even Wick was impressed to see Charon take down a few Cloakers while armed with only a Chimano 88."
+
+	"bm_suit_var_tesuit_srs": "So Serious",
+	"bm_suit_var_tesuit_srs_desc": "One could prepare for cameras, guards, even security codes, but there's no chance that anyone's expecting the bank manager to whip out a sawn-off."
+
+	"bm_suit_var_gentleman_medic": "Herr Doktor",
+	"bm_suit_var_gentleman_medic_desc": "You were supposed to do no harm, but the Cloaker head in the refrigerator says otherwise."
+
+	"bm_suit_var_gentleman_dark": "Night Herder",
+	"bm_suit_var_gentleman_dark_desc": "Has a silenced Repeater 1874 pointed at anyone brave enough to steal their cattle. Enjoys letting the burglars think they've gotten away with it for a little bit, right before they put the fools down as always."
+
+	"bm_suit_var_gentleman_light": "Dry Desert",
+	"bm_suit_var_gentleman_light_desc": "There's one thing deadlier than bandits, and that's the sweltering dry heat of the desert. Keep a water bottle handy, or you might start hallucinating mountainous mirages of cash."
+
+	"bm_suit_var_peacoat_lumberpurple": "Checker Purple",
+	"bm_suit_var_peacoat_lumberpurple_desc": "Not a bad way to stay warm on those cold winter heists. Tasers are dangerous, but frostbite is just as likely to stop any clown dead in their tracks."
+
+	"bm_suit_var_peacoat_lumberblack": "Plaid Black",
+	"bm_suit_var_peacoat_lumberblack_desc": "For the first time in decades, Rust felt horror as he realized he left the tag on his brand new jacket for an entire heist. It all started to make sense as to why the civilians kept snickering when he turned his back."
+
+	"bm_suit_var_peacoat_lumberyellow": "Sequoia Brown",
+	"bm_suit_var_peacoat_lumberyellow_desc": "The PAYDAY camping trip was a disaster. Dragan couldn't live without his weights, Bodhi without his surfboard, Jacket without Matt Roscoe, Sydney without spray paint, and countless other grievances. Locke believes that the crew has zero appreciation for nature."
+
+	"bm_gloves_sneak_black": "Pitch Dark",
+	"bm_gloves_sneak_black_desc": "The perfect environment for sneaking around."
+
+	"bm_gloves_sneak_blue": "Sneaky",
+	"bm_gloves_sneak_blue_desc": "Non-lethal takedowns might be an option, but the PAYDAY gang has to justify the body bag budget somehow."
+
+	"bm_gloves_sneak_brown": "Discreet",
+	"bm_gloves_sneak_brown_desc": "If Bain could cut any spending, it would be on the pager operator. The amount of money to keep his mouth shut is astronomical, but considering how often the PAYDAY gang slips up, it isn't unreasonable."
+
+	"bm_gloves_sneak_green": "Covert",
+	"bm_gloves_sneak_green_desc": "Dallas thought that Houston's suggestion to use the hand dryer as a distraction was one of the dumbest things he had ever heard, but thankfully, the guards were even dumber."
+
+	"bm_gloves_sneak_red": "Silent",
+	"bm_gloves_sneak_red_desc": "One of Clover's greatest achievements is destroying thousands of dollars worth of merchandise on Vlad's mall destruction job with zero police response whatsoever. Even Bain was dumbfounded."
+
+	"bm_suit_var_cybertrench_plain": "Cybertrench Analog",
+	"bm_suit_var_cybertrench_plain_desc": "'The future is now,' they say. 'Learn to use a smartphone,' they demand. Screw that noise. For this heister, life was better before all of this 'tech' garbage."
+
+	"bm_suit_var_cybertrench_plainbrown": "Cybertrench Cardboard",
+	"bm_suit_var_cybertrench_plainbrown_desc": "What's with all the neon lights? This heister prefers to keep it discreet. A little out of touch, but still tasteful."
+
+	"bm_suit_var_cybertrench_plainblue": "Cybertrench Puddle",
+	"bm_suit_var_cybertrench_plainblue_desc": "Nothing like a calm, rainy day to unwind. However, sometimes one has to learn the hard way that Pear phones aren't waterproof. Looks like that one's going on the offshore account..."
+
+	"bm_suit_var_cybertrench_flm": "Cybertrench Pink",
+	"bm_suit_var_cybertrench_flm_desc": "Human beings need to put effort into looking stylish. Flamingoes are simply born with that ability. Look at how classy they are, standing on one foot like they're better than the rest of us."
+
+	"bm_suit_var_cybertrench_crb": "Cybertrench Blue",
+	"bm_suit_var_cybertrench_crb_desc": "Being a red crab just wasn't interesting enough, so some crabs chose to be blue. Incredible. Nature is a marvel."
+
+	"bm_suit_var_cyberhoodie_plain": "Cyberhoodie Analog",
+	"bm_suit_var_cyberhoodie_plain_desc": "Rust feels horribly out of place wearing the new cyber clothing that Locke ordered, but he'd feel more out of place if the other three wore it and he didn't. At least the mask covers up his face to save him the embarrassment."
+
+	"bm_suit_var_cyberhoodie_plainbrown": "Cyberhoodie Cardboard",
+	"bm_suit_var_cyberhoodie_plainbrown_desc": "The crew insists that Jacket would have a much easier time if he just chose to use a soundboard app instead of carrying around multiple tape recorders, but he just won't listen. Dallas accepted defeat when Jacket started playing 'blah, blah, blah' noises whenever Dallas would attempt to speak to him."
+
+	"bm_suit_var_cyberhoodie_plainblue": "Cyberhoodie Puddle",
+	"bm_suit_var_cyberhoodie_plainblue_desc": "Maybe the safehouse wouldn't be raided so much if Dragan remembered to turn off his smartphone's location access. Oops."
+
+	"bm_suit_var_cyberhoodie_flm": "Cyberhoodie Pink",
+	"bm_suit_var_cyberhoodie_flm_desc": "Always remember to set all Pear phones to 'silent' before going the stealth route. An unnamed former crew member learned this the hard way."
+
+	"bm_suit_var_cyberhoodie_crb": "Cyberhoodie Blue",
+	"bm_suit_var_cyberhoodie_crb_desc": "The electric bill has skyrocketed ever since Joy moved into the safehouse. She thinks it's no big deal, but Dallas at least wishes that she'd use the computers for something useful and not for playing Bank Invaders 2."
+
+	"bm_suit_var_clown_2_wick": "The Moody Clown",
+	"bm_suit_var_clown_2_wick_desc": "In an effort to preserve his dignity, Wick opted for a dark black clown suit. Unfortunately, his efforts only made him stand out from everyone else, since they chose to wear colorful outfits. Houston asked Wick where he managed to find an all-black clown suit, but the smell of permanent marker gave the secret away. Houston didn't know whether to laugh or be worried at Wick's dedication."
+
+	"bm_gloves_highball": "Burnout",
+	"bm_gloves_highball_desc": "For the PAYDAY gang, their success doesn't depend on their trigger finger, their pre-planning, or even Bain. It's the escape driver that matters. For Twitch, it's not his speed that matters; it's his technique. This is what separates Eddie from Twitch, and why Twitch hasn't crashed the escape van into a fire hydrant."
+
+	"bm_suit_var_clown_2_bubbly": "The Bubbly Clown",
+	"bm_suit_var_clown_2_bubbly_desc": "Sydney joked that Rust should wear this one to reflect his 'bubbly' personality.\n\ \n\Rust did not laugh."
+
+	"bm_suit_var_clown_2_purplestripe": "The Prankster Clown",
+	"bm_suit_var_clown_2_purplestripe_desc": "Someone thought it'd be real funny to replace Dallas' hair gel with super glue. Houston attempted to blame Hoxton. Unfortunately, Houston is a terrible liar.\n\ \n\Or so everyone thought.\n\ \n\Turns out, it was Hoxton all along. Maybe he would've reconsidered if someone had finally given him his old mask back. "
+
+	"bm_suit_var_clown_2_creepy": "The Questionable Clown",
+	"bm_suit_var_clown_2_creepy_desc": "Sometimes, free balloons just aren't worth the trouble."
+
+	"bm_suit_var_clown_2_frog": "The Amphibious Clown",
+	"bm_suit_var_clown_2_frog_desc": "Jimmy's puppet show took a dark turn when Hermit the Toad starting firing .45s into the audience."
+
+	"bm_suit_var_classyske_neojack": "Not Nice",
+	"bm_suit_var_classyske_neojack_desc": "This outfit is best accompanied by gratuitious skeleton cackling."
+
+	"bm_suit_var_classyske_pink": "Funny Bone",
+	"bm_suit_var_classyske_pink_desc": "Whenever you yawn, your skeleton tries to escape.\n\ \n\Now that's not funny."
+
+	"bm_suit_var_classyske_green": "Humerusly Green",
+	"bm_suit_var_classyske_green_desc": "Never trust an individual who doesn't laugh at a skeleton pun. They may be controlled by a skeleton."
+
+	"bm_suit_var_elegantscarf_brown": "Undercover Clown",
+	"bm_suit_var_elegantscarf_brown_desc": "Not a bad way to stay hidden. While the scarf certainly does function as a tasteful complement to the toasty chestnut-colored coat, it also helps to cover up one's face if they happen to get spotted. Additionally, there are plenty of pockets inside to hide a suppressed Gruber Kurz and some ammo if things get hairy."
+
+	"bm_suit_var_elegantscarf_black": "Heartless Heister",
+	"bm_suit_var_elegantscarf_black_desc": "A bullet to the head does nothing to this heister. They're already dead inside. They don't collect bags of money; they collect bags under their eyes."
+
+	"bm_suit_var_elegantscarf_green": "Man of Means",
+	"bm_suit_var_elegantscarf_green_desc": "That coat is made of real dollar bills. Probably not legal, but this heister has enough cash to get away with it. The printer over at Mitchell's place works wonders."
+
+	"bm_suit_var_elegantscarf_red": "GenSec Executive",
+	"bm_suit_var_elegantscarf_red_desc": "Easily one of the richest men in the world. Makes bank off of selling crappy security equipment to large firms and who fall for it every time. Bain loves to wipe that stupid grin off his face."
+
+	"bm_suit_var_elegantscarf_purple": "Precious Purple",
+	"bm_suit_var_elegantscarf_purple_desc": "The previous CEO at the Garnet Group was bad enough, but new one is even more insufferable. If he walked into the building on the first floor, someone on the fifth floor would still smell his sickening overuse of cologne. He would be a tempting target if it wasn't for the fact that his terrible investments frequently put the company in the red."
+
+	"bm_suit_var_elegantscarf_grey": "Savvy Silver",
+	"bm_suit_var_elegantscarf_grey_desc": "Easiest job the gang has ever taken. That scarf, previously worn by someone at the wrong place at the wrong time, was swiftly swiped by Houston, who wanted a little extra pocket change. Limited edition Luicci, resells for thousands of dollars. If the original owner wants the scarf back so badly, they can always repurchase it."
+
+	"bm_suit_var_elegantscarf_tan": "Light Brown",
+	"bm_suit_var_elegantscarf_tan_desc": "'That's tan,' Hoxton argued.\n\ \n\'Light brown is just as correct,' Houston retorted.\n\ \n\'No, it isn't. It just isn't. Why are you like this?' Hoxton replied angrily.\n\ \n\Wolf threw red paint onto the coat. Now nobody wins."
+
+	"bm_suit_var_elegantscarf_pink": "Party Animal Pink",
+	"bm_suit_var_elegantscarf_pink_desc": "Jimmy refuses to invest in a fresh two-piece to replace the other one he ruined, but will not hesitate to buy some of the most expensive (and gaudy) apparel possible for a night out. Might as well take it out for a few heists before Jimmy trashes it."
+
+	"bm_suit_var_elegantscarf_default": "Breezy Blue",
+	"bm_suit_var_elegantscarf_default_desc": "Hoxton's started to venture out a bit more from the standard two-piece suit. If half the gang can experiment with bomber jackets, biker outfits, and different colored shoes, why shouldn't Hoxton try out something new for once?"
+
+	"bm_suit_var_elegantscarf_dallas": "Bank Manager",
+	"bm_suit_var_elegantscarf_dallas_desc": "Seems to know a lot about 'financial transfers'. Sounds innocuous enough."
+
+	"bm_suit_var_elegantscarf_white": "Snowy White",
+	"bm_suit_var_elegantscarf_white_desc": "Brooklyn Bank weather is no joke. To make matters worse, the drill isn't a fan of it either. Maybe the Flamethrower could help to warm up the atmosphere."
+
+	"bm_suit_var_elegantscarf_yellow": "Lemon Yellow",
+	"bm_suit_var_elegantscarf_yellow_desc": "The heist was difficult enough when Alex dropped the car in the wrong location, but it had really gone sour when Dallas realized he forgot to bring the saw. Always have a plan B."
+
+	"bm_suit_var_gunslinger_spearman": "Peace-unmaker",
+	"bm_suit_var_gunslinger_spearman_desc": "Loves firing their revolver into the air just for the hell of it and relishes in the chaos that ensues. Came to an unfortunate end when one of their stray bullets came back down onto their head, killing them instantly."
+
+	"bm_suit_var_gunslinger_pink": "The Pink Gunman",
+	"bm_suit_var_gunslinger_pink_desc": "The wildcard of the infamous gunmen. Prefers the non-lethal approach, refusing to carry a Peacemaker, but makes up for it with some incredible dexterity. One witness claims that he was able to use his fingers to flick a .45 round back at an opponent, hitting his revolver and disarming him instantly. "
+
+	"bm_gloves_vpr_snow": "Snow Viper",
+	"bm_gloves_vpr_snow_desc": "That's right. No one's safe from the viper, not even in snowy weather. The only thing worse than frostbite is an actual bite."
+
+	"bm_gloves_vpr_murky": "Murky Viper",
+	"bm_gloves_vpr_murky_desc": "There were dozens of venomous snakes being transported at the Murky Station. The PAYDAY gang didn't know why. They also didn't care. It was entertaining to let the snakes out of their cage without the Murkywater guards knowing, though."
+
+	"bm_gloves_vpr_tac": "Desert Viper",
+	"bm_gloves_vpr_tac_desc": "The devillish horns on the Deathwish skull aren't as original as one might think. Some species of viper have actually had them far longer."
+
+	"bm_gloves_vpr_night": "Onyx Viper",
+	"bm_gloves_vpr_night_desc": "Sangres' pet snake was the talk of the safehouse. 'Extremely venomous,' he said. One teaspoon of the venom would be enough to kill forty men. It was a horrific sight when the snake had finally bitten Sangres straight down on one of his veins when he had forgotten to feed him one morning.\n\ \n\It was both terrifying and relieving when he was completely unaffected."
+
+	"bm_suit_var_gunslinger_check2": "Bank Bandit",
+	"bm_suit_var_gunslinger_check2_desc": "The heisting profession has gotten far easier since the days of the Wild West. Back then, there were no suppressors, miniguns, flamethrowers, automatic rifles, or even body armor.\n\ \n\As to why you might want to relive those days by reloading a Peacemaker .45 for thirty seconds during a tricky battle, that's anyone's guess. But sometimes it's nice to go back to one's roots."
+
+	"bm_suit_var_continental_mine": "The Kirin",
+	"bm_suit_var_continental_mine_desc": "Rising to the top of the Tojo is only a matter of cunning calculation and sharp intellect. Underneath the businessman persona lies a ruthless boxer that pulls zero punches. He knows exactly who to use and how to use them, and tolerates no change in his plans."
+
+	"bm_suit_var_continental_friend": "The Kingpin",
+	"bm_suit_var_continental_friend_desc": "It seems like you really have pushed it to the limit this time. Your AMR-16 attached with a grenade launcher might've wiped out the brunt of them, but no one could have expected the shotgun blast that followed shortly after. Looks like this is it...\n\ \n\That's right. Round two."
+
+	"bm_suit_var_continental_glowblue": "The Cyber Prime",
+	"bm_suit_var_continental_glowblue_desc": "Simply crack this suit like a glowstick and it'll shine for at least 24 hours."
+
+	"bm_suit_var_continental_glowred": "The Techno Prime",
+	"bm_suit_var_continental_glowred_desc": "Works best when the wearer makes robot noises and loudly proclaims world domination (granted, Bain already wants to take over the world regardless.)"
+
+	"bm_suit_var_continental_glowyel": "The Electro Prime",
+	"bm_suit_var_continental_glowyel_desc": "There's actually a charging port in the left coat pocket."
+
+	"bm_suit_var_continental_glowpurp": "The Turbo Prime",
+	"bm_suit_var_continental_glowpurp_desc": "Do not walk in any puddles. It's not worth the risk."
+
+	"bm_suit_var_rusbear_maroon": "Dogsled Master Maroon",
+	"bm_suit_var_rusbear_maroon_desc": "The rest of the safehouse likes to drink either coffee or hot cocoa in the winter. Wolf likes to drink boiling hot water. Jacket pointed this out to him once and Wolf seemed genuinely shocked and amused that he had been drinking hot water this whole time. He forgot about the exchange seconds afterward and still partakes in his unique beverage regardless."
+
+	"bm_suit_var_rusbear_thing": "Dogsled Master Being",
+	"bm_suit_var_rusbear_thing_desc": "'I thought you took out that guard, Wolf!' Dallas lectured.\n\ \n\'Not sure what you're talking about, boss. Point-blank, back of the head,' Wolf replied. \n\ \n\Dallas stared at the mysterious Being guarding the cameras. \n\ \n\This was deeply concerning."
+
+	"bm_suit_var_rusbear_green": "Dogsled Master Green",
+	"bm_suit_var_rusbear_green_desc": "The first time someone threw a snowball at Chains was the last. His counter-attacks are so powerful that the pitiful snowball feels more like a rock hurdling at mach speeds. Houston knew Chains wasn't messing around when one of the aforementioned snowballs shattered the brick wall inches away from his head."
+
+	"bm_suit_var_rusbear_pink": "Dogsled Master Pink",
+	"bm_suit_var_rusbear_pink_desc": "This coat is so soft and spongy that its protective strength rivals that of a tactical vest. Punches bounce right off and it's certainly caught a few 9mms before they hit any skin. It'd be perfect to wear on every heist any time of the year if it wasn't so damn toasty."
+
+	"bm_suit_var_rusbear_slate": "Dogsled Master Coal",
+	"bm_suit_var_rusbear_slate_desc": "Everyone in the PAYDAY gang was looking forward to Christmas. On that highly anticipated morning, they rushed to open up their presents from Santa only to find a lump of coal in each box. They all came to the conclusion that this was actually pretty reasonable."
+
+	"bm_gloves_techhigh_brown": "Padded Moto Brown",
+	"bm_gloves_techhigh_yellow": "Padded Moto Yellow",
+	"bm_gloves_techhigh_green": "Padded Moto Green",
+	"bm_gloves_techhigh_pink": "Padded Moto Pink",
+	"bm_gloves_techhigh_purple": "Padded Moto Purple",
+
+	"bm_gloves_techlow_brown": "Comfort Moto Brown",
+	"bm_gloves_techlow_yellow": "Comfort Moto Yellow",
+	"bm_gloves_techlow_green": "Comfort Moto Green",
+	"bm_gloves_techlow_pink": "Comfort Moto Pink",
+	"bm_gloves_techlow_purple": "Comfort Moto Purple",
+
+	"bm_gloves_flame_pink": "Blistering Flame Grip",
+	"bm_gloves_flame_pink_desc": "Simply looking at these is enough to turn anyone to ashes. They're just that hot."
+
+	"bm_gloves_flame_yellow": "Spicy Flame Grip",
+	"bm_gloves_flame_yellow_desc": "These gloves are at least 1,400,000 scovilles. Don't lick them."
+
+	"bm_gloves_flame_green": "Jalapeño Flame Grip",
+	"bm_gloves_flame_green_desc": "Just a bit of a kick. Nothing too insane, but still tasteful."
+
+	"bm_gloves_reddragon_tigerdrop": "Tiger Drop Dragon Claws",
+	"bm_gloves_reddragon_tigerdrop_desc": "Just one swift punch to the gut is enough to stop those Cloakers dead in their tracks."
+
+	"bm_gloves_reddragon_swede": "Familiar Dragon Claws",
+	"bm_gloves_reddragon_swede_desc": "Thankfully, there's no need to assemble these gloves."
+
+	"bm_gloves_reddragon_white": "Alabaster Dragon Claws",
+	"bm_gloves_reddragon_white_desc": "Nice to look at, hard as a rock. Can definitely give way more than a bloody nose."
+
+	"bm_gloves_reddragon_blue": "Sapphire Dragon Claws",
+	"bm_gloves_reddragon_blue_desc": "Breathing red flames is pretty cool, but blue flames are even more intimidating."
+
+    	"bm_gloves_reddragon_green": "Emerald Dragon Claws",
+    	"bm_gloves_reddragon_green_desc": "Might actually match with the emeralds found at the Precious Things jewelry store. There's only one way to check."
+
+	"bm_gloves_blackdragon_red": "Blood Dragon Claws",
+	"bm_gloves_blackdragon_red_desc": "Or it could be a friendlier name like 'Strawberry Dragon' or something. Your call."
+
+	"bm_gloves_blackdragon_gold": "Gold Dragon Claws",
+	"bm_gloves_blackdragon_gold_desc": "Someone on the Dragon Heist job used to own these. Needless to say, they're yours now. They didn't look good on him, anyway."
+
+	"bm_gloves_blackdragon_blue": "Blue Dragon Claws",
+	"bm_gloves_blackdragon_blue_desc": "Unfortunately, as cool as it would be, you can't actually shoot fireballs with any of these dragon gloves. Dragon's Breath rounds are a worthy substitute, though."
+
+	"bm_gloves_blackdragon_invert": "Negative Dragon Claws",
+	"bm_gloves_blackdragon_invert_desc": "Despite the overwhelming negativity of these gloves, you should still stay positive. Skulldozers can sense apprehension."
+
+	"bm_gloves_blackdragon_dark": "Greyscale Dragon Claws",
+	"bm_gloves_blackdragon_dark_desc": "About as serious and professional as a pair of dragon gloves could possibly be."
+
+	"bm_gloves_redstripe_blue": "Blue Burnout Champ",
+	"bm_gloves_redstripe_blue_desc": "Don't joke around Twitch that he should start popping wheelies in the escape van, he will absolutely do it."
+
+	"bm_gloves_redstripe_dark": "Dark Burnout Champ",
+	"bm_gloves_redstripe_dark_desc": "Dallas is the only person in the escape van who can actually enjoy Twitch's choice of music. That Smokey Bennett stuff drives the rest of the crew insane on the tenth repeat."
+
+	"bm_gloves_redstripe_green": "Green Burnout Champ",
+	"bm_gloves_redstripe_green_desc": "Given how many times the escape van's ran a stoplight, it's a miracle there hasn't been any collisions yet. The collision itself isn't even the scary part, it'd be the reprimanding from Bain."
+
+	"bm_gloves_redstripe_gold": "Gold Burnout Champ",
+	"bm_gloves_redstripe_gold_desc": "It's always scary when the gang brings back a particularly large haul. There's been many close calls with the van almost tipping over from all the gold in the back seat."
+
+	"bm_gloves_redstripe_white": "Grey Burnout Champ",
+	"bm_gloves_redstripe_white_desc": "Dragan may be built like a tank, but unfortunately, his Achilles' heel is car sickness. No amount of weight lifting can solve that. Wick thinks it's funny and likes to make fake dry-heaving sounds in the escape van. Dragan thinks he'll beat the crap out of Wick as soon as they step out, but their friendship is too strong to let that thought linger."
+
+	"bm_suit_var_winter_suit_grncam": "Grassy Green",
+	"bm_suit_var_winter_suit_grncam_desc": "At this point, the concept of a 'snow camouflage' coat has been thrown out the opposite entirely, but it might serve its purpose in forest environments. Or green snow. It'd be pretty impressive to find that."
+
+	"bm_suit_var_winter_suit_redcam": "Strawberry Red",
+	"bm_suit_var_winter_suit_redcam_desc": "Are strawberries even in season? Who knows? Who cares? This stylish coat certainly is."
+
+	"bm_suit_var_winter_suit_purpcam": "Carrot Purple",
+	"bm_suit_var_winter_suit_purpcam_desc": "They exist. It's messed up, but it's true. Jimmy is still trying to figure out whether it was just a hallucination or he actually saw one in Dragan's lunch."
+
+	"bm_gloves_saintsleather_white": "Snowy Leather",
+	"bm_gloves_saintsleather_white_desc": "They say that snow's bad for leather, but it doesn't matter. You can destroy millions of pairs of these gloves and only just barely put a dent in your offshore cash."
+
+	"bm_gloves_saintsleather_green": "Natural Green",
+	"bm_gloves_saintsleather_green_desc": "All-natural, apparently. There's nothing wrong with the gloves themselves, but Duke is hung up on the question of where in the world the tailor found green leather."
+
+	"bm_gloves_saintsleather_yellow": "Well-worn Yellow",
+	"bm_gloves_saintsleather_yellow_desc": "These are actually an old pair of worn-down brown leather gloves, but they might find new life in a creative outfit combination."
+
+	"bm_gloves_saintsleather_blue": "Chrome-tanned Blue",
+	"bm_gloves_saintsleather_blue_desc": "This stuff is flimsy, but it'll last you a heist. Even if they tear during the heist, the feds already have a good chunk of the crew's fingerprints anyway, thanks to the handful who decided to wear fingerless gloves."
+
+	"bm_suit_var_raincoat_green2": "Weathered Green",
+	"bm_suit_var_raincoat_green2_desc": "In the midst of the property damage, lives lost, and money wasted, there is only one consequence of the Green Bridge job that truly matters to the PAYDAY gang, and that's the fact that they've lost an important escape route. It might be wise to avoid heists in that area from now on."
+
+	"bm_suit_var_raincoat_tan": "Dry Tan",
+	"bm_suit_var_raincoat_tan_desc": "Despite all the rain, the safehouse's front yard still looks like a desert. Aldstone wants his paycheck, but Dallas wants his rose bushes. It doesn't seem like this stalemate will come to an end anytime soon."
+
+	"bm_suit_var_raincoat_brown": "Mud Brown",
+	"bm_suit_var_raincoat_brown_desc": "Dragan was right; Wick should've worn a raincoat. Things got hairy when a SWAT van deliberately drove into a puddle of mud, getting Wick caught in the splash zone. There goes his favorite black suit."
+
+	"bm_suit_var_thug_orngblack": "Monarch Butterfly",
+	"bm_suit_var_thug_orngblack_desc": "Like moth to flame, Monarch Butterflies tend to flock to places with more money, perfect targets to steal from.\n\ \n\Actually, that's not true at all. Wick just told Dragan that to see how long he'd believe it. So far, so good."
+
+	"bm_suit_var_thug_greenpurp": "Friendship & Potassium",
+	"bm_suit_var_thug_greenpurp_desc": "This outfit's pretty bananas, isn't it?\n\ \n\Nevermind."
+
+	"bm_suit_var_classyske_bw": "No Body",
+	"bm_suit_var_classyske_bw_desc": "You can see right through this heister."
+
+	"bm_suit_var_classyske_orange": "Bone To Pick",
+	"bm_suit_var_classyske_orange_desc": "Obviously, nothing gets under this heister's skin."
+
+	"bm_suit_var_classyske_dw": "Deathwish Granted",
+	"bm_suit_var_classyske_dw_desc": "Finally, every heist completed on the hardest difficulties, but at what cost?"
+
+	"bm_gloves_bonemittens_dw": "Difficulty Skull Digits",
+	"bm_gloves_bonemittens_dw_desc": "One long achievement hunting play session later, you can see the silhouette of Akimbo Goliath 12G Shotguns even when you close your eyes. What a journey."
+
+	"bm_gloves_bonemittens_orange": "Bone Rattling Brown",
+	"bm_gloves_bonemittens_orange_desc": "You can't actually play the xylophone off of a ribcage. Jacket's tried."
+
+	"bm_gloves_bonemittens_green": "Bone Tibia Wild",
+	"bm_gloves_bonemittens_green_desc": "Are you sick of the skeleton puns yet? The tailor sure isn't."
+
+	"bm_gloves_wool_white": "Arctic Wool Combo",
+	"bm_gloves_wool_white_desc": "Perfect for all things related to building snowmen and making snow angels."
+
+	"bm_gloves_biker_desert": "Desert Hardtail",
+	"bm_gloves_biker_desert_desc": "Looks great on those tough motorcycle rides through Death Valley. Watch for scorpions."
+
+	"bm_suit_var_lonorwa_sporty": "Dead of Winter Sport",
+	"bm_suit_var_lonorwa_sporty_desc": "After the notorious ski trip ended in disaster, the gang's spent their holiday vacations indoors. Wolf's voice box still hasn't recovered."
+
+	"bm_suit_var_lonorwa_sky": "Dead of Winter Frost",
+	"bm_suit_var_lonorwa_sky_desc": "The amount of ice on the safehouse pavement is almost surreal. Jacket slipped and hit his head so hard that Duke swears he heard Jacket mumble a few words in a concussed rambling. He's been back to the tape recorder as usual since the incident."
+
+	"bm_suit_var_lonorwa_greenplaid": "Dead of Winter Pine",
+	"bm_suit_var_lonorwa_greenplaid_desc": "Why go and cut down a Christmas tree when the crew could rob one instead?"
+
+	"bm_suit_var_lonorwa_brown": "Dead of Winter Firewood",
+	"bm_suit_var_lonorwa_brown_desc": "Gotta keep it warm in the safehouse somehow. Hoxton, unfortunately, overlooked the need for a working heater when searching for a new safehouse."
+
+	"bm_suit_var_lonorwa_dark": "Dead of Winter Evening",
+	"bm_suit_var_lonorwa_dark_desc": "The best and worst time for a sneaky heist. Sure, there's no guards outside because no one wants to stand around in below zero temperatures, but no one wants to lug loot bags around in that weather either."
+
+	"bm_suit_var_tesuit_bw": "Negative Invert",
+	"bm_suit_var_tesuit_bw_desc": "That's right, this heister doesn't believe in 'grey areas.' It's either robbed or get robbed."
+
+	"bm_suit_var_tesuit_tan": "Khaki Tan",
+	"bm_suit_var_tesuit_tan_desc": "Out of all the basic suit colors like black, grey, or blue, tan is probably one of the more adventurous choices while still keeping things professional. Not a bad compromise."
+
+	"bm_suit_var_tesuit_brightblue": "Sky Blue",
+	"bm_suit_var_tesuit_brightblue_desc": "Remember: the sky's the limit. The PAYDAY gang may have hit the Golden Grin, the Benevolent, Henry's Rock, and even the White House, but maybe that's not all. The world had better hope that no one finds gold on the moon."
+
+	"bm_suit_var_murky_suit_akan": "Hardcore Elite Unit",
+	"bm_suit_var_murky_suit_akan_desc": "These guys were so good at their job that it actually became a problem. Even Akan thought it was too much, so after the gang went in for round two after nearly being sent to the hospital, these mercenaries now load their AK rifles with less than lethal ammunition."
+
+	"bm_suit_var_murky_suit_tac": "Murkywater Trainee",
+	"bm_suit_var_murky_suit_tac_desc": "The lowest tier of the Murkywater hierarchy, these guys don't even get camouflage, let alone a backpack. They're probably the least corrupt members of Murkywater."
+
+	"bm_suit_var_murky_suit_old": "Murkywater Classic",
+	"bm_suit_var_murky_suit_old_desc": "It feels like yesterday that the crew robbed that Murkywater van back in 2011. Not many of these vintage uniforms exist without bullet holes in them."
+
+	"bm_suit_var_miami_darkline": "Evening Breeze",
+	"bm_suit_var_miami_darkline_desc": "On those calm, moonlit nights, it's hard to resist the urge to lie down in the grass and enjoy the peace. However, it's much harder to resist the urge to unscrew that silencer and show GenSec who's boss. Maybe silence is overrated."
+
+	"bm_suit_var_miami_hotpink": "Scorching Pink",
+	"bm_suit_var_miami_hotpink_desc": "Hot pink so stylish that you swear it gives first degree burns if you wear it for too long. It's worth it, though. "
+
+	"bm_suit_var_miami_khaki": "Brisk Beige",
+	"bm_suit_var_miami_khaki_desc": "When Dallas brought this outfit home from the local Mal-Mart, he was disappointed to find out that he had already bought the same outfit not too long ago. It's yours now, apparently. Make sure you rip off the 'clearance' sticker."
+
+	"bm_suit_var_bunny_default": "Hopped Up",
+	"bm_suit_var_bunny_default_desc": "This might not be your first choice when it comes to heistwear, but it’s perfect for sleeping on the escape van home."
+
+	"bm_suit_var_bunny_orange": "Carrot Dyed",
+	"bm_suit_var_bunny_orange_desc": "There is an important distinction to be made between '24 karat' and '24 carrot.'"
+
+	"bm_suit_var_bunny_blue": "Blue Rabbit",
+	"bm_suit_var_bunny_blue_desc": "Did you know that the PAYDAY Animated Series is a documentary? Of course the crew went and got ice cream after the heist! Everyone knows that the first rule of robbing banks is to have fun. There's always Blue Rabbit ice cream stocked up in the safehouse freezer."
+
+	"bm_suit_var_bunny_white": "Wonderland White",
+	"bm_suit_var_bunny_white_desc": "'Follow the white rabbit,' they say. Really? The PAYDAY gang robs banks and performs shady deals. There is no way it gets more complicated than that."
+
+	"bm_suit_var_bunny_red": "Rabbit Rage",
+	"bm_suit_var_bunny_red_desc": "Things got a little gruesome when Vlad made a pun about Wolf's non-existent 'hare' line."
+
+	"bm_suit_var_bunny_yellow": "Energized Yellow",
+	"bm_suit_var_bunny_yellow_desc": "Shades? Check. Drumsticks? Check. 50% longer lasting batteries for your Argos III Shotgun?\n\ \n\Out of the crew's budget, apparently."
+
+	"bm_suit_var_bunny_purple": "Pajama Purple",
+	"bm_suit_var_bunny_purple_desc": "This outfit keeps you so warm that it rivals the winter parka on Boiling Point. Of course, you run the risk of heat exhaustion on any heist above 0 degrees outside, but it's worth the trade-off."
+
+	"bm_suit_var_bunny_green": "Meadow Green",
+	"bm_suit_var_bunny_green_desc": "The only reason no one's found a jackalope is because everyone is looking in the wrong places. They don't live in forests or grassy meadows.\n\ \n\They're actually aquatic."
+
+	"bm_suit_var_bunny_cloaker": "Cloaker Green",
+	"bm_suit_var_bunny_cloaker_desc": "A real cloaker probably can still hop further than you can. Still, this might trick them into hesitating a little before pummeling you, and those seconds are helpful."
+
+	"bm_suit_var_bunny_cloakerred": "Jacked Rabbit",
+	"bm_suit_var_bunny_cloakerred_desc": "Can a bunny outfit ever be intimidating? That simply depends on who the pissed-off, twisted heister is who decides to wear it."
+
+	"bm_suit_var_bunny_cloakerblue": "Cyber Blue",
+	"bm_suit_var_bunny_cloakerblue_desc": "Nearby Pear brand phones actually connect to this hoodie wirelessly.\n\ \n\Why?\n\ \n\Who knows! Why not?"
+
+	"bm_suit_var_bunny_cloakerpink": "Digital Pink",
+	"bm_suit_var_bunny_cloakerpink_desc": "Pink?\n\Just pink?\n\ \n\That isn't going to work for you. You've advanced far beyond typical clothing and require your outfits to include LED lights. You're living 500 years into the future."
+
+	"bm_gloves_kidswool_cloakred": "Apprentice",
+      "bm_gloves_kidswool_cloakred_desc": "It's a preferable term to something like 'newbie' or 'recruit.' Sounds more menacing."
+
+	"bm_gloves_kidswool_cloakblue": "Techie",
+	"bm_gloves_kidswool_cloakblue_desc": "Maybe you're only just getting started on your coding skills, but hey, you know how to flip the screen upside down, so that counts for something. Even Joy had to start somewhere."
+
+	"bm_gloves_kidswool_cloakpink": "Punk",
+	"bm_gloves_kidswool_cloakpink_desc": "They might call you a punk for wearing neon cat gloves and not a suit and tie. So what? Maybe you enjoy going against the grain."
+
+	"bm_suit_var_sparkle_default": "Sparkling Purple",
+	"bm_suit_var_sparkle_default_desc": "Ten whole years. There's been some ups and downs, but overall, it's been a great time."
+
+	"bm_suit_var_sparkle_silver": "Platinum Silver",
+	"bm_suit_var_sparkle_silver_desc": "Gold is cool and all, but you're more of a platinum kind of person. It's a bit less of an 'in your face' kind of flex, but a flex nonetheless."
+
+	"bm_suit_var_sparkle_red": "Red Carpet",
+	"bm_suit_var_sparkle_red_desc": "That's right, you're a celebrity now. You've looped around from being one of the scariest heisting crews in history to being loved by everyone. Sounds like someone aced Stockholm Syndrome."
+
+	"bm_suit_var_sparkle_green": "Filthy Rich",
+	"bm_suit_var_sparkle_green_desc": "This one's actually just a bunch of hundred dollar bills sewn together. Why carry a wallet when you can wear your wallet?"
+
+	"bm_suit_var_sparkle_blue": "Blue Moon",
+	"bm_suit_var_sparkle_blue_desc": "It's only once in a blue moon something can last quite this long. Here's to another decade!"
+
+	"bm_suit_var_sparkle_black": "Black & Gold",
+	"bm_suit_var_sparkle_black_desc": "The black fabric brings full attention to the bright dashes of gold. You've made it, and you want everyone to know that."
+
+	"bm_gloves_postmoto_brown": "The Time-Honored",
+	"bm_gloves_postmoto_brown_desc": "Leather gloves are rarely a bad option. Looks great when gripped around a steering wheel."
+
+	"bm_suit_var_enforcer_heat": "Extreme Heat",
+	"bm_suit_var_enforcer_heat_desc": "You may have broken or dislocated every bone in your victim's body, but one thing is for sure: you didn't kill him."
+
+	"bm_suit_var_enforcer_dark": "Formal",
+	"bm_suit_var_enforcer_dark_desc": "Professional, intimidating, and best of all, zero blood splatter. For now."
+
+	"bm_suit_var_enforcer_walnut": "Conventional",
+	"bm_suit_var_enforcer_walnut_desc": "Nothing too flashy. The gold chain still shows who's boss."
+
+	"bm_suit_var_enforcer_tan": "Stately",
+	"bm_suit_var_enforcer_tan_desc": "Not a common color combo for Yufu Wang's men, but you could make it your own. This one has a detective-like aura, making one wonder whether you fight crime or you ARE the crime."
+
+	"bm_suit_var_enforcer_bw": "Contrast",
+	"bm_suit_var_enforcer_bw_desc": "Even when the wearer turns around, the design on the back makes it feel like they're still watching."
+
+	"bm_suit_var_boss_pearl": "Pearl Master",
+	"bm_suit_var_boss_pearl_desc": "Maybe gold is overrated. You need the pearls more than the clams do."
+
+	"bm_suit_var_boss_glow": "Crimson Master",
+	"bm_suit_var_boss_glow_desc": "The power flows through your veins. Cloakers are trained to expect just about anything at this point, but they'll never see laser vision coming."
+
+	"bm_gloves_heatleather_dark": "Judge",
+	"bm_gloves_heatleather_dark_desc": "You've hit a point where it's not luck or skill that makes a successful heist. You simply will the success into existence."
+
+	"bm_gloves_heatleather_red": "Captain",
+	"bm_gloves_heatleather_red_desc": "Someone's gotta call the shots. Who's dealing with the bank manager? Who's fixing the drill? Who's finally going to bring the saw so you're not spending hours lockpicking deposit boxes? One of these will never have an answer."
+
+	"bm_gloves_heatleather_green": "Professional",
+	"bm_gloves_heatleather_green_desc": "Infamy 3.0? That's nothing. You're sitting here waiting for Infamy 4.0. When will you get awarded for hitting Infamy level 1000?"
+
+	"bm_gloves_heatleather_blue": "Expert",
+	"bm_gloves_heatleather_blue_desc": "Bulldozers? Cloakers? Tasers? You're not familiar with those terms. You go in and out of the place so fast that they'll never have a chance to show up."
+
+	"bm_gloves_heatleather_brown": "Ace",
+	"bm_gloves_heatleather_brown_desc": "At this point, you could probably just pay off GenSec, but where's the fun in that?"
+
+	"bm_gloves_desperadoleather_payday": "Wild One",
+	"bm_gloves_desperadoleather_payday_desc": "Swingin' into your saddle like a true desperado."
+
+	"bm_gloves_desperadoleather_winered": "Gun Twirler",
+	"bm_gloves_desperadoleather_winered_desc": "Anyone who says that engravings give no tactical advantage have clearly never heard of 'style points.'"
+
+	"bm_gloves_desperadoleather_cactus": "Outlaw",
+	"bm_gloves_desperadoleather_cactus_desc": "Back in the day, there was no escape van. All you had was an escape horse. If you were lucky, you may have just made it back to camp without getting bucked off mid firefight."
+
+	"bm_gloves_desperadoleather_white": "Robber",
+	"bm_gloves_desperadoleather_white_desc": "The trick back in the old west was to let the sheriff fire off all his rounds. Then, you could make your escape while he takes twenty seconds to reload."
+
+	"bm_gloves_desperadoleather_sun": "Bandit",
+	"bm_gloves_desperadoleather_sun_desc": "It's said that one of Dallas' ancestors opened his own bank specifically to let his crewmates come and rob the place with little resistance. They'd walk in, take the cash, and leave. The long con."
+
+	"bm_gloves_rainbowmittens_spurple": "Lilac Mittens",
+	"bm_gloves_rainbowmittens_spurple_desc": "These are always found in the safehouse. Vlad's allergic, so it helps keep him away from the place."
+
+	"bm_gloves_rainbowmittens_sorange": "Rose Mittens",
+	"bm_gloves_rainbowmittens_sorange_desc": "They don't smell like roses at all! They smell like blood! And gunpowder! Oh, the horror."
+
+	"bm_gloves_rainbowmittens_sgrey": "Dandelion Mittens",
+	"bm_gloves_rainbowmittens_sgrey_desc": "Aldstone's worst nightmare. Pulling weeds wasn't in the job description, but it's somehow Aldstone's job either way. If he wasn't allowed to let loose during the safehouse raids, he would've quit by now."
+
+	"bm_gloves_rainbowmittens_sgreen": "Moss Mittens",
+	"bm_gloves_rainbowmittens_sgreen_desc": "Not as pretty as a flower, but a plant nonetheless."
+
+	"bm_gloves_chopper_red": "Simple Red",
+	"bm_gloves_chopper_red_desc": "What even is so simple about these gloves? Is it the fabric? The shape? If simplicity was the objective, wouldn't you choose not to wear gloves at all? So many questions."
+
+	"bm_gloves_chopper_blue": "Simple Blue",
+	"bm_gloves_chopper_blue_desc": "A popular choice for one's favorite color. Hardly a bad option."
+
+	"bm_gloves_chopper_green": "Simple Green",
+	"bm_gloves_chopper_green_desc": "As Bain would say, simple doesn't always mean easy. But you're always looking for a challenge."
+
+	"bm_gloves_chopper_white": "Simple White",
+	"bm_gloves_chopper_white_desc": "A blank slate, waiting for the wearer to get their hands dirty."
+
+	"bm_gloves_driverleather_green": "Green Leather Getaway",
+	"bm_gloves_driverleather_green_desc": "For Twitch, every light is a green light. He has miraculously never caused an accident."
+
+	"bm_gloves_driverleather_blue": "Blue Leather Getaway",
+	"bm_gloves_driverleather_blue_desc": "Matches the escape van. Even the escape driver should dress to impress."
+
+	"bm_gloves_driverleather_blackdefault": "Excursion",
+	"bm_gloves_driverleather_blackdefault_desc": "It's still nice to take the escape van out for a drive every once in a while. Bain says that Twitch has to pay for the gas, though."
+
+	"bm_gloves_driverleather_blackinvert": "White Leather Excursion",
+	"bm_gloves_driverleather_blackinvert_desc": "Twitch wishes Bain let him pull up in a Falcogini. Not enough seats, Bain says. To hell with them, Twitch thinks to himself."
+
+	"bm_gloves_driverleather_blackblue": "Blue Leather Excursion",
+	"bm_gloves_driverleather_blackblue_desc": "The van is Twitch's happy place, and he will not tolerate anyone ruining that. Houston and Hoxton have had to get out of the van and walk back to the safehouse once when their arguing got too annoying."
+
+	"bm_gloves_driverleather_blackmiles": "Red Leather Excursion",
+	"bm_gloves_driverleather_blackmiles_desc": "Dodging bullets smashing through the windshield may be stressful, but that's nothing a little Pat Briscoe can't solve."
+
+	"bm_gloves_hockey_blue": "Icy Cross Check",
+	"bm_gloves_hockey_blue_desc": "Don't slip. The pain is temporary, but the humiliation is unforgettable."
+
+	"bm_gloves_hockey_pink": "Pink Cross Check",
+	"bm_gloves_hockey_pink_desc": "Slip these on before those snowball fights. You wouldn't want frostbite."
+
+	"bm_gloves_hockey_yellow": "Yellow Cross Check",
+	"bm_gloves_hockey_yellow_desc": "Sokol may have left his hockey career behind, but it helps to pretend that GenSec helmets are hockey pucks."
+
+	"bm_gloves_hockey_brightred": "Red Blizzard Cross Check",
+	"bm_gloves_hockey_brightred_desc": "For the cold-blooded type of heister and/or hockey player."
+
+	"bm_gloves_hockey_brightblue": "Blue Blizzard Cross Check",
+	"bm_gloves_hockey_brightblue_desc": "They're actually colder on the inside than the outside air. Incredible."
+
+	"bm_gloves_hockey_brightinvert": "Frost Blizzard Cross Check",
+	"bm_gloves_hockey_brightinvert_desc": "Don't drop them in the snow. You'll never find them again."
+
+	"bm_gloves_hockey_brightpink": "Pink Blizzard Cross Check",
+	"bm_gloves_hockey_brightpink_desc": "Wolf's the type of person to enjoy a slushie in 0 degree weather. At least it never melts."
+
+	"bm_gloves_sportsbike_grey": "Grey Windriders",
+	"bm_gloves_sportsbike_grey_desc": "A spare pair of gloves that Rust used to wear, and for good reason. They grip the handlebars pretty well, and on top of that, they're comfortable. They're not as fashionable as the black leather gloves, though. No one's wearing them now, so why not borrow them?"
+
+	"bm_gloves_sportsbike_green": "Green Windriders",
+	"bm_gloves_sportsbike_green_desc": "There's nothing quite like the feeling of gripping those two handlebars. The only thing better is the sound of the engine."
+
+	"bm_gloves_sportsbike_yellow": "Yellow Windriders",
+	"bm_gloves_sportsbike_yellow_desc": "Jimmy got a nasty concussion from attempting to pop a wheelie on Rust's motorcycle. The interesting part was that Jimmy actually became pretty down-to-earth and more aware of himself for a short while. Unfortunately, he was back to his normal self in about a week."
+
+	"bm_gloves_sportsbike_purple": "Purple Windriders",
+	"bm_gloves_sportsbike_purple_desc": "Stealing the motorcycles from OVERKILL M.C. was easily one of your favorite moments in your heisting career. It felt like they always belonged to you."
+
+	"bm_gloves_tactical_blue": "Combat Ready",
+	"bm_gloves_tactical_blue_desc": "Or, at least, as ready as one could be to deal with the PAYDAY gang."
+
+	"bm_gloves_tactical_red": "Peacekeeper",
+	"bm_gloves_tactical_red_desc": "Every squad thinks that they'll be the ones to take down the PAYDAY gang. Funnily enough, Dallas' silver tongue often convinces them to switch sides."
+
+	"bm_gloves_tactical_white": "Ice Ops",
+	"bm_gloves_tactical_white_desc": "Some heists are chillier than others, but the sight of Dragan knocking over a Skulldozer with his own body weight is enough to make anyone's blood run cold."
+
+	"bm_gloves_tactical_pink": "Protector",
+	"bm_gloves_tactical_pink_desc": "Powerfully pink. The color alone makes you feel a little bit stronger."
+
+	"bm_gloves_tgr_red": "Padded Tiger Red",
+	"bm_gloves_tgr_red_desc": "So flexible that they make you double-jointed even though you weren't before."
+
+	"bm_gloves_tgr_blue": "Padded Tiger Blue",
+	"bm_gloves_tgr_blue_desc": "A cyberpunk spin on the classic PAYDAY blue."
+
+	"bm_gloves_tgr_green": "Padded Tiger Green",
+	"bm_gloves_tgr_green_desc": "So comfortable that it's almost like you're not wearing gloves at all."
+
+	"bm_gloves_tgr_pink": "Padded Tiger Pink",
+	"bm_gloves_tgr_pink_desc": "Padded doesn't only mean that they're nice to wear. They can probably take a bullet or two if you're in a pinch."
+
+	"bm_gloves_tgr_white": "Padded Tiger Light",
+	"bm_gloves_tgr_white_desc": "For the kind of person who uses 'light' themes. Living on the edge."
+
+	"bm_gloves_mnt_dark": "Padded Mantis Black",
+	"bm_gloves_mnt_dark_desc": "Was dropped underneath the safehouse sofa. There might be a spiderweb inside of them, so be careful."
+
+	"bm_gloves_mnt_blue": "Padded Mantis Blue",
+	"bm_gloves_mnt_blue_desc": "Built to withstand high heat, apparently. Technically, it fits your purposes as well."
+
+	"bm_gloves_mnt_green": "Padded Mantis Green",
+	"bm_gloves_mnt_green_desc": "Green, just like a classic praying mantis. Reminds Jacket of one of his masks. It'd be nice if he wore it more often; the drill would be useful."
+
+	"bm_gloves_mnt_pink": "Padded Mantis Pink",
+	"bm_gloves_mnt_pink_desc": "Reminiscent of the rare orchid mantis. These aren't going to help you camouflage, but they're still cool to wear."
+
+	"bm_gloves_mnt_yellow": "Padded Mantis Yellow",
+	"bm_gloves_mnt_yellow_desc": "Might actually shock someone if you punch hard enough."
+
+	"bm_gloves_dragonscale_white": "Firescale White",
+	"bm_gloves_dragonscale_white_desc": "Burning white-hot. Absolutely filled with unfathomable firey rage."
+
+	"bm_gloves_dragonscale_cyan": "Firescale Cyan",
+	"bm_gloves_dragonscale_cyan_desc": "Who even needs brass knuckles? The brass knuckles are built-in!"
+
+	"bm_gloves_dragonscale_indigo": "Firescale Blue",
+	"bm_gloves_dragonscale_indigo_desc": "Allows for some gnarly backhands."
+
+	"bm_gloves_dragonscale_yellow": "Firescale Yellow",
+	"bm_gloves_dragonscale_yellow_desc": "May inflict the very first 'fifth-degree' burn."
+
+	"bm_gloves_dragonscale_purple": "Firescale Purple",
+	"bm_gloves_dragonscale_purple_desc": "Whatever you do, do not rub your eyes."
+
+	"bm_gloves_dragonscale_pink": "Firescale Pink",
+	"bm_gloves_dragonscale_pink_desc": "Even staring at these might singe someone's eyelashes."
+
+	"bm_gloves_dragonscale_green": "Firescale Green",
+	"bm_gloves_dragonscale_green_desc": "Extremely radioactive. May result in a complete loss of hair and skin."
+
+	"bm_suit_var_punk_glowblue": "Power Chord",
+	"bm_suit_var_punk_glowblue_desc": "Noise complaint? More like a noise suggestion. Everyone needs to hear your wicked guitar solos."
+
+	"bm_suit_var_punk_glowred": "Amped Up",
+	"bm_suit_var_punk_glowred_desc": "For you, if the room isn't shaking, the music isn't loud enough."
+
+	"bm_suit_var_punk_glowgreen": "Hammer-on",
+	"bm_suit_var_punk_glowgreen_desc": "Drums, bass, guitar. Whatever it is, you're not going to quit jamming until you have blisters on your fingers."
+
+	"bm_suit_var_tesuit_grand": "Rabid Fuchsia",
+	"bm_suit_var_tesuit_grand_desc": "This crazed, knife-wielding fiend walked so that the Mad Dog could run. Absolutely vicious."
+
+	"bm_suit_var_tesuit_clean": "Killer Costume",
+	"bm_suit_var_tesuit_clean_desc": "For the last time, you're a cleaner."
+
+	"bm_suit_var_tesuit_shrimp": "Benchwarmer",
+	"bm_suit_var_tesuit_shrimp_desc": "Was involved in one of the first recorded instances of Inspire Basic. Can outrun cloakers."
+
+	"bm_suit_var_bunny_cocoa": "Chocolate Bunny",
+	"bm_suit_var_bunny_cocoa_desc": "For heisters who are sweet on the outside but cold and hollow on the inside."
+
+	"bm_suit_var_bunny_camo": "Cuddly Camo",
+	"bm_suit_var_bunny_camo_desc": "It's a mystery why a seemingly GenSec produced bunny outfit exists. Maybe some kind of psychological warfare thing. See how such a theory works when it's used back on them."
+
+	"bm_suit_var_bunny_dark": "Pitch Black Bunny",
+	"bm_suit_var_bunny_dark_desc": "They say carrots help you see in the dark, but so does a flashlight. Checkmate."
+
+	"bm_suit_var_continental_dynamite": "The Liger",
+	"bm_suit_var_continental_dynamite_desc": "You know who you're voting for, and it's not McKendrick."
+
+	"bm_suit_var_continental_glowpink": "The Virtual Prime",
+	"bm_suit_var_continental_glowpink_desc": "This suit isn't real. It's actually CGI making you think it's real. The future is now."
+
+	"bm_suit_var_continental_glowcitrus": "The Digital Prime",
+	"bm_suit_var_continental_glowcitrus_desc": "Requires two sticks of RAM tucked inside the pockets to function."
+
+	"bm_suit_var_elegantscarf_cowboy": "Jazz Noir",
+	"bm_suit_var_elegantscarf_cowboy_desc": "You're not sure why, but the Baby Deagle seems awfully alluring when you put on this outfit."
+
+	"bm_suit_var_elegantscarf_plain": "Cold-blooded",
+	"bm_suit_var_elegantscarf_plain_desc": "Black coat, white shirt, red tie. A classic hitman's ensemble. Should look great whether you go stealthy or loud."
+
+	"bm_suit_var_elegantscarf_orange": "Orange Peel",
+	"bm_suit_var_elegantscarf_orange_desc": "Smells like citrus cologne. Infused with copious amounts of Vitamin C."
+
+	"bm_suit_var_boss_stag": "STAG Initiative",
+	"bm_suit_var_boss_stag_desc": "If you thought Murkywater was enough of a nuisance, wait until you see what the Saints had to deal with in Steelport."
+
+	"bm_suit_var_boss_ronin": "Ronin",
+	"bm_suit_var_boss_ronin_desc": "A ronin is a samurai without any kind of boss. How the Ronin gang is able to reconcile the fact that they have a leader with the meaning of 'ronin', no one really knows."
+
+	"bm_suit_var_boss_grey": "Saints Slate",
+	"bm_suit_var_boss_grey_desc": "No need to flaunt your status through your clothing. Everyone already knows that you're the boss."
+
+	"bm_suit_var_cartelboss_alt": "Mansion Dweller",
+	"bm_suit_var_cartelboss_alt_desc": "Another one of Buluc's outfits that was robbed from his wardrobe. Not quite as overpowering as the standard pearl outfit, but powerful enough to show who's in charge."
+
+	"bm_suit_var_cartelboss_alt2": "Dry Heat",
+	"bm_suit_var_cartelboss_alt2_desc": "Thankfully, to balance out the hot weather, Buluc's mansion is placed right next to the ocean. This is very convenient, but not for the reason Buluc thinks."
+
+	"bm_suit_var_cartelboss_alt3": "Ocean Blue",
+	"bm_suit_var_cartelboss_alt3_desc": "Maybe the shark shouldn't have been brought back to the mansion."
+
+	"bm_suit_var_kungfumaster_pink": "Laohu Dashi Flamingo",
+	"bm_suit_var_kungfumaster_pink_desc": "Might improve your balance standing on one leg. Very helpful for nailing the perfect kick to the jaw."
+
+	"bm_suit_var_kungfumaster_bw": "Laohu Dashi Sport",
+	"bm_suit_var_kungfumaster_bw_desc": "If lifting weights and running on the treadmill isn't enough exercise, then sprinting while carrying weapons, armor, and bags of gold will also get the blood pumping."
+
+	"bm_suit_var_kungfumaster_green": "Laohu Dashi Morph",
+	"bm_suit_var_kungfumaster_green_desc": "Nothing like a visit from Green Man to get through those tougher situations. Rat slaying master."
+
+	"bm_suit_var_kungfumaster_blue": "Laohu Dashi Ocean",
+	"bm_suit_var_kungfumaster_blue_desc": "The wearer of this outfit is more likely to throw punches the strength of a thousand crashing waves."
+
+	"bm_suit_var_kungfumaster_invert": "Laohu Dashi Sport Invert",
+	"bm_suit_var_kungfumaster_invert_desc": "Wick thought it'd be funny to replace Dragan's weights with a set that was three times as heavy as what he usually lifts.\n\ \n\Terrifyingly, Dragan never noticed."
+
+	"bm_suit_var_mariachi_plainblack": "Moody Guitarist",
+	"bm_suit_var_mariachi_plainblack_desc": "You just want to play a song that YOU would like to play for once, but everyone just wants to hear Wonderwall instead."
+
+	"bm_suit_var_mariachi_spidervenom": "Venomous",
+	"bm_suit_var_mariachi_spidervenom_desc": "Look, don't touch.\n\ \n\Or is that poisonous?\n\ \n\Best not to take chances."
+
+	"bm_suit_var_mariachi_vintageblue": "Vintage Blue",
+	"bm_suit_var_mariachi_vintageblue_desc": "They've seen you play guitar, but truly, there isn't an instrument you can't play. Piano? Check. Trumpet? Check. Theremin? Check, and like an absolute pro."
+
+	"bm_suit_var_murky_suit_gensec": "GenSec Heavy",
+	"bm_suit_var_murky_suit_gensec_desc": "A vintage uniform worn by pre-2018 GenSec, before they started wearing more advanced fatigues. It isn't going to fool anyone, but it sure is neat to have around."
+
+	"bm_suit_var_murky_suit_pink": "Murkywater Pink",
+	"bm_suit_var_murky_suit_pink_desc": "As a practical joke, the crew broke into the Murkywater laundry room and dyed each of the uniforms pink. A Murkywater captain had nearly burst a blood vessel in rage trying to figure out who the 'traitor' in the Murkywater warehouse was."
+
+	"bm_suit_var_murky_suit_medic": "Murkywater Medic",
+	"bm_suit_var_murky_suit_medic_desc": "Quite possibly the most overworked of any Murkywater branch. They are also probably the most efficient. It is a miracle that the PAYDAY gang hasn't completely wiped out Murkywater any sooner."
+
+	"bm_suit_var_raincoat_ave": "Enigmatic",
+	"bm_suit_var_raincoat_ave_desc": "Justice? Hilarious. You're only in this for the money. It's fun to send GenSec across the city on nonsense riddles, though."
+
+	"bm_suit_var_raincoat_highlighter": "Highlighter Yellow",
+	"bm_suit_var_raincoat_highlighter_desc": "Useful so that the SWAT vans don't run you over in the midst of all the rain."
+
+	"bm_suit_var_raincoat_navy": "Navy Blue",
+	"bm_suit_var_raincoat_navy_desc": "For those ugly heists where you feel like the storm clouds are following you."
+
+	"bm_suit_var_scrub_dark": "Black Eye",
+	"bm_suit_var_scrub_dark_desc": "Enough to warrant an emergency room trip? Debatable. Morale destroying? Absolutely. Consider a mask instead of sunglasses next time."
+
+	"bm_suit_var_scrub_dullgreen": "Apple Green",
+	"bm_suit_var_scrub_dullgreen_desc": "An apple a day keeps the doctor away, apparently. Might be worth considering to scare off those GenSec medics."
+
+	"bm_suit_var_scrub_clean": "Squeaky Clean Scrubs",
+	"bm_suit_var_scrub_clean_desc": "Fresh from the dryer. Would be a shame to get something on it."
+
+	"bm_suit_var_sneak_suit_gorkagrey": "Two Tone",
+	"bm_suit_var_sneak_suit_gorkagrey_desc": "Can't decide whether you want to be seen or not? This one's got you covered."
+
+	"bm_suit_var_sneak_suit_gorkapurple": "Surreptitious Purple",
+	"bm_suit_var_sneak_suit_gorkapurple_desc": "Should keep you camouflaged in particularly purple environments. Where would one find these? Who knows!"
+
+	"bm_suit_var_sneak_suit_gorkasea": "Devious Blue",
+	"bm_suit_var_sneak_suit_gorkasea_desc": "Makes swishing noises like sweatpants. The guards aren't ignoring you because they don't notice you, it's because they're too scared to look."
+
+	"bm_suit_var_sparkle_white": "Gold Champagne",
+	"bm_suit_var_sparkle_white_desc": "It's been this long, and things still haven't gotten old."
+
+	"bm_suit_var_sparkle_pink": "Prizewinning Pink",
+	"bm_suit_var_sparkle_pink_desc": "A whole decade! It's like you've won the lottery, except instead of winning the regular way, you cheated and stole the prize instead. The PAYDAY way."
+
+	"bm_suit_var_sparkle_purple": "Dazzling Purple",
+	"bm_suit_var_sparkle_purple_desc": "Gold wasn't enough, so you opted for pure diamond coating. Ignore the crunching and scraping sounds when you move your limbs."
+
+	"bm_suit_var_tux_deepblue": "Royal Blue",
+	"bm_suit_var_tux_deepblue_desc": "Made of material so silky and comfortable that you'll forget you're not wearing loungewear."
+
+	"bm_suit_var_tux_deepred": "Wine Red",
+	"bm_suit_var_tux_deepred_desc": "The drinks at the Shacklethorne are surprisingly cheap, but it's just to lure you in to buy the crappy antiques. There's rumors that it's just fruit juice."
+
+	"bm_suit_var_tux_tan": "Camel Beige",
+	"bm_suit_var_tux_tan_desc": "Dallas loves this beige color combo. It was tough to convince him to go with the white tuxedo over this one. Still, you might find use out of it."
+
+	"bm_suit_var_winter_suit_solidblack": "Slush",
+	"bm_suit_var_winter_suit_solidblack_desc": "The snow may have melted, but that doesn't mean it's not unbearably cold out anymore. You wouldn't want frostbite."
+
+	"bm_suit_var_winter_suit_grey": "Alpine Grey",
+	"bm_suit_var_winter_suit_grey_desc": "It's a shame that the crew couldn't convince Bain to invest in snowboards for the Boiling Point escape."
+
+	"bm_suit_var_winter_suit_lightblue": "Glacier Blue",
+	"bm_suit_var_winter_suit_lightblue_desc": "So cool that you'll be wondering whether the coat actually makes you a little colder."
+
+	"bm_suit_var_slaughterhouse_tear": "Ultra-Violent",
+	"bm_suit_var_slaughterhouse_tear_desc": "A Mosconi 12G can tear a Bulldozer's torso clean off, but so will your bare hands."
+
+	"bm_suit_var_slaughterhouse_phoenix2": "Rush A",
+	"bm_suit_var_slaughterhouse_phoenix2_desc": "No need for eco-rounds, you have all the cash and equipment you could possibly need."
+
+	"bm_suit_var_slaughterhouse_checkerblack": "Checker Black",
+	"bm_suit_var_slaughterhouse_checkerblack_desc": "The same tried and true design with a twist. Shakes things up a bit while keeping things subtle."
+
+	"bm_suit_var_thug_rat": "Rat Slayer",
+	"bm_suit_var_thug_rat_desc": "We're not talking about the rats in the safehouse basement, or even the rat who sold out Hoxton. All you want to know is who the hell this 'Pepe Silvia' guy is."
+
+	"bm_suit_var_thug_bikerclassic": "Biker Classic",
+	"bm_suit_var_thug_bikerclassic_desc": "Back before the sleeves got torn off for extra comfort and mobility."
+
+	"bm_suit_var_thug_carl": "The Grasshopper",
+	"bm_suit_var_thug_carl_desc": "Jacket isn't the only one working for 50 Blessings, but some employees are more fortunate than others."
+
+	"bm_suit_var_clown_dorpheus": "Matrices Mantle",
+	"bm_suit_var_clown_dorpheus_desc": "Red pill or blue pill?\n\ \n\Walruses.\n\Wack."
+
+	"bm_suit_var_clown_columbo": "Lieutenant Columbus",
+	"bm_suit_var_clown_columbo_desc": "One last thing. You say that there is nothing going on at the Murkywater compound, yet, you've already used up more than four pagers?"
+
+	"bm_suit_var_clown_classic": "Old School",
+	"bm_suit_var_clown_classic_desc": "Things are just so grimdark these days. You prefer a more whimsical type of insanity. A clown ought to be a little funny, right?"
+
+	"bm_suit_var_poolrepair_bruiser": "Bruiser",
+	"bm_suit_var_poolrepair_bruiser_desc": "Private investigator by day, Captain Cop by night. Loves beating the crap out of the local crooks and con-artists. Possesses gorilla-like strength."
+
+	"bm_suit_var_poolrepair_plain": "Business Casual",
+	"bm_suit_var_poolrepair_plain_desc": "You'll blend right in with all the other cubicle workers at First World Bank, but only on casual Fridays."
+
+	"bm_suit_var_poolrepair_plainblack": "Night Shift Casual",
+	"bm_suit_var_poolrepair_plainblack_desc": "Night heists are tough for the rest of the gang, but Wolf is always unfazed. No one has ever seen him sleep."
+
+	"bm_suit_var_jumpsuit_payday": "Iconic Blue",
+	"bm_suit_var_jumpsuit_payday_desc": "To the player, the meaning of the '2' is obvious. For the PAYDAY gang, it's concerning. Two... what? Why is it their logo? It's these existential questions that no one wants to answer."
+
+	"bm_suit_var_miami_desk": "Desk Destroyer",
+	"bm_suit_var_miami_desk_desc": "Demolisher of furniture. Suspiciously similar to one of Mr. Wick's allies."
+
+	"bm_suit_var_miami_coolblue": "Roguish Blue",
+	"bm_suit_var_miami_coolblue_desc": "One of Houston's alternate outfits for nightlife-related heists. Slick enough to blend in, but bulky enough to hide body armor underneath. It's also in his favorite color."
+
+	"bm_suit_var_miami_darkgreen": "Crocodile Green",
+	"bm_suit_var_miami_darkgreen_desc": "There is nothing more terrifying than watching Dragan perform his 'death roll'."
+
+	"bm_suit_var_peacoat_pearl": "Snowball White",
+	"bm_suit_var_peacoat_pearl_desc": "Don't actually get into snowball fights. It'll ruin the fabric."
+
+	"bm_suit_var_peacoat_dirt": "Coffee Brown",
+	"bm_suit_var_peacoat_dirt_desc": "The Time Out! cafe's coffee sizes are named Easy, Medium, and Hard. Hopefully there isn't a Death Sentence coffee."
+
+	"bm_suit_var_peacoat_lumberpink": "Checker Pink",
+	"bm_suit_var_peacoat_lumberpink_desc": "Not mainstream and certainly not hipster. You're not sure where you fit in on the fashion spectrum. Luckily, you don't feel the need to fit in with a particular style."
+
+	"bm_suit_var_desperado_plaidred": "Ranch Hand",
+	"bm_suit_var_desperado_plaidred_desc": "One man, one pitchfork, and one unlucky son of a bitch. You don't need a revolver to keep bandits off your turf."
+
+	"bm_suit_var_desperado_plaidblue": "Farmer",
+	"bm_suit_var_desperado_plaidblue_desc": "It's not bandits you need to worry about, it's those damn wolves eating up your livestock. The tricky part is, the only reason you don't worry about the bandits is because the wolves get them. What a predicament."
+
+	"bm_suit_var_desperado_plaidblack": "Rancher",
+	"bm_suit_var_desperado_plaidblack_desc": "No one suspects the farmer out in the country to be the one constantly robbing the bank. If any other cowboy asks questions, they'll meet the stacks of gold under the floorboards."
+
+	"bm_suit_var_hiphop_pink": "Bubblegum Pink",
+	"bm_suit_var_hiphop_pink_desc": "Clover looks back fondly on her first heist, which was one whole pack of bubblegum. She was still a kid at the time. The stakes have only gotten higher since then."
+
+	"bm_suit_var_hiphop_fresh": "Limited Luicci",
+	"bm_suit_var_hiphop_fresh_desc": "This Luicci brand outfit is sought out by collectors all over the world. Very few are in existence."
+
+	"bm_suit_var_hiphop_camo": "Chameleon Purple",
+	"bm_suit_var_hiphop_camo_desc": "It is a mystery what environment this camouflage could possibly help in. Looked great when you tried it on, though. The Third Street Saints might approve."
+
+	"bm_suit_var_hippie_diesel": "Out Of Memory",
+	"bm_suit_var_hippie_diesel_desc": "32 whole bits! We've come a long way since the age of 8-bit and 16-bit gaming. There's no way we'll ever need to push the limits any further."
+
+	"bm_suit_var_hippie_dye": "Tie Dye",
+	"bm_suit_var_hippie_dye_desc": "How fun. Arts & Crafts in the safehouse is always a great time. Keep Jimmy away from the paint."
+
+	"bm_suit_var_hippie_festive": "Naughty List",
+	"bm_suit_var_hippie_festive_desc": "It should be obvious what time of year this is best suited for, but it's funnier if you wear it in year-round."
+
+	"bm_suit_var_jumpsuit_greencamo": "Olive Tactical",
+	"bm_suit_var_jumpsuit_greencamo_desc": "One great thing about robbing Murkywater is all the surplus armor they have. When they were starting out, they didn't have the fancy uniforms they have today and instead scraped up whatever they could. While this worked, it got difficult to tell who was who. Now it sits in a warehouse collecting dust. They shouldn't care too much if you take it."
+
+	"bm_suit_var_jumpsuit_blackcamo": "Onyx Tactical",
+	"bm_suit_var_jumpsuit_blackcamo_desc": "A super tactical jumpsuit for the mall ninja type of heister. Maybe Vlad might have a job that could allow you to make those mall ninja dreams come true."
+
+	"bm_suit_var_gentleman_medic2": "Pocket Medic",
+	"bm_suit_var_gentleman_medic2_desc": "Despite leaving a bird in someone's ribcage, you'd say you're the driving force that keeps the crew afloat."
+
+	"bm_suit_var_gentleman_purple": "Splash Of Purple",
+	"bm_suit_var_gentleman_purple_desc": "That extra flair lets the other gentlemen know that you're wealthier than they are. It also makes you a target, so hopefully you're good with a revolver."
+
+	"bm_suit_var_gentleman_greyscale": "Old Traveler",
+	"bm_suit_var_gentleman_greyscale_desc": "Often tells stories about his many (action-packed and bloody) adventures. No one knows whether they should believe him or not, but no one has the guts to find out."
+
+	"bm_suit_var_gunslinger_purplegun": "The Purple Gunman",
+	"bm_suit_var_gunslinger_purplegun_desc": "Reported to be the first one to fall in the long and tedious battle between all the gunmen. Rumors say that he's still alive, waiting for the right moment to strike.\n\ \n\But he's probably dead."
+
+	"bm_suit_var_gunslinger_greencheck": "Moneymaker",
+	"bm_suit_var_gunslinger_greencheck_desc": "Mitchell actually comes from a long line of money forgers spanning back to the 1800s. Perhaps by fate, a group of 4 masked robbers ruined the operation every time."
+
+	"bm_suit_var_gunslinger_shot": "Close Call",
+	"bm_suit_var_gunslinger_shot_desc": "3... 2... 1... \n\Draw!\n\ \n\It cost you an arm and a leg, but you won."
+
+	"bm_suit_var_hitman_blackgold": "Wushu Black-Gold",
+	"bm_suit_var_hitman_blackgold_desc": "Dark clothing with just a touch of gold to shake things up."
+
+	"bm_suit_var_hitman_bluedragon": "Wushu Blue-Cyan",
+	"bm_suit_var_hitman_bluedragon_desc": "Bring a friend to wear the red version of this slick dragon pattern. The two of you will look great (and threatening)."
+
+	"bm_suit_var_hitman_pearl": "Wushu Bleached",
+	"bm_suit_var_hitman_pearl_desc": "You want your enemies to see the red stains they leave on the fabric."
+
+	"bm_suit_var_traditional_gold": "Triad Casual Gold",
+	"bm_suit_var_traditional_gold_desc": "Add insult to injury by robbing the Golden Dagger while wearing a golden outfit."
+
+	"bm_suit_var_traditional_greypattern": "Triad Casual Pattern Grey",
+	"bm_suit_var_traditional_greypattern_desc": "Very fancy without being too overbearing."
+
+	"bm_suit_var_traditional_purplepattern": "Triad Casual Pattern Purple",
+	"bm_suit_var_traditional_purplepattern_desc": "Worn by a Golden Dagger double agent for the PAYDAY gang. He didn't last very long since Rust didn't get the memo."
+
+	"bm_suit_var_highinttech_tan": "Ripstop Tactical Recruit",
+	"bm_suit_var_highinttech_tan_desc": "Old, washed out uniforms that used to be golden yellow. You don't get to have the good stuff, but you still gotta look the part."
+
+	"bm_suit_var_highinttech_tangerine": "Ripstop Tactical Breacher",
+	"bm_suit_var_highinttech_tangerine_desc": "Usually equipped with knives and shotguns. Not super concerned about collateral damage."
+
+	"bm_suit_var_highinttech_cyan": "Ripstop Tactical Marksman",
+	"bm_suit_var_highinttech_cyan_desc": "While everyone else rushes in and gets turned into swiss cheese, this one stays behind and gets headshot by Chains with an M308 instead."
+
+	"bm_suit_var_lowinttech_tan": "Ripstop Casual Janitor",
+	"bm_suit_var_lowinttech_tan_desc": "Someone has to do the boring work for the Golden Dagger. Those red stains are difficult to wash out."
+
+	"bm_suit_var_lowinttech_cyan": "Ripstop Casual DJ",
+	"bm_suit_var_lowinttech_cyan_desc": "Golden Dagger parties get pretty insane to the point where one night of listening to the music is enough to cause permanent hearing loss. They're not even fun at that point, but the boss says they're mandatory to attend."
+
+	"bm_suit_var_lowinttech_tangerine": "Ripstop Casual Bodyguard",
+	"bm_suit_var_lowinttech_tangerine_desc": "Keeps rivals away from Yufu Wang. They're not doing a very good job."
+
+	"bm_suit_var_baron_prime": "The Grand Octennial Prime",
+	"bm_suit_var_baron_prime_desc": "For the heister who preferred the previous year's outfit."
+
+	"bm_suit_var_baron_orange": "The Grand Octennial Orange",
+	"bm_suit_var_baron_orange_desc": "For the heister who enjoys more tangy drinks for celebration."
+
+	"bm_suit_var_baron_scarlet": "The Grand Octennial Scarlet",
+	"bm_suit_var_baron_scarlet_desc": "For the heister who disagrees that 'The Grand Octennial Red' is actually red."
+
+	"bm_suit_var_clown_2_bozo": "The Classic Clown",
+	"bm_suit_var_clown_2_bozo_desc": "Giving people lifelong phobias since the 1940s."
+
+	"bm_suit_var_clown_2_pink": "The Rosy Clown",
+	"bm_suit_var_clown_2_pink_desc": "Vlad's first mistake was putting on the clown suit. His second mistake was trying to trick Hoxton with a hand buzzer. His third was not running fast enough."
+
+	"bm_suit_var_clown_2_bw": "The Black & White Clown",
+	"bm_suit_var_clown_2_bw_desc": "Dallas used to go through old photos to gain a better understanding of his lineage, but quickly stopped when he noticed a clown wearing an American flag mask in a photo dating back to the late 1800s. This was a rabbit hole that he wished not to pursue."
+
+	"bm_suit_var_cyberhoodie_axl": "Cyberhoodie Purple",
+	"bm_suit_var_cyberhoodie_axl_desc": "Salamanders are out, sea salamanders are in. Meet the humble axolotl."
+
+	"bm_suit_var_cyberhoodie_fox": "Cyberhoodie Orange",
+	"bm_suit_var_cyberhoodie_fox_desc": "A fantastic orange outfit.\n\ \n\`Pensez-vous que l'hiver sera rude?`"
+
+	"bm_suit_var_cyberhoodie_plaingreen": "Cyberhoodie Simple",
+	"bm_suit_var_cyberhoodie_plaingreen_desc": "No fancy neon colors for you. It may have been found on the floor of your closet, but it still smells good, so it's good enough for the heist."
+
+	"bm_suit_var_cybertrench_plaingreen": "Cybertrench Hitman",
+	"bm_suit_var_cybertrench_plaingreen_desc": "He says that tripe is way better when you burn it. Also, he's kind of like tripe... or something. You have no idea what he's talking about, but you go along with it anyway."
+
+	"bm_suit_var_cybertrench_fox": "Cybertrench Orange",
+	"bm_suit_var_cybertrench_fox_desc": "The whole point of this techwear was to fit in and look cool, but the problem is that no one in these San Francisco heists is wearing it except for you and the rest of the crew. Unfortunate, but maybe you want to stand out."
+
+	"bm_suit_var_cybertrench_axl": "Cybertrench Purple",
+	"bm_suit_var_cybertrench_axl_desc": "Embedded with speakers on the inside to blast music at ear-splitting volumes. Gets the crew's blood pumping while annoying the hell out of GenSec."
+
+	"bm_suit_var_classyske_glowgreen": "Ghostly Green",
+	"bm_suit_var_classyske_glowgreen_desc": "Bodhi's Pool Repair was a great cover, but pretending to be ghost hunters would've been entertaining as well."
+
+	"bm_suit_var_classyske_glowpink": "Phantom Pink",
+	"bm_suit_var_classyske_glowpink_desc": "Some heisters (basically just Wolf) claim that the old safehouse was haunted with the souls of dead Bulldozers and Cloakers. No one actually believes him, which even he doesn't understand, since the crew has seen much more terrifying things."
+
+	"bm_suit_var_classyske_glowred": "Bloodcurdling Red",
+	"bm_suit_var_classyske_glowred_desc": "One of the scariest revelations the crew has had is that each of them all had the dream with the prison and the giant Cloaker on the same night."
+
+	"bm_suit_var_bullranch_red": "Barn",
+	"bm_suit_var_bullranch_red_desc": "They say you can't hit the broad side of a barn with that Mosconi 12G, but that's alright since you want low accuracy on a shotgun anyway."
+
+	"bm_suit_var_bullranch_dirt": "Mud",
+	"bm_suit_var_bullranch_dirt_desc": "You gotta be willing to get your hands dirty in this business. Living out in the country ain't easy."
+
+	"bm_suit_var_bullranch_green": "Pasture",
+	"bm_suit_var_bullranch_green_desc": "Dallas and Houston shared a bonding moment when the escape van drove near a field of cows and they both felt the need to shout 'cows!'"
+
+	"bm_suit_var_bullranch_grey": "Silo",
+	"bm_suit_var_bullranch_grey_desc": "Wouldn't be a terrible place to store cash."
+
+	"bm_suit_var_bullranch_purple": "City Slicker",
+	"bm_suit_var_bullranch_purple_desc": "Style over function. See how it works out for you."
+
+	"bm_suit_var_texvest_tahiti": "Tahiti",
+	"bm_suit_var_texvest_tahiti_desc": "Things may seem chaotic, but you know one thing for certain; you have a plan.\n\ \n\Just one more heist and you and the crew will be sipping cocktails in Tahiti."
+
+	"bm_suit_var_texvest_leather": "Leather",
+	"bm_suit_var_texvest_leather_desc": "What makes this one special is the fact that you made it on your own. Gotta be resourceful."
+
+	"bm_suit_var_texvest_denim": "Handmade",
+	"bm_suit_var_texvest_denim_desc": "In all the years you've had this outfit, it's never ripped or frayed in even the most treacherous conditions."
+
+	"bm_suit_var_texvest_partner": "Friendly",
+	"bm_suit_var_texvest_partner_desc": "Strangely uncomfortable. Makes you feel like you've got a snake residing in your boots."
+
+	"bm_suit_var_texvest_purple": "Adventurous",
+	"bm_suit_var_texvest_purple_desc": "Wasn't cheap. The dyes needed for this are not easy to come by."
+
+	"bm_suit_var_lonorwa_purple": "Dead of Winter Purple",
+	"bm_suit_var_lonorwa_purple_desc": "Has hand warmers in the pockets for maximum efficiency. Always staying prepared."
+
+	"bm_suit_var_lonorwa_red": "Dead of Winter Red",
+	"bm_suit_var_lonorwa_red_desc": "Like blood in the snow. Spooky."
+
+	"bm_suit_var_lonorwa_whiteplaid": "Dead of Winter Slush",
+	"bm_suit_var_lonorwa_whiteplaid_desc": "In the midst of the below zero weather, at least the snow looks pretty. Until it melts a little bit and mixes with the dirt. Now everything sucks."
+
+	"bm_suit_var_rusbear_lightblue": "Dogsled Master Cyan",
+	"bm_suit_var_rusbear_lightblue_desc": "There are many great places to go sledding, but the safehouse roof is not one of them. Multiple injuries were had."
+
+	"bm_suit_var_rusbear_bio": "Dogsled Master Residential",
+	"bm_suit_var_rusbear_bio_desc": "You're disappointed that the Chicago Typewriter the crew has access to isn't as powerful as the one you're used to."
+
+	"bm_suit_var_rusbear_purple": "Dogsled Master Purple",
+	"bm_suit_var_rusbear_purple_desc": "Matt Roscoe usually stays downstairs, but he's allowed to go outside on particularly freezing days. More like forced, actually."
+
+	"bm_suit_var_t800_shinypurple": "Infamy Amethyst",
+	"bm_suit_var_t800_shinypurple_desc": "You're not infamous because of your heisting career, it's that purple jacket that's got everyone talking."
+
+	"bm_suit_var_t800_chocolate": "Infamy Mocha",
+	"bm_suit_var_t800_chocolate_desc": "If you've made it this far and you're still not at least a little bit exhausted, you may want to check your caffeine intake. Or maybe you just can't get enough PAYDAY."
+
+	"bm_suit_var_t800_orange": "Infamy Copper",
+	"bm_suit_var_t800_orange_desc": "You're sure to make every penny count."
+
+	"bm_suit_var_leather_cyan": "Cyan Array",
+	"bm_suit_var_leather_cyan_desc": "Assassin-like robes with a Crime.net spin."
+
+	"bm_suit_var_leather_orange": "Orange Array",
+	"bm_suit_var_leather_orange_desc": "Are you the pulp or no pulp kind of heister?"
+
+	"bm_suit_var_leather_darkgreen": "Green Array",
+	"bm_suit_var_leather_darkgreen_desc": "A significant array of cash resides in the safehouse vault."
+
+	"bm_suit_var_gangstercoat_brown": "The Detective Executor",
+	"bm_suit_var_gangstercoat_brown_desc": "There's two things this heister never leaves the office without: their Detective Special revolver, and their cigar."
+
+	"bm_suit_var_gangstercoat_line": "The Grey Executor",
+	"bm_suit_var_gangstercoat_line_desc": "The PAYDAY gang used to undebatably be the 'bad' guys, but things have shifted to become a little more ambiguous these days in the age of Murkywater's shady business."
+
+	"bm_suit_var_gangstercoat_purple": "The Purple Executor",
+	"bm_suit_var_gangstercoat_purple_desc": "As a private investigator, you get to wear whatever you want. No bosses to scream at you about some stupid dress code. You don't dress professional, you dress to impress."
+
+	"bm_suit_var_general_victory": "The Victorious General",
+	"bm_suit_var_general_victory_desc": "Whoever owns the blue escape van, you left your blinkers on."
+
+	"bm_suit_var_general_orange": "The Tangerine General",
+	"bm_suit_var_general_orange_desc": "Eats numerous fruits and vegetables to lead the strongest army in the world. Full of vitamin C."
+
+	"bm_suit_var_general_green": "The Lime General",
+	"bm_suit_var_general_green_desc": "A very, very sour leader. Seedy with tough skin."
+
+	"bm_gloves_goldnet_white": "'71 Driver",
+	"bm_gloves_goldnet_white_desc": "Cruising around in a brand new Falcogini."
+
+	"bm_gloves_goldnet_red": "'72 Driver",
+	"bm_gloves_goldnet_red_desc": "A new paint job! Very speedy."
+
+	"bm_gloves_goldnet_plainbrown": "'73 Driver",
+	"bm_gloves_goldnet_plainbrown_desc": "Welp, crashed the Falcogini. Back to a pickup truck."
+
+	"bm_gloves_goldnet_plainblack": "'74 Driver",
+	"bm_gloves_goldnet_plainblack_desc": "Crashed the pickup truck."
+
+	"bm_gloves_goldnet_blue": "'75 Driver",
+	"bm_gloves_goldnet_blue_desc": "New Falcogini!"
+
+	"bm_suit_var_fighterpilot_suit_default": "Fighter Pilot",
+	"bm_suit_var_fighterpilot_suit_default_desc": "You've fought, alright. 10 years of fighting. The pilot part isn't really true, but go with it anyway."
+
+	"bm_suit_var_fighterpilot_default": "Fighter Pilot",
+	"bm_suit_var_fighterpilot_default_desc": "You've fought, alright. 10 years of fighting. The pilot part isn't really true, but go with it anyway."
+
+	"bm_suit_var_fighterpilot_raider": "Raider",
+	"bm_suit_var_fighterpilot_raider_desc": "You've already forgotten most of Aldstone's ramblings about his heritage, but you got a cool jacket out of it."
+
+	"bm_suit_var_fighterpilot_blue": "Blue Bomber",
+	"bm_suit_var_fighterpilot_blue_desc": "At this point, the sky's the limit."
+
+	"bm_suit_var_fighterpilot_green": "Green Glider",
+	"bm_suit_var_fighterpilot_green_desc": "Not flying, falling in a stylish fashion."
+
+	"bm_suit_var_fighterpilot_black": "Jet Black",
+	"bm_suit_var_fighterpilot_black_desc": "Haha. Hahaha. Like the kind of jet you fly."
+
+	"bm_suit_var_fighterpilot_purple": "Purple Paratrooper",
+	"bm_suit_var_fighterpilot_purple_desc": "No parachute, sadly, but the Birth of Sky job sure was exhilarating."
+
+	"bm_suit_var_fighterpilot_pink": "Pink Pilot",
+	"bm_suit_var_fighterpilot_pink_desc": "Bile would never wear this, but what's stopping you? Just don't actually try to touch the controls."
+
+	"bm_suit_var_fighterpilot_white": "Cloudy White",
+	"bm_suit_var_fighterpilot_white_desc": "Your head's in the clouds, but it's only because you can't stop thinking about what the next decade will bring."
+
+	"bm_suit_var_fighterpilot_tan": "Beige Bomber",
+	"bm_suit_var_fighterpilot_tan_desc": "It's always nice when the supposed 'Ace Pilot' misses the balloon at the Robert's bank for the twelfth time."
+
+	"bm_gloves_overkillpunk_green": "Green Pistons",
+	"bm_gloves_overkillpunk_green_desc": "Was it worth cutting both your hands off for these robot hands? Aside from the random electric shocks, mostly yes."
+
+	"bm_gloves_overkillpunk_blue": "Blue Pistons",
+	"bm_gloves_overkillpunk_blue_desc": "You heist like a machine. Maybe even better."
+
+	"bm_gloves_overkillpunk_white": "White Pistons",
+	"bm_gloves_overkillpunk_white_desc": "You're not a fan of RGB stuff. You love the fancy LEDs, though."
+
+	"bm_gloves_overkillpunk_yellow": "Yellow Pistons",
+	"bm_gloves_overkillpunk_yellow_desc": "And if you press the right button on them, it'll open up a calculator!"
+
+	"bm_gloves_overkillpunk_purple": "Purple Pistons",
+	"bm_gloves_overkillpunk_purple_desc": "Don't wash your hands with these installed."
+
+	"bm_gloves_bonemittens_glowgreen": "Ghoulish Green",
+	"bm_gloves_bonemittens_glowgreen_desc": "It's a ghost! Or maybe it's Feign Death aced."
+
+	"bm_gloves_bonemittens_glowred": "Spectre Red",
+	"bm_gloves_bonemittens_glowred_desc": "Very freaky. May extract souls from those these gloves touch."
+
+	"bm_gloves_bonemittens_glowpink": "Paranormal Pink",
+	"bm_gloves_bonemittens_glowpink_desc": "Something is off about these gloves. Like something is compelling you to wear them."
+
+	"bm_gloves_workranch_blood": "Untamed Red",
+    "bm_gloves_workranch_blood_desc": "No one can cage you in."
+
+    "bm_gloves_workranch_skies": "Untamed Blue",
+    "bm_gloves_workranch_skies_desc": "Whether it's blue skies or stormy weather, you're out there farming."
+
+    "bm_gloves_workranch_grass": "Untamed Green",
+    "bm_gloves_workranch_grass_desc": "Texas runs through your veins."
+
+    "bm_gloves_workranch_grey": "Untamed Grey",
+    "bm_gloves_workranch_grey_desc": "Like a wild animal."
+
+
+
+
+
+    	"menu_l_global_value_te1" : ""
+    	"menu_l_global_value_te2" : ""
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<unit type="gen" slot="1">
+	<object file="units/more_variants/characters/hnd_glv_fancycloth/hnd_glv_fancycloth_black" />
+
+	<dependencies>
+		<depends_on bnk="soundbanks/regular_vox" />
+	</dependencies>
+
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="contour" class="ContourExt"/>
+	</extensions>
+
+</unit>

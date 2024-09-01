@@ -1,0 +1,11 @@
+<materials version="3" group="anv_acc_fps_continental">
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM:SKINNED_3WEIGHTS" unique="true" name="mtr_arms" version="2">
+        <bump_normal_texture file="units/pd2_dlc_anv/characters/anv_acc_continental/shared_textures/acc_continental_fps_nm"/>
+        <diffuse_texture file="units/more_variants/characters/anv_acc_continental/shared_textures/acc_continental_glowblue_fps_df"/>
+		<self_illumination_texture file="units/more_variants/characters/anv_acc_continental/shared_textures/acc_continental_gloworange_fps_il"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+        <variable type="scalar" name="il_bloom" value="9.999000474927"/>
+        <variable type="scalar" name="il_multiplier" value="neonsign"/>
+    </material>
+</materials>

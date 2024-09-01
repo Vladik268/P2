@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<materials version="3" group="in31_acc_leather_fps">
+	<material name="mtr_arms" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" version="2" unique="true">
+		<diffuse_texture file="units/more_variants/characters/in31_acc_leather/shared_textures/acc_leather_orange_fps_df"/>
+		<bump_normal_texture file="units/pd2_dlc_in31/characters/in31_acc_leather/shared_textures/acc_leather_default_fps_nm"/>
+		<material_texture file="units/pd2_dlc_in31/characters/in31_acc_leather/shared_textures/acc_leather_default_fps_gsma"/>
+		<variable name="contour_color" type="vector3" value="1 1 1"/>
+		<variable name="contour_opacity" type="scalar" value="0"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT"/>
+</materials>

@@ -1,0 +1,7 @@
+<materials version="3">
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_suit_01" version="2">
+        <diffuse_texture file="units/more_variants/characters/sah_acc_tux/shared_textures/fps_tux_gold_df"/>
+        <bump_normal_texture file="units/pd2_dlc_sah/characters/npc_acc_tux/fps_criminals_tux/fps_female_tux_01_nm"/>
+	    <material_texture file="units/more_variants/characters/sah_acc_tux/shared_textures/fps_tux_variant_gsma"/>
+    </material>
+</materials>

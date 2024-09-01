@@ -1,0 +1,11 @@
+<unit type="xmn" slot="1">
+	<object file="units/more_variants/characters/tesuit/tesuit_female_hila/tesuit_female_hila" />
+	<dependencies>
+		<depends_on bnk="soundbanks/regular_vox" />
+	</dependencies>
+
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="contour" class="ContourExt"/>
+	</extensions>
+</unit>

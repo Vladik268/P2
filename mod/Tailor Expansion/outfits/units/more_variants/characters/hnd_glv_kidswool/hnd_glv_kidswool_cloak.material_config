@@ -1,0 +1,9 @@
+<materials version="3" group="hnd_glv_kidswool">
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM:SKINNED_3WEIGHTS" name="mtr_gloves" version="2">
+        <bump_normal_texture file="units/pd2_dlc_hnd/characters/hnd_glv_kidswool/glv_kidswool_nm"/>
+        <diffuse_texture file="units/more_variants/characters/hnd_glv_kidswool/glv_kidswool_cloak_df"/>
+        <self_illumination_texture file="units/more_variants/characters/hnd_glv_kidswool/glv_kidswool_cloak_il"/>
+        <variable type="scalar" name="il_bloom" value="9.9750004737871"/>
+        <variable type="scalar" name="il_multiplier" value="searchlight"/>
+    </material>
+</materials>

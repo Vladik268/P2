@@ -1,0 +1,9 @@
+<materials version="3" >
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mat_player_tactical_outfit_fp" version="2">
+        <bump_normal_texture file="units/payday2/characters/shared_textures/fps_sleeve_2_nm"/>
+        <diffuse_texture file="units/more_variants/characters/tesuit/shared_textures/tesuit_srs_fps_df"/>
+        <material_texture file="units/more_variants/characters/tesuit/shared_textures/tesuit_default_fps_gsma"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+</materials>

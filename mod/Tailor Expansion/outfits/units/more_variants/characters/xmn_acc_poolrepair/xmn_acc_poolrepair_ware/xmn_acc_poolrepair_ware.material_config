@@ -1,0 +1,23 @@
+<materials version="3" group="xmn_acc_poolrepair_male_average">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mat_poolrepair_body" version="2">
+        <bump_normal_texture file="units/pd2_dlc_xmn/characters/xmn_acc_poolrepair/shared_textures/xmn_acc_poolrepair_default_nm"/>
+        <diffuse_texture file="units/more_variants/characters/xmn_acc_poolrepair/shared_textures/xmn_acc_poolrepair_ware_df"/>
+        
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mat_poolrepair_tools" version="2">
+        <bump_normal_texture file="units/pd2_dlc_xmn/characters/xmn_acc_poolrepair/shared_textures/xmn_acc_poolrepair_toolharness_default_nm"/>
+        <diffuse_texture file="units/more_variants/characters/xmn_acc_poolrepair/shared_textures/xmn_acc_poolrepair_toolharness_ware_df"/>
+        
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mat_poolrepair_gloves" version="2">
+        <bump_normal_texture file="units/pd2_dlc_xmn/characters/xmn_acc_poolrepair/shared_textures/wrinkled_plastic_gloves_nm"/>
+        <diffuse_texture file="units/pd2_dlc_xmn/characters/xmn_acc_poolrepair/shared_textures/wrinkled_plastic_gloves_df"/>
+        
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+</materials>

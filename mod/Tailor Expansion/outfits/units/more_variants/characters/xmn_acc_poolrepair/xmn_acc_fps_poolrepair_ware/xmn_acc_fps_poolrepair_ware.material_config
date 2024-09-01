@@ -1,0 +1,6 @@
+<materials version="3" group="xmn_acc_poolrepair_fpp">
+    <material unique="true" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mat_bodhi_fps" version="2">
+        <bump_normal_texture file="units/pd2_dlc_xmn/characters/xmn_acc_poolrepair/shared_textures/xmn_acc_poolrepair_fps_default_nm"/>
+        <diffuse_texture file="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_fps_poolrepair_ware/xmn_acc_poolrepair_fps_ware_df"/>
+    </material>
+</materials>

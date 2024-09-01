@@ -1,0 +1,847 @@
+<table name="Tailor Expansion" priority="11">
+<Localization directory="loc" default="english.txt">
+		<loc file="english.txt" language="english"/>
+		<loc file="russian.txt" language="russian"/>
+</Localization>
+	
+<GlobalValue id="te2" color="Color(0, 0.4, 1)"/>
+
+<Gloves id="highball" unit="units/more_variants/characters/hnd_glv_highball/glv_highball" third_material="units/more_variants/characters/hnd_glv_highball/glv_highball_third" global_value="te2">
+		<characters>
+			<chains	third_material="units/more_variants/characters/hnd_glv_highball/glv_highball_chains_third" material="units/more_variants/characters/hnd_glv_highball/glv_highball_chains"/>	
+			<sydney	third_material="units/more_variants/characters/hnd_glv_highball/glv_highball_sydney_third" material="units/more_variants/characters/hnd_glv_highball/glv_highball_sydney"/>	
+			<joy	third_material="units/more_variants/characters/hnd_glv_highball/glv_highball_tan_third" material="units/more_variants/characters/hnd_glv_highball/glv_highball_tan"/>	
+			<dragon	third_material="units/more_variants/characters/hnd_glv_highball/glv_highball_tan_third" material="units/more_variants/characters/hnd_glv_highball/glv_highball_tan"/>	
+			<max	third_material="units/more_variants/characters/hnd_glv_highball/glv_highball_sangres_third" material="units/more_variants/characters/hnd_glv_highball/glv_highball_sangres"/>	
+			<chico	third_material="units/more_variants/characters/hnd_glv_highball/glv_highball_tan_third" material="units/more_variants/characters/hnd_glv_highball/glv_highball_tan"/>	
+		</characters>
+</Gloves>
+
+
+<PlayerStyle id="tesuit" unit="units/more_variants/characters/tesuit/tesuit_fps/tesuit_fps" third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average" default_gloves="heist_default" texture_bundle_folder="mods" global_value="te2">
+	<third_body_replacement	head="false" armor="true" body="true" hands="true" vest="true"/>
+	<body_replacement		head="false" armor="true" body="true" hands="true" vest="true"/>
+	<characters>
+		<bodhi		third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average"/>
+		<chains		third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average"/>
+		<dragon		third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average"/>
+		<joy		third_unit="units/more_variants/characters/tesuit/tesuit_female_sydney/tesuit_female_sydney"/>
+		<ecp_male	third_unit="units/more_variants/characters/tesuit/tesuit_male_fat/tesuit_male_fat"/>
+		<max		third_unit="units/more_variants/characters/tesuit/tesuit_male_big/tesuit_male_big"/>
+		<wild		third_unit="units/more_variants/characters/tesuit/tesuit_male_big/tesuit_male_big"/>
+		<jacket		third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average"/>
+		<jowi		third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average"/>
+		<chico		third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average"/>
+		<jimmy		third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average"/>
+		<sokol		third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average"/>
+		<myh		third_unit="units/more_variants/characters/tesuit/tesuit_male_average/tesuit_male_average"/>
+		<sydney		third_unit="units/more_variants/characters/tesuit/tesuit_female_sydney/tesuit_female_sydney"/>
+		<ecp_female	third_unit="units/more_variants/characters/tesuit/tesuit_female_hila/tesuit_female_hila"/>
+		<female_1	third_unit="units/more_variants/characters/tesuit/tesuit_female_average/tesuit_female_average"/>
+		<bonnie		third_unit="units/more_variants/characters/tesuit/tesuit_female_big/tesuit_female_big"/>
+	</characters>
+</PlayerStyle>
+
+<PlayerStyleVariant id="jimmy" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_jimmy" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_jimmy" desc_id="bm_suit_var_continental_jimmy_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="foster" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_foster" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_foster" desc_id="bm_suit_var_continental_foster_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="jiro" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_jiro" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_jiro" desc_id="bm_suit_var_continental_jiro_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="slate" player_style_id="continental" custom="true"  texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_slate" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_slate" desc_id="bm_suit_var_continental_slate_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bateman" player_style_id="continental" custom="true"  texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_bateman" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_bateman" desc_id="bm_suit_var_continental_bateman_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="noire" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_noire" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_noire" desc_id="bm_suit_var_continental_noire_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="sydney" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_sydney" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_sydney" desc_id="bm_suit_var_continental_sydney_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="sun" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_sun" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_sun" desc_id="bm_suit_var_continental_sun_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="sangres" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_sangres" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_sangres" desc_id="bm_suit_var_continental_sangres_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="money" player_style_id="thug"custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_money" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_money" desc_id="bm_suit_var_thug_money_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="thug" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_purple" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_purple" desc_id="bm_suit_var_thug_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dallasalt" player_style_id="thug" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_dallasalt" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_dallasalt" desc_id="bm_suit_var_thug_dallasalt_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="gold" player_style_id="thug" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_gold" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_gold" desc_id="bm_suit_var_thug_gold_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="chas" player_style_id="thug" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_chas" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_chas" desc_id="bm_suit_var_thug_chas_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="mariachi" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_fps_mariachi_pink" third_material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_mariachi_pink" desc_id="bm_suit_var_mariachi_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plain" player_style_id="mariachi" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_fps_mariachi_plain" third_material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_mariachi_plain" desc_id="bm_suit_var_mariachi_plain_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="blue" player_style_id="mariachi" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_fps_mariachi_blue" third_material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_mariachi_blue" desc_id="bm_suit_var_mariachi_blue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="tan" player_style_id="mariachi" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_fps_mariachi_tan" third_material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_mariachi_tan" desc_id="bm_suit_var_mariachi_tan_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="darkred" player_style_id="desperado" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_fps_desperado_darkred" third_material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_desperado_darkred" desc_id="bm_suit_var_desperado_darkred_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dust" player_style_id="desperado" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_fps_desperado_dust" third_material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_desperado_dust" desc_id="bm_suit_var_desperado_dust_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="silver" player_style_id="desperado" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_fps_desperado_silver" third_material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_desperado_silver" desc_id="bm_suit_var_desperado_silver_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="desperado" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_fps_desperado_pink" third_material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_desperado_pink" desc_id="bm_suit_var_desperado_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="blue" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_blue" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_blue" desc_id="bm_suit_var_cartelboss_blue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="red" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_red" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_red" desc_id="bm_suit_var_cartelboss_red_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_green" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_green" desc_id="bm_suit_var_cartelboss_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_purple" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_purple" desc_id="bm_suit_var_cartelboss_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="brown" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_brown" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_brown" desc_id="bm_suit_var_cartelboss_brown_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_pink" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_pink" desc_id="bm_suit_var_cartelboss_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="yellow" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_yellow" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_yellow" desc_id="bm_suit_var_cartelboss_yellow_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="highinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_fps_highinttech_male_purple" third_material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_highinttech_purple" desc_id="bm_suit_var_highinttech_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="yellow" player_style_id="highinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_fps_highinttech_male_yellow" third_material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_highinttech_yellow" desc_id="bm_suit_var_highinttech_yellow_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="highinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_fps_highinttech_male_pink" third_material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_highinttech_pink" desc_id="bm_suit_var_highinttech_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="actuallygreen" player_style_id="highinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_fps_highinttech_male_actuallygreen" third_material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_highinttech_actuallygreen" desc_id="bm_suit_var_highinttech_actuallygreen_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="brown" player_style_id="highinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_fps_highinttech_male_brown" third_material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_highinttech_brown" desc_id="bm_suit_var_highinttech_brown_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_purple" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_purple" desc_id="bm_suit_var_lowinttech_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="realyellow" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_realyellow" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_realyellow" desc_id="bm_suit_var_lowinttech_realyellow_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_pink" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_pink" desc_id="bm_suit_var_lowinttech_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_green" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_green" desc_id="bm_suit_var_lowinttech_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="fellow" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_fellow" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_fellow" desc_id="bm_suit_var_lowinttech_fellow_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="luicci" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_luicci" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_luicci" desc_id="bm_suit_var_lowinttech_luicci_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="vaporwave" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_vaporwave" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_vaporwave" desc_id="bm_suit_var_lowinttech_vaporwave_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="brown" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_brown" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_brown" desc_id="bm_suit_var_lowinttech_brown_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="album" player_style_id="hippie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_fps_hippie_album" third_material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_hippie_album" desc_id="bm_suit_var_hippie_album_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="taco" player_style_id="hippie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_fps_hippie_taco" third_material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_hippie_taco" desc_id="bm_suit_var_hippie_taco_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="hippie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_fps_hippie_purple" third_material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_hippie_purple" desc_id="bm_suit_var_hippie_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="mansion" player_style_id="poolrepair" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_fps_poolrepair_mansion/xmn_acc_fps_poolrepair_mansion" third_material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_poolrepair_mansion/xmn_acc_poolrepair_mansion" desc_id="bm_suit_var_poolrepair_mansion_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="ware" player_style_id="poolrepair" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_fps_poolrepair_ware/xmn_acc_fps_poolrepair_ware" third_material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_poolrepair_ware/xmn_acc_poolrepair_ware" desc_id="bm_suit_var_poolrepair_ware_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="sport" player_style_id="poolrepair" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_fps_poolrepair_sport/xmn_acc_fps_poolrepair_sport" third_material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_poolrepair_sport/xmn_acc_poolrepair_sport" desc_id="bm_suit_var_poolrepair_sport_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="train" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_train" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_train" desc_id="bm_suit_var_gunslinger_train_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="melon" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_melon" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_melon" desc_id="bm_suit_var_gunslinger_melon_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="check" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_check" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_check" desc_id="bm_suit_var_gunslinger_check_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="budapest" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_budapest" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_budapest" desc_id="bm_suit_var_gunslinger_budapest_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="greengunman" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_greengunman" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_greengunman" desc_id="bm_suit_var_gunslinger_greengunman_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dunno" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_dunno" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_dunno" desc_id="bm_suit_var_gunslinger_dunno_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dallas" player_style_id="gentleman" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_fps_gentleman_dallas" third_material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_gentleman_dallas" desc_id="bm_suit_var_gentleman_dallas_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="skull" player_style_id="gentleman" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_fps_gentleman_skull" third_material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_gentleman_skull" desc_id="bm_suit_var_gentleman_skull_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="lime" player_style_id="gentleman" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_fps_gentleman_lime" third_material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_gentleman_lime" desc_id="bm_suit_var_gentleman_lime_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="medic" player_style_id="jumpsuit" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_fps_jumpsuit/trd_acc_fps_jumpsuit_medic" third_material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_jumpsuit_male_average/trd_acc_jumpsuit_male_average_medic" desc_id="bm_suit_var_jumpsuit_medic_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="nevermore" player_style_id="jumpsuit" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_fps_jumpsuit/trd_acc_fps_jumpsuit_nevermore" third_material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_jumpsuit_male_average/trd_acc_jumpsuit_male_average_nevermore" desc_id="bm_suit_var_jumpsuit_nevermore_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="jumpsuit" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_fps_jumpsuit/trd_acc_fps_jumpsuit_purple" third_material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_jumpsuit_male_average/trd_acc_jumpsuit_male_average_purple" desc_id="bm_suit_var_jumpsuit_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="rigged" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_rigged" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_rigged" desc_id="bm_suit_var_continental_rigged_desc">
+</PlayerStyleVariant>
+
+<Gloves id="tipless" unit="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless" third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_third" global_value="trd">
+		<characters>
+			<chains	third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_chains_third" material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_chains"/>	
+			<joy	third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_joy_third" material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_joy"/>	
+			<max	third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_sangres_third" material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_sangres"/>	
+			<dragon	third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_tan_third" material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_tan"/>	
+			<chico	third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_tan_third" material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless"/>	
+			<female_1	third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_female_third" material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_female"/>	
+			<bonnie	third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_female_third" material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_female"/>	
+			<sydney	third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_female_third" material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_female"/>	
+			<ecp_female	third_material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_female_third" material="units/more_variants/characters/hnd_glv_tipless/hnd_glv_tipless_female"/>	
+		</characters>
+</Gloves>
+
+<PlayerStyleVariant id="matt" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_matt" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_matt" desc_id="bm_suit_var_tesuit_matt_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dallas" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_dallas" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_dallas" desc_id="bm_suit_var_tesuit_dallas_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="houston" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_houston" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_houston" desc_id="bm_suit_var_tesuit_houston_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="chains" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_chains" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_chains" desc_id="bm_suit_var_tesuit_chains_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="wolf" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_wolf" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_wolf" desc_id="bm_suit_var_tesuit_wolf_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="wick" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_wick" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_wick" desc_id="bm_suit_var_tesuit_wick_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="hoxton" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_hoxton" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_hoxton" desc_id="bm_suit_var_tesuit_hoxton_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dragan" player_style_id="tesuit" texture_bundle_folder="mods" global_value="character_pack_dragan" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_dragan" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_dragan" desc_id="bm_suit_var_tesuit_dragan_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="sokol" player_style_id="tesuit" texture_bundle_folder="mods" global_value="character_pack_sokol" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_sokol" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_sokol" desc_id="bm_suit_var_tesuit_sokol_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pdthhoxton" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_pdthhoxton" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_pdthhoxton" desc_id="bm_suit_var_tesuit_pdthhoxton_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pdthchains" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_pdthchains" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_pdthchains" desc_id="bm_suit_var_tesuit_pdthchains_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pdthdallas" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_pdthdallas" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_pdthdallas" desc_id="bm_suit_var_tesuit_pdthdallas_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="jacket" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_jacket" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_jacket" desc_id="bm_suit_var_tesuit_jacket_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="moon" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_moon" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_moon" desc_id="bm_suit_var_tesuit_moon_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_purple" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_purple" desc_id="bm_suit_var_tesuit_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_pink" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_pink" desc_id="bm_suit_var_tesuit_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_green" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_green" desc_id="bm_suit_var_tesuit_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="disco" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_disco" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_disco" desc_id="bm_suit_var_tesuit_disco_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="wolfalt" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_wolfalt" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_wolfalt" desc_id="bm_suit_var_tesuit_wolfalt_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dallasalt" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_dallasalt" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_dallasalt" desc_id="bm_suit_var_tesuit_dallasalt_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dark" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_dark" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_dark" desc_id="bm_suit_var_baron_dark_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_purple" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_purple" desc_id="bm_suit_var_baron_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_green" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_green" desc_id="bm_suit_var_baron_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_pink" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_pink" desc_id="bm_suit_var_baron_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="ivory" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_ivory" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_ivory" desc_id="bm_suit_var_baron_ivory_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="gold" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_gold" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_gold" desc_id="bm_suit_var_baron_gold_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="brown" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_brown" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_brown" desc_id="bm_suit_var_baron_brown_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="kim" player_style_id="thug" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_kim" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_kim" desc_id="bm_suit_var_thug_kim_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="negative" player_style_id="thug" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_negative" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_negative" desc_id="bm_suit_var_thug_negative_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dallas2" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_dallas2" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_dallas2" desc_id="bm_suit_var_continental_dallas2_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="python" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_python" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_python" desc_id="bm_suit_var_continental_python_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pinkwhite" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_pinkwhite" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_pinkwhite" desc_id="bm_suit_var_tesuit_pinkwhite_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="red" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_red" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_red" desc_id="bm_suit_var_tesuit_red_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="desaturate" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_desaturate" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_desaturate" desc_id="bm_suit_var_tesuit_desaturate_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="yellow" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_yellow" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_yellow" desc_id="bm_suit_var_tesuit_yellow_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="holiday" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_holiday" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_holiday" desc_id="bm_suit_var_tesuit_holiday_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dark" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_dark" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_dark" desc_id="bm_suit_var_tesuit_dark_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="anvred" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_anvred" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_anvred" desc_id="bm_suit_var_continental_anvred_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="anvblue" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_anvblue" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_anvblue" desc_id="bm_suit_var_continental_anvblue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="anvpurple" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_anvpurple" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_anvpurple" desc_id="bm_suit_var_continental_anvpurple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="game" player_style_id="thug"custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_game" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_game" desc_id="bm_suit_var_thug_game_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="lime" player_style_id="thug"custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_lime" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_lime" desc_id="bm_suit_var_thug_lime_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="orange" player_style_id="thug"custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_orange" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_orange" desc_id="bm_suit_var_thug_orange_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="seymour" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_seymour" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_seymour" desc_id="bm_suit_var_tesuit_seymour_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="charon" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_charon" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_charon" desc_id="bm_suit_var_tesuit_charon_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="srs" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_srs" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_srs" desc_id="bm_suit_var_tesuit_srs_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="medic" player_style_id="gentleman" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_fps_gentleman_medic" third_material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_gentleman_medic" desc_id="bm_suit_var_gentleman_medic_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dark" player_style_id="gentleman" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_fps_gentleman_dark" third_material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_gentleman_dark" desc_id="bm_suit_var_gentleman_dark_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="light" player_style_id="gentleman" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_fps_gentleman_light" third_material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_gentleman_light" desc_id="bm_suit_var_gentleman_light_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plain" player_style_id="cybertrench" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_fps_cybertrench_plain" third_material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_cybertrench_plain" desc_id="bm_suit_var_cybertrench_plain_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plainbrown" player_style_id="cybertrench" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_fps_cybertrench_plainbrown" third_material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_cybertrench_plainbrown" desc_id="bm_suit_var_cybertrench_plainbrown_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plainblue" player_style_id="cybertrench" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_fps_cybertrench_plainblue" third_material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_cybertrench_plainblue" desc_id="bm_suit_var_cybertrench_plainblue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="flm" player_style_id="cybertrench" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_fps_cybertrench_flm" third_material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_cybertrench_flm" desc_id="bm_suit_var_cybertrench_flm_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="crb" player_style_id="cybertrench" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_fps_cybertrench_crb" third_material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_cybertrench_crb" desc_id="bm_suit_var_cybertrench_crb_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plain" player_style_id="cyberhoodie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_fps_cyberhoodie_plain" third_material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_cyberhoodie_plain" desc_id="bm_suit_var_cyberhoodie_plain_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plainbrown" player_style_id="cyberhoodie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_fps_cyberhoodie_plainbrown" third_material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_cyberhoodie_plainbrown" desc_id="bm_suit_var_cyberhoodie_plainbrown_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plainblue" player_style_id="cyberhoodie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_fps_cyberhoodie_plainblue" third_material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_cyberhoodie_plainblue" desc_id="bm_suit_var_cyberhoodie_plainblue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="flm" player_style_id="cyberhoodie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_fps_cyberhoodie_flm" third_material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_cyberhoodie_flm" desc_id="bm_suit_var_cyberhoodie_flm_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="crb" player_style_id="cyberhoodie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_fps_cyberhoodie_crb" third_material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_cyberhoodie_crb" desc_id="bm_suit_var_cyberhoodie_crb_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="wick" player_style_id="clown_2" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_fps_clown_wick" third_material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_clown_wick" desc_id="bm_suit_var_clown_2_wick_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bubbly" player_style_id="clown_2" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_fps_clown_bubbly" third_material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_clown_bubbly" desc_id="bm_suit_var_clown_2_bubbly_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purplestripe" player_style_id="clown_2" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_fps_clown_purplestripe" third_material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_clown_purplestripe" desc_id="bm_suit_var_clown_2_purplestripe_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="creepy" player_style_id="clown_2" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_fps_clown_creepy" third_material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_clown_creepy" desc_id="bm_suit_var_clown_2_creepy_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="frog" player_style_id="clown_2" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_fps_clown_frog" third_material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_clown_frog" desc_id="bm_suit_var_clown_2_frog_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="classyske" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_fps_classyske_pink" third_material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_classyske_pink" desc_id="bm_suit_var_classyske_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="classyske" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_fps_classyske_green" third_material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_classyske_green" desc_id="bm_suit_var_classyske_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="neojack" player_style_id="classyske" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_fps_classyske_neojack" third_material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_classyske_neojack" desc_id="bm_suit_var_classyske_neojack_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="brown" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_brown" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_brown" desc_id="bm_suit_var_elegantscarf_brown_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="black" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_black" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_black" desc_id="bm_suit_var_elegantscarf_black_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_green" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_green" desc_id="bm_suit_var_elegantscarf_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="grey" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_grey" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_grey" desc_id="bm_suit_var_elegantscarf_grey_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_purple" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_purple" desc_id="bm_suit_var_elegantscarf_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="tan" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_tan" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_tan" desc_id="bm_suit_var_elegantscarf_tan_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_pink" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_pink" desc_id="bm_suit_var_elegantscarf_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="red" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_red" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_red" desc_id="bm_suit_var_elegantscarf_red_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dallas" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_dallas" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_dallas" desc_id="bm_suit_var_elegantscarf_dallas_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="white" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_white" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_white" desc_id="bm_suit_var_elegantscarf_white_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="yellow" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_yellow" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_yellow" desc_id="bm_suit_var_elegantscarf_yellow_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="spearman" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_spearman" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_spearman" desc_id="bm_suit_var_gunslinger_spearman_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_pink" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_pink" desc_id="bm_suit_var_gunslinger_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="check2" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_check2" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_check2" desc_id="bm_suit_var_gunslinger_check2_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="mine" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_mine" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_mine" desc_id="bm_suit_var_continental_mine_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="slate" player_style_id="rusbear" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_fps_rusbear_slate" third_material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_rusbear_slate" desc_id="bm_suit_var_rusbear_slate_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="thing" player_style_id="rusbear" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_fps_rusbear_thing" third_material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_rusbear_thing" desc_id="bm_suit_var_rusbear_thing_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="maroon" player_style_id="rusbear" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_fps_rusbear_maroon" third_material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_rusbear_maroon" desc_id="bm_suit_var_rusbear_maroon_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="rusbear" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_fps_rusbear_green" third_material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_rusbear_green" desc_id="bm_suit_var_rusbear_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="rusbear" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_fps_rusbear_pink" third_material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_rusbear_pink" desc_id="bm_suit_var_rusbear_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="friend" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_friend" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_friend" desc_id="bm_suit_var_continental_friend_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="glowblue" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_glowblue" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_glowblue" desc_id="bm_suit_var_continental_glowblue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="glowred" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_glowred" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_glowred" desc_id="bm_suit_var_continental_glowred_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="glowyel" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_glowyel" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_glowyel" desc_id="bm_suit_var_continental_glowyel_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="glowpurp" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_glowpurp" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_glowpurp" desc_id="bm_suit_var_continental_glowpurp_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="greenpurp" player_style_id="thug"custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_greenpurp" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_greenpurp" desc_id="bm_suit_var_thug_greenpurp_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="orngblack" player_style_id="thug"custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_orngblack" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_orngblack" desc_id="bm_suit_var_thug_orngblack_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bw" player_style_id="classyske" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_fps_classyske_bw" third_material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_classyske_bw" desc_id="bm_suit_var_classyske_bw_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="orange" player_style_id="classyske" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_fps_classyske_orange" third_material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_classyske_orange" desc_id="bm_suit_var_classyske_orange_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dw" player_style_id="classyske" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_fps_classyske_dw" third_material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_classyske_dw" desc_id="bm_suit_var_classyske_dw_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="brown" player_style_id="lonorwa" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_fps_lonorwa_male_brown" third_material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_lonorwa_brown" desc_id="bm_suit_var_lonorwa_brown_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dark" player_style_id="lonorwa" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_fps_lonorwa_male_dark" third_material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_lonorwa_dark" desc_id="bm_suit_var_lonorwa_dark_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="greenplaid" player_style_id="lonorwa" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_fps_lonorwa_male_greenplaid" third_material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_lonorwa_greenplaid" desc_id="bm_suit_var_lonorwa_greenplaid_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="sporty" player_style_id="lonorwa" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_fps_lonorwa_male_sporty" third_material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_lonorwa_sporty" desc_id="bm_suit_var_lonorwa_sporty_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="sky" player_style_id="lonorwa" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_fps_lonorwa_male_sky" third_material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_lonorwa_sky" desc_id="bm_suit_var_lonorwa_sky_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="tan" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_tan" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_tan" desc_id="bm_suit_var_tesuit_tan_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="brightblue" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_brightblue" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_brightblue" desc_id="bm_suit_var_tesuit_brightblue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bw" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_bw" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_bw" desc_id="bm_suit_var_tesuit_bw_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="blue" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_blue_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_blue" desc_id="bm_suit_var_bunny_blue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_purple_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_purple" desc_id="bm_suit_var_bunny_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="white" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_white_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_white" desc_id="bm_suit_var_bunny_white_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_green_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_green" desc_id="bm_suit_var_bunny_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="yellow" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_yellow_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_yellow" desc_id="bm_suit_var_bunny_yellow_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="red" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_red_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_red" desc_id="bm_suit_var_bunny_red_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="cloaker" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cloaker_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cloaker" desc_id="bm_suit_var_bunny_cloaker_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="cloakerpink" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cloakerpink_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cloakerpink" desc_id="bm_suit_var_bunny_cloakerpink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="cloakerred" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cloakerred_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cloakerred" desc_id="bm_suit_var_bunny_cloakerred_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="cloakerblue" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cloakerblue_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cloakerblue" desc_id="bm_suit_var_bunny_cloakerblue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="orange" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_orange_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_orange" desc_id="bm_suit_var_bunny_orange_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="silver" player_style_id="sparkle" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_silver_fps" third_material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_silver" desc_id="bm_suit_var_sparkle_silver_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="red" player_style_id="sparkle" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_red_fps" third_material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_red" desc_id="bm_suit_var_sparkle_red_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="blue" player_style_id="sparkle" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_blue_fps" third_material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_blue" desc_id="bm_suit_var_sparkle_blue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="sparkle" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_green_fps" third_material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_green" desc_id="bm_suit_var_sparkle_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="black" player_style_id="sparkle" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_black_fps" third_material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_black" desc_id="bm_suit_var_sparkle_black_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="grand" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_grand" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_grand" desc_id="bm_suit_var_tesuit_grand_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="clean" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_clean" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_clean" desc_id="bm_suit_var_tesuit_clean_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="shrimp" player_style_id="tesuit" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_shrimp" third_material="units/more_variants/characters/tesuit/shared_materials/tesuit_shrimp" desc_id="bm_suit_var_tesuit_shrimp_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dark" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_dark_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_dark" desc_id="bm_suit_var_bunny_dark_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="camo" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_camo_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_camo" desc_id="bm_suit_var_bunny_camo_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="cocoa" player_style_id="bunny" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cocoa_fps" third_material="units/more_variants/characters/ccmt_acc_bunny/shared_materials/ccmt_acc_bunny_cocoa" desc_id="bm_suit_var_bunny_cocoa_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="sparkle" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_purple_fps" third_material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_purple" desc_id="bm_suit_var_sparkle_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="sparkle" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_pink_fps" third_material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_pink" desc_id="bm_suit_var_sparkle_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="white" player_style_id="sparkle" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_white_fps" third_material="units/more_variants/characters/ccmt_acc_sparkle/shared_materials/ccmt_acc_sparkle_white" desc_id="bm_suit_var_sparkle_white_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dynamite" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_dynamite" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_dynamite" desc_id="bm_suit_var_continental_dynamite_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="glowpink" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_glowpink" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_glowpink" desc_id="bm_suit_var_continental_glowpink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="glowcitrus" player_style_id="continental" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/anv_acc_continental/anv_acc_fps_continental/anv_acc_fps_continental_gloworange" third_material="units/more_variants/characters/anv_acc_continental/anv_acc_continental_male_average/anv_acc_continental_male_average_gloworange" desc_id="bm_suit_var_continental_glowcitrus_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="cowboy" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_cowboy" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_cowboy" desc_id="bm_suit_var_elegantscarf_cowboy_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plain" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_plain" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_plain" desc_id="bm_suit_var_elegantscarf_plain_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="orange" player_style_id="elegantscarf" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_fps_elegantscarf_male_orange" third_material="units/more_variants/characters/sbzac2_acc_elegantscarf/shared_materials/sbzac2_acc_elegantscarf_orange" desc_id="bm_suit_var_elegantscarf_orange_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="alt" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_alt" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_alt" desc_id="bm_suit_var_cartelboss_alt_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="alt2" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_alt2" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_alt2" desc_id="bm_suit_var_cartelboss_alt2_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="alt3" player_style_id="cartelboss" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_fps_cartelboss_alt3" third_material="units/more_variants/characters/fex_acc_cartelboss/shared_materials/fex_acc_cartelboss_alt3" desc_id="bm_suit_var_cartelboss_alt3_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="kungfumaster" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_fps_kungfumaster_male_pink" third_material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_kungfumaster_pink" desc_id="bm_suit_var_kungfumaster_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bw" player_style_id="kungfumaster" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_fps_kungfumaster_male_bw" third_material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_kungfumaster_bw" desc_id="bm_suit_var_kungfumaster_bw_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="green" player_style_id="kungfumaster" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_fps_kungfumaster_male_green" third_material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_kungfumaster_green" desc_id="bm_suit_var_kungfumaster_green_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="blue" player_style_id="kungfumaster" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_fps_kungfumaster_male_blue" third_material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_kungfumaster_blue" desc_id="bm_suit_var_kungfumaster_blue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="invert" player_style_id="kungfumaster" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_fps_kungfumaster_male_invert" third_material="units/more_variants/characters/pent_acc_kungfumaster/shared_materials/pent_acc_kungfumaster_invert" desc_id="bm_suit_var_kungfumaster_invert_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plainblack" player_style_id="mariachi" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_fps_mariachi_plainblack" third_material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_mariachi_plainblack" desc_id="bm_suit_var_mariachi_plainblack_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="spidervenom" player_style_id="mariachi" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_fps_mariachi_venom" third_material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_mariachi_venom" desc_id="bm_suit_var_mariachi_spidervenom_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="vintageblue" player_style_id="mariachi" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_fps_mariachi_vintageblue" third_material="units/more_variants/characters/bex_acc_mariachi/shared_materials/bex_acc_mariachi_vintageblue" desc_id="bm_suit_var_mariachi_vintageblue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="rat" player_style_id="thug"custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_rat" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_rat" desc_id="bm_suit_var_thug_rat_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bikerclassic" player_style_id="thug"custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_bikerclassic" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_bikerclassic" desc_id="bm_suit_var_thug_bikerclassic_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="carl" player_style_id="thug"custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_fps_thug_carl" third_material="units/more_variants/characters/mar21_acc_thug/shared_materials/mar21_acc_thug_carl" desc_id="bm_suit_var_thug_carl_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bruiser" player_style_id="poolrepair" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_fps_poolrepair_bruiser/xmn_acc_fps_poolrepair_bruiser" third_material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_poolrepair_bruiser/xmn_acc_poolrepair_bruiser" desc_id="bm_suit_var_poolrepair_bruiser_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plain" player_style_id="poolrepair" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_fps_poolrepair_plain/xmn_acc_fps_poolrepair_plain" third_material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_poolrepair_plain/xmn_acc_poolrepair_plain" desc_id="bm_suit_var_poolrepair_plain_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plainblack" player_style_id="poolrepair" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_fps_poolrepair_plainblack/xmn_acc_fps_poolrepair_plainblack" third_material="units/more_variants/characters/xmn_acc_poolrepair/xmn_acc_poolrepair_plainblack/xmn_acc_poolrepair_plainblack" desc_id="bm_suit_var_poolrepair_plainblack_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="payday" player_style_id="jumpsuit" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_fps_jumpsuit/trd_acc_fps_jumpsuit_payday" third_material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_jumpsuit_male_average/trd_acc_jumpsuit_male_average_payday" desc_id="bm_suit_var_jumpsuit_payday_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plaidblue" player_style_id="desperado" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_fps_desperado_plaidblue" third_material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_desperado_plaidblue" desc_id="bm_suit_var_desperado_plaidblue_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plaidred" player_style_id="desperado" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_fps_desperado_plaidred" third_material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_desperado_plaidred" desc_id="bm_suit_var_desperado_plaidred_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plaidblack" player_style_id="desperado" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_fps_desperado_plaidblack" third_material="units/more_variants/characters/mbs_acc_desperado/shared_materials/mbs_acc_desperado_plaidblack" desc_id="bm_suit_var_desperado_plaidblack_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="diesel" player_style_id="hippie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_fps_hippie_diesel" third_material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_hippie_diesel" desc_id="bm_suit_var_hippie_diesel_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="dye" player_style_id="hippie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_fps_hippie_dye" third_material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_hippie_dye" desc_id="bm_suit_var_hippie_dye_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="festive" player_style_id="hippie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_fps_hippie_festive" third_material="units/more_variants/characters/mbs_acc_hippie/shared_materials/mbs_acc_hippie_festive" desc_id="bm_suit_var_hippie_festive_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="greencamo" player_style_id="jumpsuit" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_fps_jumpsuit/trd_acc_fps_jumpsuit_greencamo" third_material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_jumpsuit_male_average/trd_acc_jumpsuit_male_average_greencamo" desc_id="bm_suit_var_jumpsuit_greencamo_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="blackcamo" player_style_id="jumpsuit" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_fps_jumpsuit/trd_acc_fps_jumpsuit_blackcamo" third_material="units/more_variants/characters/trd_acc_jumpsuits/trd_acc_jumpsuit_male_average/trd_acc_jumpsuit_male_average_blackcamo" desc_id="bm_suit_var_jumpsuit_blackcamo_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="medic2" player_style_id="gentleman" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_fps_gentleman_medic2" third_material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_gentleman_medic2" desc_id="bm_suit_var_gentleman_medic2_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="gentleman" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_fps_gentleman_purple" third_material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_gentleman_purple" desc_id="bm_suit_var_gentleman_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="greyscale" player_style_id="gentleman" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_fps_gentleman_greyscale" third_material="units/more_variants/characters/pgo_acc_gentleman/shared_materials/pgo_acc_gentleman_greyscale" desc_id="bm_suit_var_gentleman_greyscale_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purplegun" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_purplegun" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_purplegun" desc_id="bm_suit_var_gunslinger_purplegun_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="greencheck" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_greencheck" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_greencheck" desc_id="bm_suit_var_gunslinger_greencheck_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="shot" player_style_id="gunslinger" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_fps_gunslinger_shot" third_material="units/more_variants/characters/pgo_acc_gunslinger/shared_materials/pgo_acc_gunslinger_shot" desc_id="bm_suit_var_gunslinger_shot_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="tangerine" player_style_id="highinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_fps_highinttech_male_tangerine" third_material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_highinttech_tangerine" desc_id="bm_suit_var_highinttech_tangerine_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="cyan" player_style_id="highinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_fps_highinttech_male_cyan" third_material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_highinttech_cyan" desc_id="bm_suit_var_highinttech_cyan_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="tan" player_style_id="highinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_fps_highinttech_male_tan" third_material="units/more_variants/characters/sdtp_acc_highinttech/shared_materials/sdtp_acc_highinttech_tan" desc_id="bm_suit_var_highinttech_tan_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="tan" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_tan" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_tan" desc_id="bm_suit_var_lowinttech_tan_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="tangerine" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_tangerine" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_tangerine" desc_id="bm_suit_var_lowinttech_tangerine_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="cyan" player_style_id="lowinttech" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_fps_lowinttech_cyan" third_material="units/more_variants/characters/sdtp_acc_lowinttech/shared_materials/sdtp_acc_lowinttech_cyan" desc_id="bm_suit_var_lowinttech_cyan_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="orange" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_orange" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_orange" desc_id="bm_suit_var_baron_orange_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="prime" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_prime" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_prime" desc_id="bm_suit_var_baron_prime_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="scarlet" player_style_id="baron" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_fps_baron_male_scarlet" third_material="units/more_variants/characters/pda8_acc_baron/shared_materials/pda8_acc_baron_scarlet" desc_id="bm_suit_var_baron_scarlet_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bozo" player_style_id="clown_2" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_fps_clown_bozo" third_material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_clown_bozo" desc_id="bm_suit_var_clown_2_bozo_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="pink" player_style_id="clown_2" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_fps_clown_pink" third_material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_clown_pink" desc_id="bm_suit_var_clown_2_pink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bw" player_style_id="clown_2" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_fps_clown_bw" third_material="units/more_variants/characters/a10th_acc_clown/shared_materials/a10th_acc_clown_bw" desc_id="bm_suit_var_clown_2_bw_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="axl" player_style_id="cyberhoodie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_fps_cyberhoodie_axl" third_material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_cyberhoodie_axl" desc_id="bm_suit_var_cyberhoodie_axl_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="fox" player_style_id="cyberhoodie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_fps_cyberhoodie_fox" third_material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_cyberhoodie_fox" desc_id="bm_suit_var_cyberhoodie_fox_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plaingreen" player_style_id="cyberhoodie" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_fps_cyberhoodie_plaingreen" third_material="units/more_variants/characters/cctp_acc_cyberhoodie/shared_materials/cctp_acc_cyberhoodie_plaingreen" desc_id="bm_suit_var_cyberhoodie_plaingreen_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="plaingreen" player_style_id="cybertrench" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_fps_cybertrench_plaingreen" third_material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_cybertrench_plaingreen" desc_id="bm_suit_var_cybertrench_plaingreen_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="fox" player_style_id="cybertrench" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_fps_cybertrench_fox" third_material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_cybertrench_fox" desc_id="bm_suit_var_cybertrench_fox_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="axl" player_style_id="cybertrench" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_fps_cybertrench_axl" third_material="units/more_variants/characters/cctp_acc_cybertrench/shared_materials/cctp_acc_cybertrench_axl" desc_id="bm_suit_var_cybertrench_axl_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="glowgreen" player_style_id="classyske" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_fps_classyske_glowgreen" third_material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_classyske_glowgreen" desc_id="bm_suit_var_classyske_glowgreen_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="glowred" player_style_id="classyske" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_fps_classyske_glowred" third_material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_classyske_glowred" desc_id="bm_suit_var_classyske_glowred_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="glowpink" player_style_id="classyske" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_fps_classyske_glowpink" third_material="units/more_variants/characters/trik_acc_classyske/shared_materials/trik_acc_classyske_glowpink" desc_id="bm_suit_var_classyske_glowpink_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="lonorwa" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_fps_lonorwa_male_purple" third_material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_lonorwa_purple" desc_id="bm_suit_var_lonorwa_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="red" player_style_id="lonorwa" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_fps_lonorwa_male_red" third_material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_lonorwa_red" desc_id="bm_suit_var_lonorwa_red_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="whiteplaid" player_style_id="lonorwa" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_fps_lonorwa_male_whiteplaid" third_material="units/more_variants/characters/snow_acc_lonorwa/shared_materials/snow_acc_lonorwa_whiteplaid" desc_id="bm_suit_var_lonorwa_whiteplaid_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="bio" player_style_id="rusbear" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_fps_rusbear_bio" third_material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_rusbear_bio" desc_id="bm_suit_var_rusbear_bio_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="purple" player_style_id="rusbear" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_fps_rusbear_purple" third_material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_rusbear_purple" desc_id="bm_suit_var_rusbear_purple_desc">
+</PlayerStyleVariant>
+
+<PlayerStyleVariant id="lightblue" player_style_id="rusbear" custom="true" texture_bundle_folder="mods" global_value="te2" material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_fps_rusbear_lightblue" third_material="units/more_variants/characters/snow_acc_rusbear/shared_materials/snow_acc_rusbear_lightblue" desc_id="bm_suit_var_rusbear_lightblue_desc">
+</PlayerStyleVariant>
+
+
+<AddFiles directory="outfits" auto_generate="true"/>
+
+<Hooks directory="hooks">
+	<hook file="suitanim.lua" source_file="lib/tweak_data/tweakdatapd2"/>
+	<hook file="glovevariants.lua" source_file="lib/tweak_data/blackmarket/glovestweakdata"/>
+	<hook file="outfits.lua" source_file="lib/tweak_data/blackmarket/playerstyletweakdata"/>
+	<hook file="vanillaglovevariantstweakdata.lua" source_file="lib/managers/localizationmanager"/>
+	<hook file="vanillaglovevariantstweakdata.lua" source_file="lib/tweak_data/blackmarket/playerstyletweakdata"/>
+	<hook file="vanillaglovevariantstweakdata.lua" source_file="lib/tweak_data/blackmarket/glovestweakdata"/>
+	<hook file="vanillaglovevariantstweakdata.lua" source_file="lib/tweak_data/achievementstweakdata"/>
+	<hook file="vanillaglovevariants.lua" source_file="lib/network/base/networkpeer"/>
+	<hook file="vanillaglovevariants.lua" source_file="lib/units/beings/player/huskplayermovement"/>
+	<hook file="vanillaglovevariants.lua" source_file="lib/units/player_team/huskteamaibase"/>
+	<hook file="vanillaglovevariants.lua" source_file="lib/network/handlers/unitnetworkhandler"/>
+	<hook file="outfits2.lua" source_file="lib/tweak_data/blackmarket/playerstyletweakdata"/>
+	<hook file="glovevariants2.lua" source_file="lib/tweak_data/blackmarket/glovestweakdata"/>
+	<hook file="scrubsfix.lua" source_file="lib/tweak_data/achievementstweakdata"/>
+</Hooks>
+
+</table>

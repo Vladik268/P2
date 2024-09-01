@@ -1,0 +1,17 @@
+<materials version="3" group="anv_acc_continental_male_average">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mtr_body" version="2">
+        <bump_normal_texture file="units/payday2/characters/shared_textures/suite_john_wick_body_nm"/>
+        <diffuse_texture file="units/more_variants/characters/tesuit/shared_textures/tesuit_seymour_df"/>
+        <material file="units/more_variants/characters/tesuit/shared_textures/tesuit_gsma"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+	
+	<material name="mtr_body_tux" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" version="2" unique="true">
+        <bump_normal_texture file="units/payday2/characters/shared_textures/suite_john_wick_body_nm"/>
+        <diffuse_texture file="units/more_variants/characters/tesuit/shared_textures/tesuit_seymour_df"/>
+        <material file="units/more_variants/characters/tesuit/shared_textures/tesuit_gsma"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+	</material>
+</materials>

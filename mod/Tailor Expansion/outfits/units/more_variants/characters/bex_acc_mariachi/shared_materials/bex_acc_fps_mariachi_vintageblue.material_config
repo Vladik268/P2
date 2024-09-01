@@ -1,0 +1,11 @@
+<materials version="3" group="bex_acc_fps_mariachi">
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_arms" version="2">
+        <bump_normal_texture file="units/pd2_dlc_bex/characters/bex_acc_mariachi/shared_textures/bex_acc_mariachi_fps_vintagebrown_nm"/>
+        <diffuse_texture file="units/more_variants/characters/bex_acc_mariachi/shared_textures/bex_acc_mariachi_fps_vintageblue_df"/>
+    </material>
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_gloves" version="2">
+        <bump_normal_texture file="units/pd2_dlc_trd/characters/shared_textures/wrinkled_plastic_gloves_nm"/>
+        <diffuse_texture file="units/pd2_dlc_trd/characters/shared_textures/wrinkled_plastic_gloves_white_df"/>
+    </material>
+    <material render_template="shadow_caster_only:SKINNED_1WEIGHT" version="2" name="shadow_caster"/>
+</materials>

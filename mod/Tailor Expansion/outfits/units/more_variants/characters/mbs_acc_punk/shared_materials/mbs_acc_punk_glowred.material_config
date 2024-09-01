@@ -1,0 +1,17 @@
+<materials version="3" group="mbs_acc_punk">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM:SKINNED_3WEIGHTS" unique="true" name="mtr_body" version="2">
+        <bump_normal_texture file="units/pd2_dlc_mbs/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_body_blue_nm"/>
+        <diffuse_texture file="units/pd2_dlc_mbs/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_body_default_df"/>
+        <self_illumination_texture file="units/more_variants/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_body_glowred_il"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+        <variable type="scalar" name="il_bloom" value="9.9750004737871"/>
+        <variable type="scalar" name="il_multiplier" value="searchlight"/>
+    </material>
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mtr_gloves" version="2">
+        <bump_normal_texture file="units/pd2_dlc_mbs/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_gloves_nm"/>
+        <diffuse_texture file="units/pd2_dlc_mbs/characters/mbs_acc_punk/shared_textures/mbs_acc_punk_gloves_df"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+</materials>

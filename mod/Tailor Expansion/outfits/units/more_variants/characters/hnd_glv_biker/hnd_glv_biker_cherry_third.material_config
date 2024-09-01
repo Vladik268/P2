@@ -1,0 +1,9 @@
+<materials version="3" group="hnd_glv_biker_blue">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_gloves" version="2" unique="true">
+        <bump_normal_texture file="units/pd2_dlc_hnd/characters/hnd_glv_biker/glv_biker_default_nm"/>
+        <diffuse_texture file="units/more_variants/characters/hnd_glv_biker/glv_biker_cherry_df"/>
+        <material_texture file="units/pd2_dlc_hnd/characters/hnd_glv_biker/glv_biker_default_gsma"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+</materials>

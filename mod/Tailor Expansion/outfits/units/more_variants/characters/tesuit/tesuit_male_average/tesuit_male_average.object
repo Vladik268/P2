@@ -1,0 +1,6 @@
+<dynamic_object>
+	<diesel materials="units/more_variants/characters/tesuit/shared_materials/tesuit_default" orientation_object="root_point" />
+	<graphics>
+		<object name="g_body" enabled="true" />
+	</graphics>
+</dynamic_object>

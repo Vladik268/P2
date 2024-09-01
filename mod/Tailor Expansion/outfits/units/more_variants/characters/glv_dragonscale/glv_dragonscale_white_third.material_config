@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<materials group="glv_dragonscale" version="3">
+	<material name="mtr_glove" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM:SKINNED_3WEIGHTS" unique="true" version="2">
+		<diffuse_texture file="units/more_variants/characters/glv_dragonscale/glv_dragonscale_cyan_df"/>
+		<bump_normal_texture file="units/pd2_dlc_gdtp/characters/glv_dragonscale/glv_dragonscale_nm"/>
+		<self_illumination_texture file="units/more_variants/characters/glv_dragonscale/glv_dragonscale_white_il"/>
+        <variable type="scalar" name="il_bloom" value="9.9750004737871"/>
+        <variable type="scalar" name="il_multiplier" value="megatron"/>
+		<variable name="contour_color" type="vector3" value="1 1 1"/>
+		<variable name="contour_opacity" type="scalar" value="0"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT"/>
+</materials>

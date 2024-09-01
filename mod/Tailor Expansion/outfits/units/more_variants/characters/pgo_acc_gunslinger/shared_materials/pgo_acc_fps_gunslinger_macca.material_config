@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<materials version="3" group="pgo_acc_gunslinger">
+	<material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_arms" version="2" unique="true">
+    	<material_texture file="units/pd2_dlc_pgo/characters/pgo_acc_gunslinger/shared_textures/fps/acc_gunslinger_arms_default_gsma"/>
+		<bump_normal_texture file="units/pd2_dlc_pgo/characters/pgo_acc_gunslinger/shared_textures/fps/acc_gunslinger_arms_casual_nm"/>
+		<diffuse_texture file="units/more_variants/characters/pgo_acc_gunslinger/shared_textures/fps/acc_gunslinger_arms_macca_df"/>
+	</material>
+</materials>

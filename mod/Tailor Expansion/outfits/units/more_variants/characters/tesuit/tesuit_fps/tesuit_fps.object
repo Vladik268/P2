@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/more_variants/characters/tesuit/shared_materials/tesuit_fps_default" orientation_object="root_point" />
+
+<graphics>
+	<graphic_group name="GraphicGroupName" enabled="true" culling_object="c_cull">
+		<object name="g_arms" enabled="true" />
+	</graphic_group>
+</graphics>
+
+</dynamic_object>

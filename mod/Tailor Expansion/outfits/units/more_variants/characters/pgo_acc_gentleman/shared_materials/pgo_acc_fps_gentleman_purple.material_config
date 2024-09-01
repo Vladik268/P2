@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<materials version="3" group="pgo_acc_gentleman">
+	<material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_arms" unique="true" version="2">
+    	<material_texture file="units/pd2_dlc_pgo/characters/pgo_acc_gentleman/shared_textures/fps/acc_gentleman_arms_default_gsma"/>
+		<bump_normal_texture file="units/pd2_dlc_pgo/characters/pgo_acc_gentleman/shared_textures/fps/acc_gentleman_arms_veteran_nm"/>
+		<diffuse_texture file="units/pd2_dlc_pgo/characters/pgo_acc_gentleman/shared_textures/fps/acc_gentleman_arms_father_df"/>
+	</material>
+</materials>

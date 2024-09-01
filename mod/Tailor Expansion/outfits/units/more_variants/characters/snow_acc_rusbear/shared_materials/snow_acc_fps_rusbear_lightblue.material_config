@@ -1,0 +1,9 @@
+<materials version="3" group="snow_acc_rusbear">
+	<material name="mtr_arms" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/more_variants/characters/snow_acc_rusbear/shared_textures/acc_rusbear_fps_lightblue_df"/>
+		<bump_normal_texture file="units/pd2_dlc_snow/characters/snow_acc_rusbear/shared_textures/acc_rusbear_fps_default_nm"/>
+		<variable name="contour_color" type="vector3" value="1 1 1"/>
+		<variable name="contour_opacity" type="scalar" value="0"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT"/>
+</materials>

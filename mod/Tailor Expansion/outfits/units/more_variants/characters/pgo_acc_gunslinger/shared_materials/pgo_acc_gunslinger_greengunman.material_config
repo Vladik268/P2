@@ -1,0 +1,9 @@
+<materials version="3" group="pgo_acc_gunslinger">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_body" version="2" unique="true">
+        <bump_normal_texture file="units/pd2_dlc_pgo/characters/pgo_acc_gunslinger/shared_textures/acc_gunslinger_casual_nm"/>
+        <diffuse_texture file="units/more_variants/characters/pgo_acc_gunslinger/shared_textures/acc_gunslinger_greengunman_df"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+        <material_texture file="units/pd2_dlc_pgo/characters/pgo_acc_gunslinger/shared_textures/acc_gunslinger_casual_gsma"/>
+    </material>
+</materials>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<materials group="glv_postmoto" version="3">
+	<material name="mtr_gloves" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" version="2">
+		<diffuse_texture file="units/more_variants/characters/hnd_glv_highball/glv_highball_chains_df"/>
+		<bump_normal_texture file="units/more_variants/characters/hnd_glv_highball/glv_highball_nm"/>
+		<variable name="contour_color" type="vector3" value="1 1 1"/>
+		<variable name="contour_opacity" type="scalar" value="0"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT"/>
+</materials>

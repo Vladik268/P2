@@ -1,0 +1,8 @@
+<materials version="3" group="hnd_glv_bonemittens">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_gloves" version="2" unique="true">
+        <bump_normal_texture file="units/pd2_dlc_hnd/characters/hnd_glv_desperadoleather/glv_desperadoleather_nm"/>
+        <diffuse_texture file="units/more_variants/characters/hnd_glv_desperadoleather/glv_desperadoleather_payday_df"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+</materials>

@@ -1,0 +1,7 @@
+<materials version="3" group="trd_acc_peacoat_fpp">
+    <material unique="true" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" name="mtr_peacoat" version="2">
+        <bump_normal_texture file="units/pd2_dlc_trd/characters/trd_acc_peacoat/trd_acc_fps_peacoat/trd_acc_fps_peacoat_var2_nm"/>
+        <diffuse_texture file="units/more_variants/characters/trd_acc_peacoat/trd_acc_fps_peacoat/trd_acc_fps_peacoat_lumberyellow_df"/>
+        <material_texture file="units/more_variants/characters/trd_acc_peacoat/trd_acc_fps_peacoat/trd_acc_fps_peacoat_gsma"/>
+    </material>
+</materials>

@@ -1,0 +1,15 @@
+<materials version="3" group="bex_acc_mariachi">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mtr_body" version="2">
+        <bump_normal_texture file="units/more_variants/characters/bex_acc_mariachi/shared_textures/bex_acc_mariachi_plain_nm"/>
+        <diffuse_texture file="units/more_variants/characters/bex_acc_mariachi/shared_textures/bex_acc_mariachi_plainblack_df"/>
+        <material_texture file="units/more_variants/characters/bex_acc_mariachi/shared_textures/bex_acc_mariachi_gsma"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mtr_gloves" version="2">
+        <bump_normal_texture file="units/pd2_dlc_trd/characters/shared_textures/wrinkled_plastic_gloves_nm"/>
+        <diffuse_texture file="units/pd2_dlc_trd/characters/shared_textures/wrinkled_plastic_gloves_white_df"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+</materials>

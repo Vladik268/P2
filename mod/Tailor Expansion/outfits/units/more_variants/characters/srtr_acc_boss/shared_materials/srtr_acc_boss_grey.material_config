@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<materials version="3">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:GLOBAL_ENVIRONMENT_MAPPING:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" name="mtr_body" version="2">
+        <bump_normal_texture file="units/pd2_dlc_srtr/characters/srtr_acc_boss/shared_textures/srtr_acc_boss_default_nm"/>
+        <diffuse_texture file="units/more_variants/characters/srtr_acc_boss/shared_textures/srtr_acc_boss_grey_df"/>
+        <material file="units/pd2_dlc_srtr/characters/srtr_acc_boss/shared_textures/srtr_acc_boss_default_gsma"/>
+        <variable type="vector3" name="contour_color" value="1 1 1"/>
+        <variable type="scalar" name="contour_opacity" value="0"/>
+    </material>
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT"/>
+</materials>
