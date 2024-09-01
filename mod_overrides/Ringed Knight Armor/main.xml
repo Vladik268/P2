@@ -1,0 +1,68 @@
+<table name="ringed_knight" image="guis/dlcs/wardrobe_mod/textures/pd2/blackmarket/icons/player_styles/ringed_knight">
+	<Localization directory="localization" default="english.txt"/>
+	<GlobalValue id="knight_g" color="Color(1, 0.2, 0.2)"/>
+	<PlayerStyle id="knight" unit="units/wardrobe_mod/armor_skins/knight_fps/knight_fps" third_unit="units/wardrobe_mod/armor_skins/knight/knight" default_gloves="false" exclude_glove_adapter="true" texture_bundle_folder="wardrobe_mod" global_value="knight_g">
+		<third_body_replacement	mask="false" head="false" armor="true" body="true" hands="true" vest="true" arms="true" glove_adapter="false"/>
+		<body_replacement		mask="true" head="false" armor="true" body="true" hands="true" vest="true" arms="true" glove_adapter="false"/>
+		<characters>
+			<bodhi		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<chains		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<dragon		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<joy		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<ecp_male	third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<max		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<wild		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<jacket		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<jowi		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<chico		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<jimmy		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<sokol		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<myh		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<sydney		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<ecp_female	third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<female_1	third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+			<bonnie		third_unit="units/wardrobe_mod/armor_skins/knight/knight"/>
+		</characters>
+	</PlayerStyle>
+	
+	<PlayerStyleVariant id="ringed_green" player_style_id="knight" texture_bundle_folder="mods" global_value="knight_g" third_material="units/wardrobe_mod/armor_skins/knight/knight_G" material="units/wardrobe_mod/armor_skins/knight_fps/knight_fps_G" >
+	</PlayerStyleVariant>
+	
+	<PlayerStyleVariant id="ringed_purple" player_style_id="knight" texture_bundle_folder="mods" global_value="knight_g" third_material="units/wardrobe_mod/armor_skins/knight/knight_P" material="units/wardrobe_mod/armor_skins/knight_fps/knight_fps_P" >
+	</PlayerStyleVariant>
+	
+	<PlayerStyleVariant id="ringed_blue" player_style_id="knight" texture_bundle_folder="mods" global_value="knight_g" third_material="units/wardrobe_mod/armor_skins/knight/knight_B" material="units/wardrobe_mod/armor_skins/knight_fps/knight_fps_B" >
+	</PlayerStyleVariant>
+
+    <AddFiles directory="assets">	
+	<texture path="guis/dlcs/wardrobe_mod/textures/pd2/blackmarket/icons/player_styles/knight"/>
+
+	<texture path="units/wardrobe_mod/armor_skins/knight/gauntlets_df"/>
+	<texture path="units/wardrobe_mod/armor_skins/knight/legs_df"/>
+	<texture path="units/wardrobe_mod/armor_skins/knight/under_armor_df"/>
+	<texture path="units/wardrobe_mod/armor_skins/knight/armor_df"/>
+	<texture path="units/wardrobe_mod/armor_skins/knight/armor_il"/>
+	<texture path="units/wardrobe_mod/armor_skins/knight/armor_trans_df"/>
+	<texture path="units/wardrobe_mod/armor_skins/knight/armor_trans_op"/>
+	<unit_mat path="units/wardrobe_mod/armor_skins/knight/knight"/>
+	<unit_mat path="units/wardrobe_mod/armor_skins/knight_fps/knight_fps"/>
+	
+	<material_config path="units/wardrobe_mod/armor_skins/knight/knight_G"/>
+	<material_config path="units/wardrobe_mod/armor_skins/knight_fps/knight_fps_G"/>
+	<texture path="units/wardrobe_mod/armor_skins/knight/armor_il_G"/>
+	
+	<material_config path="units/wardrobe_mod/armor_skins/knight/knight_P"/>
+	<material_config path="units/wardrobe_mod/armor_skins/knight_fps/knight_fps_P"/>
+	<texture path="units/wardrobe_mod/armor_skins/knight/armor_il_P"/>
+	
+	<material_config path="units/wardrobe_mod/armor_skins/knight/knight_B"/>
+	<material_config path="units/wardrobe_mod/armor_skins/knight_fps/knight_fps_B"/>
+	<texture path="units/wardrobe_mod/armor_skins/knight/armor_il_B"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/player_styles/knight_ringed_purple"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/player_styles/knight_ringed_blue"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/player_styles/knight_ringed_green"/>
+	<texture path="guis/dlcs/wardrobe_mod/textures/pd2/blackmarket/icons/player_styles/knight_default"/>
+	
+</AddFiles>
+</table>

@@ -1,0 +1,11 @@
+{
+	"menu_l_global_value_titanfall2" : "",
+
+	"bm_menu_bonus_extended_ammo_desc" : "Increased ammo capacity.",
+	"bm_menu_bonus_pas_fast_ads_desc" : "Fast transition into aiming down the sights.",
+	"bm_menu_bonus_pas_fast_reload_desc" : "Faster reload.",
+	"bm_menu_bonus_pas_fast_swap_desc" : "Faster transition when switching to this weapon.",
+	"bm_menu_bonus_ricochet_desc" : "Bullets bounce off of surfaces.",
+	"bm_menu_bonus_tactikill_desc" : "Enemy kills increase Throwable availability (Faster cooldown, Kill count reward).",
+	"bm_menu_bonus_gunrunner_desc" : "Shoot while sprinting."
+}

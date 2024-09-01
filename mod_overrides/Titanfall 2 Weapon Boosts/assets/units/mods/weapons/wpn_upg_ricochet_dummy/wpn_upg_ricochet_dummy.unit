@@ -1,0 +1,11 @@
+<unit type="wpn" slot="1" >
+    <object file="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+
+    <dependencies>
+		<depends_on effect="effects/titanfall2/particles/weapons/ricochet_trail"/>
+	</dependencies>
+
+    <extensions>
+        <extension name="unit_data" class="ScriptUnitData" />
+    </extensions>
+</unit>

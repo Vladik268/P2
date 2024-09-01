@@ -1,0 +1,54 @@
+<table name="Jack Cooper Character Mod" color="Color(0, 113, 177)">
+ 
+	<AssetUpdates id="" version="1.0" provider="modworkshop"/>
+
+	<Localization directory="localization" default="english.txt"/>
+	
+	<GlobalValue id="jack" color="Color(0, 113, 177)"/>
+
+	<PlayerStyle id="jack" unit="units/wardrobe_mod/armor_skins/jack_fps/jack_fps" third_unit="units/wardrobe_mod/armor_skins/jack/jack" default_gloves="heist_default" exclude_glove_adapter="true" texture_bundle_folder="wardrobe_mod" global_value="jack">
+		<third_body_replacement mask="true"	head="true" armor="false" body="true" hands="true" arms="true" vest="true" glove_adapter="false"/>
+		<body_replacement		mask="true" head="true" armor="false" body="true" hands="true" arms="true" vest="true" glove_adapter="false"/>
+		<characters>
+			<bodhi		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<chains		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<dragon		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<joy		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<ecp_male	third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<max		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<wild		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<jacket		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<jowi		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<chico		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<jimmy		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<sokol		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<myh		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<sydney		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<ecp_female	third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<female_1	third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+			<bonnie		third_unit="units/wardrobe_mod/armor_skins/jack/jack"/>
+		</characters>
+	</PlayerStyle>
+
+    <AddFiles directory="assets">
+	<texture path="guis/dlcs/wardrobe_mod/textures/pd2/blackmarket/icons/player_styles/jack"/>
+	
+	<df_nm_gsma path="units/wardrobe_mod/armor_skins/textures/body1"/>
+	<df_nm_gsma path="units/wardrobe_mod/armor_skins/textures/decal"/>
+	<df_nm_gsma path="units/wardrobe_mod/armor_skins/textures/fur"/>
+	<df_nm_gsma path="units/wardrobe_mod/armor_skins/textures/gear"/>
+	<df_nm_gsma path="units/wardrobe_mod/armor_skins/textures/helmet"/>
+	<df_nm_gsma path="units/wardrobe_mod/armor_skins/textures/extra"/>
+	<df_nm_gsma path="units/wardrobe_mod/armor_skins/textures/forearm"/>
+	
+	<texture path="units/wardrobe_mod/armor_skins/textures/gear_il"/>
+	<texture path="units/wardrobe_mod/armor_skins/textures/extra_il"/>
+	<texture path="units/wardrobe_mod/armor_skins/textures/helmet_il"/>
+	
+	<texture path="units/wardrobe_mod/armor_skins/textures/decal_op"/>
+	<texture path="units/wardrobe_mod/armor_skins/textures/fur_op"/>
+	
+	<unit_mat path="units/wardrobe_mod/armor_skins/jack/jack"/>
+	<unit_mat path="units/wardrobe_mod/armor_skins/jack_fps/jack_fps"/>
+</AddFiles>
+</table>				

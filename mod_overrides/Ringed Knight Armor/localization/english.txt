@@ -1,0 +1,15 @@
+{
+"bm_suit_knight" : "Ringed Knight"
+"menu_l_global_value_knight_g" : "this is a ringed city dlc item"
+"bm_suit_knight_desc" : "Malformed black armor of the Ringed Knights. The armor of early men was forged in the Abyss, and betrays a smidgen of life.\nFor this reason the gods cast a seal of fire upon such armor, and those who possessed them. "
+
+"bm_suit_var_knight_ringed_purple" : "Purple"
+"bm_suit_var_knight_ringed_green" : "Green"
+"bm_suit_var_knight_ringed_blue" : "Blue"
+"bm_suit_var_knight_default" : "Default"
+
+"bm_suit_var_knight_ringed_purple_desc" : ""
+"bm_suit_var_knight_ringed_green_desc" : ""
+"bm_suit_var_knight_ringed_blue_desc" : ""
+"bm_suit_var_knight_default_desc" : ""
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<materials group="clown" version="3">
+    <material name="gauntlets" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" version="2">
+        <diffuse_texture file="units/wardrobe_mod/armor_skins/knight/gauntlets_df"/>
+        <bump_normal_texture file="units/dev_tools/tangent_test/blank_nm"/>
+
+    </material>
+    <material name="legs" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" version="2">
+        <diffuse_texture file="units/wardrobe_mod/armor_skins/knight/legs_df"/>
+        <bump_normal_texture file="units/dev_tools/tangent_test/blank_nm"/>
+
+    </material>
+    <material name="under_armor" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" unique="true" version="2">
+        <diffuse_texture file="units/wardrobe_mod/armor_skins/knight/under_armor_df"/>
+        <bump_normal_texture file="units/dev_tools/tangent_test/blank_nm"/>
+
+    </material>
+    <material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM:SKINNED_3WEIGHTS" name="armor" version="2">
+        <variable type="scalar" name="il_multiplier" value="reddot"/>
+        <self_illumination_texture    file="units/wardrobe_mod/armor_skins/knight/armor_il"/>
+        <variable type="scalar" name="il_bloom" value="1"/>
+        <diffuse_texture file="units/wardrobe_mod/armor_skins/knight/armor_df"/>
+        <bump_normal_texture file="units/dev_tools/tangent_test/blank_nm"/>
+
+    </material>
+	<material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM:SKINNED_3WEIGHTS" name="armor_trans" version="2">
+        <variable type="scalar" name="il_multiplier" value="reddot"/>
+        <self_illumination_texture    file="units/wardrobe_mod/armor_skins/knight/armor_il"/>
+        <variable type="scalar" name="il_bloom" value="1"/>
+        <diffuse_texture file="units/wardrobe_mod/armor_skins/knight/armor_df"/>
+        <bump_normal_texture file="units/dev_tools/tangent_test/blank_nm"/>
+
+    </material>
+    
+
+</material>

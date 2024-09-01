@@ -1,0 +1,30 @@
+<mod name="Titanfall 2 Weapon Boosts" color="Color(0.643137255, 0.882352941, 0.952941176)">
+	<Localization directory="localization" default="english.json"/>
+	<AssetUpdates id="37813" version="2.0.0" provider="modworkshop"/>
+
+	<GlobalValue id="titanfall2" color="Color(0.643137255, 0.882352941, 0.952941176)" overwrite="true"/>
+
+	<AddFiles directory="assets">
+		<texture path="guis/textures/pd2/blackmarket/inv_mod_bonus_ammo_ricochet"/>
+
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_extended_ammo"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_pas_fast_ads"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_pas_fast_reload"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_pas_fast_swap"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_ricochet"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_tactikill"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_gunrunner"/>
+
+		<unit path="units/mods/weapons/wpn_upg_ricochet_dummy/wpn_upg_ricochet_dummy"/>
+		<effect path="effects/titanfall2/particles/weapons/ricochet_trail"/>
+	</AddFiles>
+
+	<Hooks directory="hooks">
+		<hook file="inventorydescription.lua"   source_file="lib/utils/inventorydescription"/>
+		<hook file="newraycastweaponbase.lua"   source_file="lib/units/weapons/newraycastweaponbase"/>
+		<hook file="playerstandard.lua"         source_file="lib/units/beings/player/states/playerstandard"/>
+		<hook file="playermanager.lua"          source_file="lib/managers/playermanager"/>
+		<hook file="weaponfactorymanager.lua"   source_file="lib/managers/weaponfactorymanager"/>
+		<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
+	</Hooks>
+</mod>

@@ -1,0 +1,4 @@
+{
+	"bm_gloves_witch_king": "Witch King Gloves",
+	"bm_gloves_witch_king_desc" : ""
+}

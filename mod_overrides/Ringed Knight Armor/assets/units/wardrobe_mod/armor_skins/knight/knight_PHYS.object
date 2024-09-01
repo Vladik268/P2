@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/wardrobe_mod/armor_skins/knight/knight" orientation_object="root_point" />
+	
+	<bodies>
+		
+		<body name="rag_cape_m1" enabled="true" template="small_prop" collision_class="hair" collision_group="1" collides_with="0" collides_with_mover="false"  friction="0.21"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="10.2" ang_damping="20" restitution="10">
+			<object name="cape_m1" />
+			<object collision_type="box" mass="1" padding="-2.5" name="c_cape_m1"/>
+		</body>
+		<body name="rag_cape_m2" enabled="true" template="small_prop" collision_class="hair" collision_group="1" collides_with="0" collides_with_mover="false"  friction="0.21"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="10.2" ang_damping="20" restitution="10">
+			<object name="cape_m2" />
+			<object collision_type="box" mass="1" padding="-2.5" name="c_cape_m2"/>
+		</body>
+		
+		
+		<body name="rag_waist_back_1" enabled="true" template="small_prop" collision_class="hair" collision_group="1" collides_with="3" collides_with_mover="false"  friction="0.21"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="10.2" ang_damping="12" restitution="10">
+			<object name="back_waist_1" />
+			<object collision_type="box" mass="3" padding="-2.5" name="c_waist_back_1"/>
+		</body>
+		<body name="rag_waist_R1" enabled="true" template="small_prop" collision_class="hair" collision_group="1" collides_with="3" collides_with_mover="false"  friction="0.21"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="10.2" ang_damping="12" restitution="10">
+			<object name="waist_R1" />
+			<object collision_type="box" mass="3" padding="-2.5" name="c_waist_R1"/>
+		</body>
+		<body name="rag_waist_L1" enabled="true" template="small_prop" collision_class="hair" collision_group="1" collides_with="3" collides_with_mover="false"  friction="0.21"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="10.2" ang_damping="12" restitution="10">
+			<object name="waist_L1" />
+			<object collision_type="box" mass="3" padding="-2.5" name="c_waist_L1"/>
+		</body>
+		<body name="rag_waist_front_1" enabled="true" template="small_prop" collision_class="hair" collision_group="1" collides_with="3" collides_with_mover="false"  friction="0.21"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="10.2" ang_damping="12" restitution="10">
+			<object name="front_waist_1" />
+			<object collision_type="box" mass="3" padding="-2.5" name="c_waist_front_1"/>
+		</body>
+		
+		
+		<body name="chest_phys" enabled="true" template="static" collision_class="hair" collision_group="2" collides_with="0" collides_with_mover="false" friction="0.01"  keyframed="true" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="0" ang_damping="1" restitution="0">
+			<object name="Spine2" />
+			<object collision_type="box" mass="5" padding="-2.5" name="c_capsule_body" />
+		</body>
+		<body name="right_upleg_phys" enabled="true" template="static" collision_class="hair" collision_group="3" collides_with="0" collides_with_mover="false" friction="0.01"  keyframed="true" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="0" ang_damping="1" restitution="0">
+			<object name="RightUpLeg" />
+			<object collision_type="capsule" mass="5" padding="-42.5" name="c_capsule_RightUpLeg" />
+		</body>
+		<body name="left_upleg_phys" enabled="true" template="static" collision_class="hair" collision_group="3" collides_with="0" collides_with_mover="false" friction="0.01"  keyframed="true" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="0" ang_damping="1" restitution="0">
+			<object name="LeftUpLeg" />
+			<object collision_type="capsule" mass="5" padding="-42.5" name="c_capsule_LeftUpLeg" />
+		</body>
+		<body name="cube_anchor" enabled="true" template="static" collision_class="hair" collision_group="2" collides_with="3" collides_with_mover="false" friction="0.01"  keyframed="true" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="0" ang_damping="1" restitution="0">
+			<object name="Hips" />
+			<object collision_type="box" mass="5" padding="-12.5" name="anchor" />
+		</body>
+		
+	</bodies>
+	
+	
+	<constraints>
+		
+		<constraint type="ragdoll" name="cloth_cape_m1" enabled="true">
+			<param body_a="chest_phys" body_b="rag_cape_m1"/>
+			<param pivot="position:cape_m1"/>
+ 			<param twist_axis="xaxis:cape_m1" twist_min="-3" twist_max="3" twist_freedom="3"/>
+			<param cone_y="5" cone_z="1" cone_freedom="1"/>
+			<param damping="100" spring_constant="100" min_restitution="0.2" max_restitution="0.2"/>
+		</constraint>
+		<constraint type="ragdoll" name="cloth_cape_m2" enabled="true">
+			<param body_a="rag_cape_m1" body_b="rag_cape_m2"/>
+			<param pivot="position:cape_m2"/>
+ 			<param twist_axis="xaxis:cape_m2" twist_min="-10" twist_max="10" twist_freedom="10"/>
+			<param cone_y="5" cone_z="1" cone_freedom="1"/>
+			<param damping="100" spring_constant="100" min_restitution="0.2" max_restitution="0.0"/>
+		</constraint>
+		<constraint type="ragdoll" name="cloth_back_waist_1" enabled="true">
+			<param body_a="cube_anchor" body_b="rag_waist_back_1"/>
+			<param pivot="position:back_waist_1"/>
+ 			<param twist_axis="xaxis:back_waist_1" twist_min="-10" twist_max="10" twist_freedom="0"/>
+			<param cone_y="5" cone_z="15" cone_freedom="15"/>
+			<param damping="1" spring_constant="100" min_restitution="0.2" max_restitution="0.2"/>
+		</constraint>
+		<constraint type="ragdoll" name="cloth_waist_R1" enabled="true">
+			<param body_a="cube_anchor" body_b="rag_waist_R1"/>
+			<param pivot="position:waist_R1"/>
+ 			<param twist_axis="xaxis:waist_R1" twist_min="-10" twist_max="10" twist_freedom="0"/>
+			<param cone_y="5" cone_z="15" cone_freedom="15"/>
+			<param damping="1" spring_constant="100" min_restitution="0.2" max_restitution="0.2"/>
+		</constraint>
+		<constraint type="ragdoll" name="cloth_waist_L1" enabled="true">
+			<param body_a="cube_anchor" body_b="rag_waist_L1"/>
+			<param pivot="position:waist_L1"/>
+ 			<param twist_axis="xaxis:waist_L1" twist_min="-10" twist_max="10" twist_freedom="0"/>
+			<param cone_y="5" cone_z="15" cone_freedom="15"/>
+			<param damping="1" spring_constant="100" min_restitution="0.2" max_restitution="0.2"/>
+		</constraint>
+		<constraint type="ragdoll" name="cloth_front_waist_1" enabled="true">
+			<param body_a="rag_waist_L1" body_b="rag_waist_front_1"/>
+			<param pivot="position:front_waist_1"/>
+ 			<param twist_axis="xaxis:front_waist_1" twist_min="-10" twist_max="10" twist_freedom="0"/>
+			<param cone_y="5" cone_z="15" cone_freedom="15"/>
+			<param damping="1" spring_constant="100" min_restitution="0.2" max_restitution="0.2"/>
+		</constraint>
+	</constraints>
+	
+	
+	<graphics>
+		<graphic_group name="character" enabled="true" culling_object="co_box">
+    			<object name="knight" enabled="true"/>
+				<object name="floper" enabled="true"/>
+				<object name="cape" enabled="true"/>
+				<object name="waistcloth" enabled="true"/>
+				<object name="waistcloth_over" enabled="true"/>
+				<object name="c_waist_back_1" enabled="false"/>
+				<object name="c_waist_front_1" enabled="false"/>
+				<object name="c_capsule_LeftUpLeg" enabled="true"/>
+				<object name="c_capsule_RightUpLeg" enabled="true"/>
+				<object name="c_capsule_body" enabled="false"/>
+				<object name="c_waist_R1" enabled="false"/>
+				<object name="c_waist_L1" enabled="false"/>
+
+		</graphic_group>
+	</graphics>
+
+</dynamic_object>

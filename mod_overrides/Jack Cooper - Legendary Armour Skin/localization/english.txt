@@ -1,0 +1,5 @@
+{
+"bm_suit_jack" : "Jack Cooper"
+"menu_l_global_value_jack" : "This Is A Titanfall Character!"
+"bm_suit_jack_desc" : "Just doing my job."
+}

@@ -1,0 +1,18 @@
+<materials version="3">
+
+	 <material name="mtr_revenant_heirloom" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION" version="2"> 
+        <diffuse_texture file="units/mods/weapons/wpn_fps_mel_revenant_heirloom/wpn_fps_mel_revenant_heirloom_df"/>
+        <bump_normal_texture file="units/mods/weapons/wpn_fps_mel_revenant_heirloom/wpn_fps_mel_revenant_heirloom_nm"/>
+		<self_illumination_texture    file="units/mods/weapons/wpn_fps_mel_revenant_heirloom/wpn_fps_mel_revenant_heirloom_il"/> 
+		
+		<variable type="scalar" name="il_bloom" value="6.0070002853172"/>
+        <variable type="scalar" name="il_multiplier" value="match"/>
+    </material>
+	
+</materials>
+
+<!--
+you only need to change the following:
+diffuse_texture (3rd line)
+bump_normal_texture file (4th line)
+-->

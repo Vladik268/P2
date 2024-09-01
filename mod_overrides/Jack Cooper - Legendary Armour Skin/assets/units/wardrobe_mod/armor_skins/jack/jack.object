@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/wardrobe_mod/armor_skins/jack/jack" orientation_object="root_point" />
+	<graphics>
+		<graphic_group name="character" enabled="true" culling_object="co_box">
+			<object enabled="true" name="g_body" shadow_caster="true"/>
+			<object enabled="true" name="g_body_lod1" shadow_caster="true"/>
+			<object enabled="true" name="g_head" shadow_caster="true"/>
+			<object enabled="true" name="g_head_lod1" shadow_caster="true"/>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

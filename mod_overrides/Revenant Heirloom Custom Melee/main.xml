@@ -1,0 +1,50 @@
+<mod name="Revenant Heirloom" author="PlayBONK, Ommfe and Masavik" min_lib_ver="3.38">
+
+    <AssetUpdates id="40577" version="1.13" provider="modworkshop"/>
+    <!--
+        Adds auto update to your mod.
+        id is the ID of your mod found here: http://modwork.shop/14924 our ID is 14924.
+        version is the version of your mod and it must be the same as the site's version. MWS updates don't care about numbers.
+        Read more about the module > https://github.com/simon-wh/PAYDAY-2-BeardLib/wiki/ModAssetModule
+    -->
+    <Localization directory="loc" default="english.txt">
+        <loc file="english.txt" language="english"/>
+    </Localization>
+    <!-- For adding more languages, read > https://github.com/simon-wh/PAYDAY-2-BeardLib/wiki/LocalizationModule -->
+
+    <Melee id="revenant_heirloom" based_on="iceaxe" global_value="revenant_heirloom" unit="units/mods/weapons/wpn_fps_mel_revenant_heirloom/wpn_fps_mel_revenant_heirloom" 
+	anim_global_param="revenant_heirloom">
+	
+		<anim_attack_vars>
+			<value_node value="var1"/>
+			<value_node value="var2"/>
+			<value_node value="var3"/>
+			<value_node value="var4"/>
+		</anim_attack_vars>
+		
+		<sounds equip ="drawinit" hit_air = "hit1"/>
+	</Melee>
+    
+    <AddFiles directory="assets">
+        <unit_mat path="units/mods/weapons/wpn_fps_mel_revenant_heirloom/wpn_fps_mel_revenant_heirloom"/>
+        <dds path="units/mods/weapons/wpn_fps_mel_revenant_heirloom/wpn_fps_mel_revenant_heirloom_df"/>
+        <dds path="units/mods/weapons/wpn_fps_mel_revenant_heirloom/wpn_fps_mel_revenant_heirloom_nm"/>
+        <dds path="units/mods/weapons/wpn_fps_mel_revenant_heirloom/wpn_fps_mel_revenant_heirloom_il"/>
+        <dds path="guis/dlcs/mods/textures/pd2/blackmarket/icons/melee_weapons/revenant_heirloom"/>
+		
+		<animation path="anims/fps/melee/revenant_heirloom/revenant_heirloom_start"/>
+        <animation path="anims/fps/melee/revenant_heirloom/revenant_heirloom_charge"/>
+        <animation path="anims/fps/melee/revenant_heirloom/revenant_heirloom_attack_var1"/>
+        <animation path="anims/fps/melee/revenant_heirloom/revenant_heirloom_attack_var2"/>
+        <animation path="anims/fps/melee/revenant_heirloom/revenant_heirloom_attack_var3"/>
+        <animation path="anims/fps/melee/revenant_heirloom/revenant_heirloom_attack_var4"/>
+    </AddFiles>
+	
+	
+	<Sounds directory="assets\sounds">
+		<sound id="drawgrab" path="drawgrab.ogg" prefix="first"/>
+		<sound id="drawinit" path="drawinit.ogg" prefix="first"/>
+		<sound id="hit1" path="hit1.ogg" prefix="first"/>
+	</Sounds>
+
+</mod>

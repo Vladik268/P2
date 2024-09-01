@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<unit slot="1" type="jack_fps">
+	<object file="units/wardrobe_mod/armor_skins/jack_fps/jack_fps" />
+	<extensions>
+		<extension class="ScriptUnitData" name="unit_data"/>
+	</extensions>
+</unit>

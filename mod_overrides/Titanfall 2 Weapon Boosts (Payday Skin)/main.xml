@@ -1,0 +1,16 @@
+<mod name="Titanfall 2 Weapon Boosts (Payday Skin)" color="Color(0.643137255, 0.882352941, 0.952941176)" priority="0">
+	<Localization directory="localization" default="english.json"/>
+	<AssetUpdates id="37835" version="2.0.0" provider="modworkshop"/>
+
+	<AddFiles directory="assets">
+		<texture path="guis/textures/pd2/blackmarket/inv_mod_bonus_ammo_ricochet" force="true"/>
+
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_extended_ammo" force="true"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_pas_fast_ads" force="true"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_pas_fast_reload" force="true"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_pas_fast_swap" force="true"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_ricochet" force="true"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_tactikill" force="true"/>
+		<texture path="guis/dlcs/titanfall2/textures/pd2/blackmarket/icons/mods/wpn_fps_upg_bonus_gunrunner" force="true"/>
+	</AddFiles>
+</mod>

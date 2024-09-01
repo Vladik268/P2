@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/wardrobe_mod/armor_skins/knight/knight" orientation_object="root_point" />
+	
+	<bodies>
+	
+	<body name="rag_cloth_01" enabled="true" template="small_prop" friction="0.01" sweep="true" collision_class="hair" keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="block" lin_damping="0.6" ang_damping="20" collides_with="0" tag="flesh" restitution="0">
+			<object name="cape_1" />
+			<object collision_type="box" mass="1" padding="-2.5" name="c_box_01"/>
+		</body>
+		
+	<body name="rag_cape_1_phys" enabled="true" template="static" collision_class="hair" collision_group="2" collides_with="3" collides_with_mover="false" friction="0.01"  keyframed="true" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="0" ang_damping="1" restitution="0">
+			<object name="LeftShoulder" />
+			<object collision_type="capsule" mass="22" padding="-4" name="c_capsule_cape_1" />
+		</body>
+		
+		<body name="rag_cloth_02" enabled="true" template="small_prop" friction="0.01" sweep="true" collision_class="hair" keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="block" lin_damping="0.6" ang_damping="20" collides_with="0" tag="flesh" restitution="0">
+			<object name="cape_2" />
+			<object collision_type="box" mass="1" padding="-2.5" name="c_box_01"/>
+		</body>
+		
+	<body name="rag_cape_2_phys" enabled="true" template="static" collision_class="hair" collision_group="2" collides_with="3" collides_with_mover="false" friction="0.01"  keyframed="true" collision_script_quiet_time="0.5" collision_script_tag="small" ray="ignore" lin_damping="0" ang_damping="1" restitution="0">
+			<object name="RightShoulder" />
+			<object collision_type="capsule" mass="22" padding="-4" name="c_capsule_cape_2" />
+		</body>
+	</bodies>
+
+	<graphics>
+		<graphic_group name="character" enabled="true" culling_object="co_box">
+    			<object name="knight" enabled="true"/>
+				<object name="c_box_01" enabled="true"/>
+				<object name="c_capsule_cape_1" enabled="true"/>
+
+		</graphic_group>
+	</graphics>
+	
+	<constraints>
+	<constraint type="ragdoll" name="cloth_constraint_01" enabled="true">
+			<param body_a="rag_cape_1_phys" body_b="rag_cloth_01"/>
+			<param pivot="position:cape_1"/>
+ 			<param twist_axis="xaxis:cape_1" twist_min="-1" twist_max="1" twist_freedom="1"/>
+			<param cone_y="5" cone_z="15" cone_freedom="0"/>
+			<param damping="10" spring_constant="0" min_restitution="0.2" max_restitution="0.2"/>
+		</constraint>
+		
+		<constraint type="ragdoll" name="cloth_constraint_02" enabled="true">
+			<param body_a="rag_cape_2_phys" body_b="rag_cloth_02"/>
+			<param pivot="position:cape_2"/>
+ 			<param twist_axis="xaxis:cape_2" twist_min="-1" twist_max="1" twist_freedom="1"/>
+			<param cone_y="5" cone_z="15" cone_freedom="15"/>
+			<param damping="100" spring_constant="10" min_restitution="0.2" max_restitution="0.2"/>
+		</constraint>
+	</constraints>
+
+</dynamic_object>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<unit slot="1" type="jack">
+	<object file="units/wardrobe_mod/armor_skins/jack/jack" />
+	<extensions>
+		<extension class="ScriptUnitData" name="unit_data"/>
+		<extension class="ContourExt" name="contour"/>
+	</extensions>
+</unit>

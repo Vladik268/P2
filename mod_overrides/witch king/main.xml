@@ -1,0 +1,26 @@
+<table name="witch king" image="guis/dlcs/mods/textures/pd2/blackmarket/icons/gloves/witch_king">
+	<Localization directory="localization" default="english.txt"/>
+
+	<!-- Compared to LAS all the data is inverted to the original "fps_" setup, now it's "_third" for third person and nothing for first person. -->
+
+	<!-- Gloves don't actually have different units for first and third person, they just use the same unit but with a new material config that gets swapped in for third person. -->
+	<Gloves id="witch_king" unit="units/witch_king/gloves/witch_king/witch_king" third_material="units/witch_king/gloves/witch_king/witch_king_third">
+	
+	</Gloves>
+
+	<AddFiles directory="assets">
+		<!-- Icon -->
+
+		<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/gloves/witch_king"/>
+
+		<!-- Textures -->
+		
+		<df_nm path="units/witch_king/gloves/witch_king/witch_king"/>
+
+		<!-- Materials -->
+		
+		<unit_mat path="units/witch_king/gloves/witch_king/witch_king"/>
+		<material_config path="units/witch_king/gloves/witch_king/witch_king_third"/>
+
+	</AddFiles>
+</table>

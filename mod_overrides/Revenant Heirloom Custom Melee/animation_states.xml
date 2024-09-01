@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<tweaks>
+	<tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+        <search>
+            <xml/>
+            <state name="fps/melee_start"/>
+            <anim name="melee_start" weight="melee_knife"/>
+        </search>
+        <target mode="append">
+            <anim name="revenant_heirloom_start" weight="revenant_heirloom"/> 
+			
+			<keys>
+				<key at="trigger" trigger="drawgrab" callback="play_sound" class_name="base" param1="drawgrab"/>
+			</keys> 
+			
+        </target>
+    </tweak>
+    
+    <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+        <search>
+            <xml/>
+            <state name="fps/melee_charge"/>
+            <anim name="melee_charge_var2" weight="melee_knife * charge_lerp"/>
+        </search>
+        <target mode="append">
+            <anim name="revenant_heirloom_charge"                 weight="revenant_heirloom * (1-charge_lerp)"/>
+            <anim name="revenant_heirloom_charge_var2"             weight="revenant_heirloom * charge_lerp"/>
+        </target>
+    </tweak>
+    
+    <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+        <search>
+            <xml/>
+            <state name="fps/melee_attack"/>
+            <anim name="melee_attack_var3" weight="melee_knife * var3"/>
+        </search>
+        <target mode="append">
+            <anim name="revenant_heirloom_attack_var1"             weight="revenant_heirloom * var1"/>  
+
+        </target>
+    </tweak>
+	
+	
+    <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+        <search>
+            <xml/>
+            <state name="fps/melee_attack"/>
+            <anim name="melee_attack_var3" weight="melee_knife * var3"/>
+        </search>
+        <target mode="append">
+            <anim name="revenant_heirloom_attack_var2"             weight="revenant_heirloom * var2"/>  
+			
+        </target>
+    </tweak>
+	
+	
+    <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+        <search>
+            <xml/>
+            <state name="fps/melee_attack"/>
+            <anim name="melee_attack_var3" weight="melee_knife * var3"/>
+        </search>
+        <target mode="append">
+            <anim name="revenant_heirloom_attack_var3"             weight="revenant_heirloom * var3"/>  
+			
+        </target>
+    </tweak>
+	
+    <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+        <search>
+            <xml/>
+            <state name="fps/melee_attack"/>
+            <anim name="melee_attack_var3" weight="melee_knife * var3"/>
+        </search>
+        <target mode="append">
+            <anim name="revenant_heirloom_attack_var4"             weight="revenant_heirloom * var4"/>  
+			
+        </target>
+    </tweak>
+</tweaks>
