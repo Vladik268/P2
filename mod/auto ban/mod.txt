@@ -1,0 +1,10 @@
+{
+    "name": "Auto ban host on kick reborn",
+    "description": "",
+    "author": "Playhouse/Mayzone#2647",
+    "version": "1",
+    "color": "1 1 1",
+    "hooks": [
+		{"hook_id": "lib/network/base/handlers/connectionnetworkhandler", "script_path": "kick.lua"}
+    ]
+}

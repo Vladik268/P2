@@ -1,0 +1,20 @@
+Pack Description
+Retextures of assorted items in Hoxton Breakout:
+The Director's screen, the servers (shared with other maps), the huge screens in day 2, ticket dispenser, ticket booths.
+
+Updates
+07/13/16 Added a re-texture for the DNA scanner screen. Now it simple and clear to understand.
+
+Notes
+I am now using lzma2 compression in .7z files.
+
+How to Install
+Please use 7-zip or WinRAR to open the .7z file and place the folders in
+"C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assets\mod_overrides"
+
+License
+No duplication, modification, or redistribution, without crediting LemonCat.
+LemonCat http://steamcommunity.com/id/cajadehu/
+
+My Other Mods
+http://forums.lastbullet.net/mydownloads.php?action=mysubmissions&uid=3016

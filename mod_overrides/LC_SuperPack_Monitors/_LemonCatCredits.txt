@@ -1,0 +1,21 @@
+Pack Description
+A 2k re-texture of the "pear" computers and it's screen.
+Also changed the hacking message text so it is clearer.
+The Pear computer is most commonly seen in Big Bank.
+
+Updates
+An older version was included in my SuperPack so be sure to delete / override that if you use it.
+
+Notes
+I am now using lzma2 compression in .7z files.
+
+How to Install
+Please use 7-zip or WinRAR to open the .7z file and place the folders in
+"C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assets\mod_overrides"
+
+License
+No duplication, modification, or redistribution, without crediting LemonCat.
+LemonCat http://steamcommunity.com/id/cajadehu/
+
+My Other Mods
+http://forums.lastbullet.net/mydownloads.php?action=mysubmissions&uid=3016

@@ -1,0 +1,19 @@
+Pack Description
+High definition re-textures of the Meth lab equipment and chemicals.
+
+Updates
+07/15/16 Added the blue barrel, the solvent, and the metal tray the meth goes on.
+
+Notes
+I am now using lzma2 compression in .7z files.
+
+How to Install
+Please use 7-zip or WinRAR to open the .7z file, and place the folders in:
+C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assets\mod_overrides
+
+License
+No duplication, modification, or redistribution, without crediting Lemoncat.
+LemonCat http://steamcommunity.com/id/cajadehu/
+
+My Other Mods
+http://forums.lastbullet.net/mydownloads.php?action=mysubmissions&uid=3016

@@ -1,0 +1,18 @@
+Pack Description
+More realistic and newer statue busts for the First World Bank.
+
+Updates
+
+Notes
+I am now using lzma2 compression in .7z files.
+
+How to Install
+Please use 7-zip or WinRAR to open the .7z file, and place the folders in:
+C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assets\mod_overrides
+
+License
+No duplication, modification, or redistribution, without crediting LemonCat.
+LemonCat http://steamcommunity.com/id/cajadehu/
+
+My Other Mods
+http://forums.lastbullet.net/mydownloads.php?action=mysubmissions&uid=3016

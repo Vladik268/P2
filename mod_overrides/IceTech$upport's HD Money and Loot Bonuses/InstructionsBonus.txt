@@ -1,0 +1,39 @@
+IceTech$upport's HD Money and Loot Bonuses V1.4
+
+Put the "IceTech$upport's HD Money and Loot Bonuess" in the Mod Overrides Folder...Simple
+
+-----------------------------------------------------------------------------------------
+
+Bonus (Extra Stuff):
+-HD Gensecs Signs - The ones found in various heists including Bank Heist and Diamond Store. Check the images
+
+-HD Brochure Stand - The ones in Bank Heist
+
+-HD Ammo Boxes - I placed them in the Bonus Folder due to how they may severely impact your performance. By default, the texture is 2048x2048 pixels though i have included 1024x1024 and 512x512 versions.  
+	
+	*Go inside the units\pickups\ammo folder and choose which one you would like.
+
+-----------------------------------------------------------------------------------------
+
+If to want to delete any of these bonuses specifically
+
+-The Ammo Pickups are located at units\pickups\ammo
+-The Gensec Signs are located at units\payday2\props\bnk_prop_lobby_brochurestand_floor
+-The Brochure Stand is located at units\payday2\props\gen_prop_security_signs
+
+-----------------------------------------------------------------------------------------
+
+V1.4
+
+-New textures and models for the jewelry found in the Jewelry and Diamond Store Heists
+-New textures for the necklaces and busts in Diamond Heist
+-Replaced Vlad's Tiara with Vlad's Tiara in Ukrainian Job
+-Fixed the Normal Map for the Large Money Stacks in Birth of Sky.
+-New textures for the the the Keycards and Keys. This includes the normal Blue/Red Keycard as well as the special keycards
+found in the Golden Grin Casino, First World Bank, Beneath the Mountain, Boiling Point and Panic Room.
+-New textures for the "Bad Prints!!" sign in Counterfeit
+-New texture for Planks
+
+*New texture and model for the Ammo Pickup (Bonus)
+*New texture for the Brochure Stand and Gensecs ;) Signs found in Bank Heist (Bonus)
+

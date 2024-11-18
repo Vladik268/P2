@@ -1,0 +1,61 @@
+LemonCat ChangeLog
+01/09/16
+	Added:
+		LC_ExtrasPack_SafehouseRedux - blue vice texture.
+		LC_SuperPack_BankProps - signs, bollards, bill shelf, magazines, books, vault keys.
+		LC_SuperPack_ATMs8k - black ATM texture for First World Bank map.
+		LC_SuperPack_BigOilFusionReactors2k
+		LC_SuperPack_Chemicals 'cooker', 'blender', and 'table'.
+		LC_SuperPack_HotlineMiamiSecretHatchIceBox - secret hatch, ice box.
+		LC_SuperPack_HoxtonBreakoutExtras - orange ticket dispenser, ticket pay machine, big screen tvs, director screen, hi-vis blue server.
+		LC_SuperPack_ATMs2k (needed to save space in .7z).
+	Removed:
+		LC_SuperPack_Clues - old Fusion Reactor texture
+		LC_SuperPack_ATMs8k (needed to save space in .7z).
+		LC_SuperPack_BankPapers (merged into LC_SuperPack_BankProps)
+		LC_SuperPack_BankBonds  (merged into LC_SuperPack_BankProps)
+	Other:
+		Changed extension from .dds to .texture "\LC_SuperPack_Mailboxes\units\payday2\props\str_prop_street_usmailbox\str_prop_street_usmailbox_nm.texture"
+
+02/08/16
+	Added:
+		LC_AlternatesPack_MoneyHiVisAll ***CONFLICT A***
+		LC_ExtrasPack_SkiesMacro
+		LC_ExtrasPack_MicroUziGold ***CONFLICT B***
+		LC_ExtrasPack_MicroUziYellow ***CONFLICT B***
+		LC_ExtrasPack_CamsStatic
+		LC_ExtrasPack_FunShellsPew
+		LC_ExtrasPack_LootItems ***CONFLICT A***
+		LC_ExtrasPack_AmmoPickupsHiVisAll
+		LC_SuperPack_Servers (mostly for Hoxout Day 2, also does several others due to shared textures.)
+		LC_ExtrasPack_SafehouseRedux - numerous additions and changes to existing textures.
+
+02/14/16
+	Added:
+		LC_DiffMarkers_ALLx128 - HUD icons for difficulty level.
+		LC_ExtrasPack_DozersCamo - Bulldozer Enemy in Urban Digital Camo.
+		LC_ExtrasPack_LootbagCamo
+		LC_ExtrasPack_KatanaBlazBlue - Katana made to look similar ti the one from the video game BlazBlue.
+		LC_ExtrasPack_HeadShrinker_x32 - Drastically lowers resolution of civilian and shared faces.
+		LC_SuperPack_PigDark - Makes the pig skins in Slaughterhouse 80 percent darker.
+	Altered:
+		LC_ExtrasPack_BankManagersGreen - Minor changes to intensity of green.
+		LC_ExtrasPack_BobbleheadBob - Minor changes to pants pattern.
+		LC_ExtrasPack_ShieldsColored - Minor changes to blue color.
+		LC_ExtrasPack_SwatTurretsColored - Corrected colors to match turret health.
+		LC_SuperPack_SafesMetal4k - Corrections to appearance, especially 'emboss' effect.
+	Removed:
+		LC_ExtrasPack_BankManagersGreen - female bank manager green suit.
+
+07/15/16
+	Added:
+		LC_SuperPack_Chemicals - the blue barrel, the solvent, and the metal tray the meth goes on.
+		LC_SuperPack_HoxtonBreakoutExtras - re-texture for the DNA scanner screen. Now it simple and clear to understand.
+		LC_SuperPack_StatueBusts - More realistic and newer statue busts for the First World Bank.
+		LC_SuperPack_UTM - Re-textures of multiple Under The Mountain textures to make them prettier.
+		LC_SuperPack_Equipment - Retextures of the deployable C4 explosives, breaching charges (NOT trip mines), molotov, frag grenade, smoke grenade, "old" sentry gun display screens and unit, thermite paste, claymore mines.
+		LC_SuperPack_HoxtonBreakoutTruckArmorRusty - Increases the resolution of the Hoxton Breakout truck, it's armor, and the tarpaulin by a factor of two. Also repainted to look pretty.
+		LC_SuperPack_PoliceVehicle - A 4k re-texture of the police car (both Washington and NY version to NY version).
+	Altered:
+		LC_SuperPack_BankProps - re-worked the vault keys box to be blue instead of "identical to the wall" white.
+		LC_SuperPack_Monitors - A 2k re-texture of the "pear" computers and it's screen. Also changed the hacking message text so it is clearer. The Pear computer is most commonly seen in Big Bank.

@@ -1,0 +1,23 @@
+Pack Description
+A 4k re-texture of the police car (both Washington and NY version to NY version).
+
+Updates
+07/03/16 21:53 Fixed the orientation of the steering wheel writing. Darkened the interior fabric.
+07/04/16 10:14 Replaced the memey policeman logo with an offical style badge.
+               Replaced the steering wheel text (Kreig to Matador, the model of the car).
+			   Added the police slogan to the front wheel panel for authenticity.
+			   Added indicator dots to the speedometer and other dials.
+
+Notes
+I am now using lzma2 compression in .7z files.
+
+How to Install
+Please use 7-zip or WinRAR to open the .7z file and place the folders in
+"C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assets\mod_overrides"
+
+License
+No duplication, modification, or redistribution, without crediting LemonCat.
+LemonCat http://steamcommunity.com/id/cajadehu/
+
+My Other Mods
+http://forums.lastbullet.net/mydownloads.php?action=mysubmissions&uid=3016

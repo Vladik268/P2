@@ -1,0 +1,14 @@
+<materials version="3">
+    <material version="2" unique="true" render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE:DIFFUSE0_THRESHOLD_SWEEP" name="mtr_meth">
+        <diffuse_texture file="units/payday2/props/gen_prop_methlab_meth/meth_df"/>
+        <variable value="reddot" type="scalar" name="intensity"/>
+        <variable value="0.75 1 1" type="vector3" name="threshold_sweep_color_s"/>
+        <variable value="0 0.25 0.5" type="vector3" name="threshold_sweep_color_e"/>
+        <variable value="0.99900007247925" type="scalar" name="threshold_sweep_op_s"/>
+        <variable value="0.045000001788139" type="scalar" name="threshold_sweep_op_e"/>
+        <variable value="0.043999999761581" type="scalar" name="threshold_sweep_fuzziness_s"/>
+        <variable value="0.82100003957748" type="scalar" name="threshold_sweep_fuzziness_e"/>
+        <variable value="0.61500000953674" type="scalar" name="threshold_sweep_speed"/>
+        <variable value="1.1070001125336" type="scalar" name="threshold_sweep_time_exp"/>
+    </material>
+</materials>

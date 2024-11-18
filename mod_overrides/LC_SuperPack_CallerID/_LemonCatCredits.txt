@@ -1,0 +1,8 @@
+This mod or reskin was made by LemonCat.
+http://steamcommunity.com/id/cajadehu/
+
+Open the zip file, and place the folder in:
+"C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assets\mod_overrides"
+
+Free for all to change as they wish! Enjoy!
+(Please credit me though.)

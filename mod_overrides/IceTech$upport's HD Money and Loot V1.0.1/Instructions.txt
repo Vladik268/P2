@@ -1,0 +1,33 @@
+IceTech$upport's HD Money and Loot V1.0.1
+
+Put the "IceTech$upport's HD Money and Loot" in the Mod Overrides Folder...Simple
+
+-----------------------------------------------------------------------------------------
+
+Features:
+-HD Money
+-HD Bank Heist Loot and Junk
+
+----------------------------------------------------------------------------------------
+
+*Dallas Money Bundles:
+-If you want the money bundles to be like the melee weapon with Dallas on it, go to: 
+
+       units\world\props\bank\money_wrap\Dallas 
+
+and move the contents inside to: 
+
+        units\world\props\bank\money_wrap\
+
+-----------------------------------------------------------------------------------------
+
+V1.0 (05/21/17)
+
+-New textures for as much money as I can find. 
+-New textures for most of the loot available on Bank Heist (except Gold)
+-New models for the Money Bundle and Jewelry Pile
+
+V1.0.1 (01/20/18)
+
+-Fixed the broken model which were causing crashes in the Bank Heist and Diamond Store, which were:
+	-bnk_prop_vault_loot_value_d
